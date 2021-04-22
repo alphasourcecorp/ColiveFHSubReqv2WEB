@@ -1,0 +1,3395 @@
+
+{
+  "isSuccess": true,
+  "errorMessage": "",
+  "data": [
+    {
+      "id": "0001",
+      "categoryTitle": "BIRYANI",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/chettinad%20biriyani.jpg"
+          ],
+          "chefName": "RAVI'S TREATS",
+          "dishName": "CHETTINAD CHICKEN BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 150.00,
+          "dishDescription": "This wholesome dish contains 3 medium pcs of tender chicken, marinated in spices, cooked with seeraga samba aromatic rice in healthy sunflower oil & laced with ghee. This also includes 1 egg.",
+          "saleKgMg": "",
+          "calories": 139.00,
+          "protein": 21.54,
+          "fat": 13.31,
+          "carbs": 58.74,
+          "fiber": 3.05,
+          "sugar": 3.35,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/mutton-biryani.jpg"
+          ],
+          "chefName": "RAVI'S TREATS",
+          "dishName": "CHETTINAD MUTTON BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 250.00,
+          "dishDescription": "This biryani contains 3 medium pieces of tender mutton, marinated in spices, curd and cooked with seeraga samba rice in healthy sunflower oil & ghee. This also Includes 1 Egg.",
+          "saleKgMg": "",
+          "calories": 141.00,
+          "protein": 19.84,
+          "fat": 14.74,
+          "carbs": 60.60,
+          "fiber": 2.38,
+          "sugar": 2.45,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Egg%20Biryani.jpg"
+          ],
+          "chefName": "RAVI'S TREATS",
+          "dishName": "CHETTINAD EGG BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 100.00,
+          "dishDescription": "Biryani comprising of 2 boiled eggs with seeraga samba rice cooked to perfection with aromatic spices in healthy sunflower oil.",
+          "saleKgMg": "",
+          "calories": 205.00,
+          "protein": 14.72,
+          "fat": 29.83,
+          "carbs": 48.53,
+          "fiber": 6.15,
+          "sugar": 0.77,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "GANESH N",
+          "dishName": "HOSKOTE CHICKEN DUM BIRYANI WITH BOILED EGG",
+          "dishSubName": "",
+          "saleAmount": 149.00,
+          "dishDescription": "This biryani is prepared from Sonamosuri rice which is unpolished rice, hence higher fiber and nutrient content than ordinary dum biryani. Prepared with freshly ground spices, halal chicken, this biryani comes with an egg too!",
+          "saleKgMg": "",
+          "calories": 145.00,
+          "protein": 30.61,
+          "fat": 18.71,
+          "carbs": 34.86,
+          "fiber": 12.76,
+          "sugar": 3.06,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Talapakatti Chicken Dum Biryani with Boiled Egg.jpg"
+          ],
+          "chefName": "GANESH N",
+          "dishName": "TALPAKATTI DUM CHICKEN BIRYANI WITH BOILED EGG",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Thalappakatti Naatu Kozhi Biryani gets its taste from the aromatic jeera samba rice, chicken all blended in fresh masala powder.",
+          "saleKgMg": "",
+          "calories": 162.50,
+          "protein": 20.70,
+          "fat": 11.64,
+          "carbs": 50.58,
+          "fiber": 14.23,
+          "sugar": 2.85,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "006",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chicken Biryani.jpg"
+          ],
+          "chefName": "ARHAMFAHEEM & MAHESH KUMAR",
+          "dishName": "CHICKEN BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 250.00,
+          "dishDescription": "Biryani made with Zeera samba rice comprising of 2 pc chicken cooked in flavourful spices.",
+          "saleKgMg": "for 400 g",
+          "calories": 139.00,
+          "protein": 21.54,
+          "fat": 13.31,
+          "carbs": 58.74,
+          "fiber": 3.05,
+          "sugar": 3.35,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "007",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Mutton Biryani.jpg"
+          ],
+          "chefName": "ARHAMFAHEEM & MAHESH KUMAR",
+          "dishName": "MUTTON BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 350.00,
+          "dishDescription": "Biryani made with Zeera samba rice comprising of 4 pc chicken cooked in flavourful spices served with dalcha and raita.",
+          "saleKgMg": "for 400 g",
+          "calories": 141.00,
+          "protein": 19.84,
+          "fat": 14.74,
+          "carbs": 60.60,
+          "fiber": 2.38,
+          "sugar": 2.45,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "008",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Prawn Biryani.jpg"
+          ],
+          "chefName": "ARHAMFAHEEM & MAHESH KUMAR",
+          "dishName": "PRAWN BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 375.00,
+          "dishDescription": "Biryani made with Zeera samba rice comprising of 10-12 pc prawns cooked in flavourful spices served with dalcha and raita. This is low in fat and contains good amount of protein.",
+          "saleKgMg": "for 400 g",
+          "calories": 83.00,
+          "protein": 22.22,
+          "fat": 11.11,
+          "carbs": 60.56,
+          "fiber": 2.78,
+          "sugar": 3.33,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "009",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Ambur Chicken Biryani.jpg"
+          ],
+          "chefName": "fatHIMA GAYAZ",
+          "dishName": "AMBUR CHICKEN BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 250.00,
+          "dishDescription": "Ambur Biryani is one of the famous biryani recipes of South India which emerged during the Nawab of Arcot's regime. Prepared mainly with Jeera Samba or seeraga samba rice and various spices like cinnamon, clove, cardamons carefully cooked with chicken.",
+          "saleKgMg": "for 750 g",
+          "calories": 158.20,
+          "protein": 36.18,
+          "fat": 24.34,
+          "carbs": 35.56,
+          "fiber": 2.93,
+          "sugar": 0.99,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "010",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/ambur%20mutton.jpg"
+          ],
+          "chefName": "fatHIMA GAYAZ",
+          "dishName": "AMBUR MUTTON BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 300.00,
+          "dishDescription": "Ambur Biryani is one of the famous biryani recipes of South India which emerged during the Nawab of Arcot's regime. Prepared mainly with Jeera Samba or seeraga samba rice and various spices like cinnamon, clove, cardamons carefully cooked with mutton.",
+          "saleKgMg": "for 750 g",
+          "calories": 171.30,
+          "protein": 23.19,
+          "fat": 31.77,
+          "carbs": 44.64,
+          "fiber": 1.18,
+          "sugar": 3.07,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "011",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Smoked Tandoori Chicken Biryani.jpg"
+          ],
+          "chefName": "ARHAM FAHEEM",
+          "dishName": "SMOKED TANDOORI CHICKEN BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 300.00,
+          "dishDescription": "Smoked and healthy chicken biryani made with Indian spices for a tandoori twist to regular biryani.",
+          "saleKgMg": "for 400 g",
+          "calories": 164.50,
+          "protein": 38.36,
+          "fat": 23.2,
+          "carbs": 32.12,
+          "fiber": 3.25,
+          "sugar": 3.07,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "012",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/donne%20chicken%20biriya%20ni%201.jpg"
+          ],
+          "chefName": "SHWETHA D SILWA",
+          "dishName": "DONNE CHICKEN BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 149.00,
+          "dishDescription": "A truly native of Bengaluru, this steaming hot biryani is not prepared in layers like other biryanis but are cooked together. Flavored with aromatic ground green spices which gives it a distinct taste.",
+          "saleKgMg": "",
+          "calories": 155.00,
+          "protein": 20.00,
+          "fat": 23.33,
+          "carbs": 52.67,
+          "fiber": 4.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "013",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Thalapakatti%20Mutton%20Biryani%2018.jpg"
+          ],
+          "chefName": "SHWETHA D SILWA",
+          "dishName": "THALPAKATTU MUTTON BIRYANI",
+          "dishSubName": "",
+          "saleAmount": 219.00,
+          "dishDescription": "Thalpakattu Biriyani is prepared in slow dum cooking process with no store brought masala powder and everything is ground freshly at home. Basmati and bullet rice is used in the dish which serves as a wholesome meal.",
+          "saleKgMg": "",
+          "calories": 139.00,
+          "protein": 21.54,
+          "fat": 13.31,
+          "carbs": 58.74,
+          "fiber": 3.05,
+          "sugar": 3.35,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0002",
+      "categoryTitle": "NON-VEG CURRIES",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chettinad Chicken Curry.jpg"
+          ],
+          "chefName": "RAVI",
+          "dishName": "CHETTINAD CHICKEN CURRY",
+          "dishSubName": "",
+          "saleAmount": 150.00,
+          "dishDescription": "This popular chicken curry is flavorful, blended with aromatic spices, ground coconut paste and cooked in healthy sunflower oil.  It contains 4 medium pieces of chicken and is good source of protein.",
+          "saleKgMg": "",
+          "calories": 190.00,
+          "protein": 30.20,
+          "fat": 27.19,
+          "carbs": 34.65,
+          "fiber": 4.42,
+          "sugar": 3.54,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/pepper.jpg"
+          ],
+          "chefName": "SHWETHA D SILVA",
+          "dishName": "PEPPER CHICKEN",
+          "dishSubName": "",
+          "saleAmount": 129.00,
+          "dishDescription": "A great side dish, this South Indian pepper chicken is delicious, aromatic, hot & spicy and tastes equally good when paired with plain or flavoured rice.",
+          "saleKgMg": "",
+          "calories": 119.70,
+          "protein": 29.61,
+          "fat": 30.98,
+          "carbs": 26.91,
+          "fiber": 3.78,
+          "sugar": 8.72,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chicken Chintamani.jpg"
+          ],
+          "chefName": "MAHESH KUMAR S",
+          "dishName": "CHICKEN CHINTHAMANI",
+          "dishSubName": "Starter",
+          "saleAmount": 200.00,
+          "dishDescription": "Dry Boneless chicken pops with a masala twist can be taken as starters or side dish.",
+          "saleKgMg": "",
+          "calories": 184.66,
+          "protein": 25.66,
+          "fat": 35.96,
+          "carbs": 27.95,
+          "fiber": 3.74,
+          "sugar": 6.70,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chicken Chukka.jpg"
+          ],
+          "chefName": "MAHESH KUMAR S",
+          "dishName": "CHICKEN CHUKKA",
+          "dishSubName": "Starter",
+          "saleAmount": 200.00,
+          "dishDescription": "Chettinad style chicken chukka fry which is a treat for your taste buds as well as good source of protein.",
+          "saleKgMg": "",
+          "calories": 110.00,
+          "protein": 50.79,
+          "fat": 33.88,
+          "carbs": 10.46,
+          "fiber": 3.35,
+          "sugar": 1.52,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Authentic%20Mangalore%20Fish%20Curry.jpg"
+          ],
+          "chefName": "SHWETHA D SLIVA",
+          "dishName": "AUTHENTIC MANGALORE FISH CURRY",
+          "dishSubName": "",
+          "saleAmount": 159.00,
+          "dishDescription": "This Mangalore fish curry is both fiery and tangy, with traditional ingredients like coconut, tamarind, and red chilies & many other home grounded masala.",
+          "saleKgMg": "",
+          "calories": 133.00,
+          "protein": 45.27,
+          "fat": 32.92,
+          "carbs": 16.46,
+          "fiber": 4.53,
+          "sugar": 0.82,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "006",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Beef Meet Ball Curry.jpg"
+          ],
+          "chefName": "REBECCA VINCENT",
+          "dishName": "BEEF MEET BALL CURRY",
+          "dishSubName": "",
+          "saleAmount": 200.00,
+          "dishDescription": "Juicy beef meatballs and potatoes in red masala gravy that is a great side dish for beef lovers.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "007",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Daleem.jpg"
+          ],
+          "chefName": "SYEDA TARANNUM",
+          "dishName": "DALEEM",
+          "dishSubName": "",
+          "saleAmount": 250.00,
+          "dishDescription": "It's a Hyderabadi authentic dish which is cooked for hours with loads of grains,Chicken and special spices.",
+          "saleKgMg": "",
+          "calories": 159.90,
+          "protein": 22.66,
+          "fat": 16.62,
+          "carbs": 51.96,
+          "fiber": 6.34,
+          "sugar": 2.42,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "008",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Mutton%20Haleem.jpg"
+          ],
+          "chefName": "NOORUNNISA IMRAN",
+          "dishName": "MUTTON HALEEM",
+          "dishSubName": "",
+          "saleAmount": 475.00,
+          "dishDescription": "Hyderabadi Mutton Haleem, made with species, Fresh Mutton, Wheat all slow cooked for 5 to 6 hrs to form a rich thick and delicious dish.",
+          "saleKgMg": "for 500 g",
+          "calories": 157.00,
+          "protein": 30.72,
+          "fat": 21.15,
+          "carbs": 39.58,
+          "fiber": 6.65,
+          "sugar": 1.90,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "009",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hyderabadi%20Marag.jpg"
+          ],
+          "chefName": "NOORUNNISA IMRAN",
+          "dishName": "HYDERABADI MARAG",
+          "dishSubName": "",
+          "saleAmount": 250.00,
+          "dishDescription": "a Hyderabadi flavourful spicy, dry fruit rich mutton stew tastes best when paired with rumali roti.",
+          "saleKgMg": "for 250 g",
+          "calories": 122.00,
+          "protein": 28.38,
+          "fat": 33.62,
+          "carbs": 34.56,
+          "fiber": 2.81,
+          "sugar": 0.62,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "010",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chicken%20Afghani%20with%20Flaky%20Parathas.jpg"
+          ],
+          "chefName": "RESHMA BANU",
+          "dishName": "CHICKEN AFGHANI",
+          "dishSubName": "",
+          "saleAmount": 370.00,
+          "dishDescription": "Afghani Chicken Curry is a delicious chicken recipe that is super creamy and rich in spices. It goes well with roti or parathas. ",
+          "saleKgMg": "Serves for 4",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "011",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/chicken%20kebab%202.jpg"
+          ],
+          "chefName": "SHWETHA D SILVA & SYEDA TARANNUM",
+          "dishName": "CHICKEN KABAB",
+          "dishSubName": "DRY",
+          "saleAmount": 99.00,
+          "dishDescription": "A perfect non-veg starter which is delicious, juicy, soft and goes amazingly well as a side dish too.",
+          "saleKgMg": "",
+          "calories": 99.93,
+          "protein": 36.34,
+          "fat": 10.40,
+          "carbs": 44.28,
+          "fiber": 6.66,
+          "sugar": 2.32,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "012",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Methi Chicken.jpg"
+          ],
+          "chefName": "LEELA KANAKARAJ",
+          "dishName": "METHI CHICKEN",
+          "dishSubName": "",
+          "saleAmount": 180.00,
+          "dishDescription": "flavourful chicken prepared with fenugreek leaves i.e methi leaves which goes well with rice or paratha.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0003",
+      "categoryTitle": "VEG COMBO",
+      "categorySubTitle": "SOUTH INDIAN",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg%20Meals.jpg"
+          ],
+          "chefName": "JUSTIN BABU & CATHERENE",
+          "dishName": "VEG MEAL-RICE, MULTIGRAIN ROTI, PALYA, SAMBAR, RASAM PICKLE",
+          "dishSubName": "",
+          "saleAmount": 80.00,
+          "dishDescription": "A simple, wholesome south Indian meal comprising of rice, roti, palya, sambar, rasam and pickle. Such meals are easy on the stomach and aids in bettter digestion.",
+          "saleKgMg": "per combo",
+          "calories": 190.50,
+          "protein": 14.08,
+          "fat": 7.26,
+          "carbs": 64.25,
+          "fiber": 11.18,
+          "sugar": 3.22,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Andhra Thali.jpg"
+          ],
+          "chefName": "SRIDHARA",
+          "dishName": "ANDHRA THALI-CHAPATHI, RICE, PALYAM, DAL (PAPPU), SAMBAR, RASAM, PAPAD & CURD",
+          "dishSubName": "",
+          "saleAmount": 95.00,
+          "dishDescription": "A complete basic Andhra meal comprising of 2 chapathi, rice, 2 palyam, dal, sambar, rasam, papad and curd that is fulfilling and easy to digest.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Bisibelebath.jpg"
+          ],
+          "chefName": "REBECCA VINCENT",
+          "dishName": "BISIBELABATH",
+          "dishSubName": "",
+          "saleAmount": 80.00,
+          "dishDescription": "A spicy rice dish which is a hot mix of rice, lentils, vegetables and spice mix",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0004",
+      "categoryTitle": "VEG COMBO",
+      "categorySubTitle": "NORTH INDIAN",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+          ],
+          "chefName": "REENA MANGLANI",
+          "dishName": "VEGETABLE PULAO, DRY ALOO & RAITA ",
+          "dishSubName": "COMBO",
+          "saleAmount": 175.50,
+          "dishDescription": "Flavored rice made with long grain rice, choice of vegetables and fresh herbs. It is served with dry aloo and raita for a complete meal. Seasonal fresh vegetables used here are good source of minerals and fiber.",
+          "saleKgMg": "",
+          "calories": 123.60,
+          "protein": 13.45,
+          "fat": 16.48,
+          "carbs": 61.10,
+          "fiber": 5.04,
+          "sugar": 3.93,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Aloo Paratha.jpg"
+          ],
+          "chefName": "REENA MANGLANI",
+          "dishName": "ALOO PARATHA WITH DAHI",
+          "dishSubName": "",
+          "saleAmount": 150.00,
+          "dishDescription": "Aloo paratha is a popular Indian dish which is filling, delicious and tastes divine with just simply curd or pickle.The mashed potatoes with spices and herbs are stuffed in a rolled dough and roasted on the tawa.",
+          "saleKgMg": "",
+          "calories": 222.00,
+          "protein": 8.48,
+          "fat": 33.67,
+          "carbs": 48.13,
+          "fiber": 8.48,
+          "sugar": 1.25,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Sindhi Kadi With Jeera Rice.jpg"
+          ],
+          "chefName": "REENA MANGLANI",
+          "dishName": "SINDHI KADI WITH JEERA RICE ",
+          "dishSubName": "COMBO",
+          "saleAmount": 175.00,
+          "dishDescription": "Sindhi Kadhi is a delicious recipe from Sindhi cuisine made with a combination of besan and vegetables.It serves as an amazing tangy accompaniment with rice.",
+          "saleKgMg": "",
+          "calories": 157.00,
+          "protein": 9.65,
+          "fat": 19.89,
+          "carbs": 62.97,
+          "fiber": 5.54,
+          "sugar": 1.95,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Punjabi Kadi Pakoda With Long Grain Rice.jpg"
+          ],
+          "chefName": "REENA MANGLANI",
+          "dishName": "PUNJABI KADI PAKODA + LONG GRAIN RICE",
+          "dishSubName": "COMBO",
+          "saleAmount": 150.00,
+          "dishDescription": "It comprises of deep fried fritters (pakora) that are dunked in a yogurt based curry made with besan (gram flour) and spices! It has a good balance of protein, carbs and fats.",
+          "saleKgMg": "",
+          "calories": 198.33,
+          "protein": 14.43,
+          "fat": 16.42,
+          "carbs": 51.24,
+          "fiber": 6.06,
+          "sugar": 11.85,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Shahi Paneer With Paratha.jpg"
+          ],
+          "chefName": "REENA MANGLANI",
+          "dishName": "SHAHI PANEER WITH WHEAT PARATHA",
+          "dishSubName": "",
+          "saleAmount": 185.00,
+          "dishDescription": "Shahi Paneer is a true celebration of rich flavours and treasured spices. Paneer is cooked in lots of tomatoes, mild spices and nuts with fresh cream. It is good souurce of healthy fats and calcium.",
+          "saleKgMg": "",
+          "calories": 190.00,
+          "protein": 14.09,
+          "fat": 35.70,
+          "carbs": 40.78,
+          "fiber": 6.46,
+          "sugar": 2.97,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "006",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Dal Pakwaan.jpg"
+          ],
+          "chefName": "REENA MANGLANI",
+          "dishName": "DAAL-PAKWAN",
+          "dishSubName": "",
+          "saleAmount": 149.75,
+          "dishDescription": "Traditional Sindhi dish includes chana daal and 2 crisp pakwaan with chutney and onion coriander garnishing. With good amount of protein and fiber, this is a good choice for a delicious and comforting treat.",
+          "saleKgMg": "",
+          "calories": 201.00,
+          "protein": 18.51,
+          "fat": 22.74,
+          "carbs": 42.36,
+          "fiber": 14.27,
+          "sugar": 2.12,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "007",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/AMRITSARI%20CHOLA%20WITH%20ALOO,PANEER%20KULCHA.jpg"
+          ],
+          "chefName": "SNEHA BAJAJ",
+          "dishName": "AMRITSARI CHOLE WITH PANEER KULCHA",
+          "dishSubName": "",
+          "saleAmount": 290.00,
+          "dishDescription": "Amritsari Chole is an authentic punjabi dish made out of chickpeas, onion, tomatoes and variety of spices. This, paired with paneer stuffed kulcha is a great meal choice.",
+          "saleKgMg": "",
+          "calories": 153.05,
+          "protein": 14.09,
+          "fat": 20.21,
+          "carbs": 35.80,
+          "fiber": 17.83,
+          "sugar": 12.08,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "008",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/GUJARATI%20UNDHIYU%20WITH%20PURI.jpg"
+          ],
+          "chefName": "SNEHA BAJAJ",
+          "dishName": "GUJARATHI UNDIYOO WITH PURIS AND SHRIKAND",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "It is a gujarathi mixed vegetable paired with puris and shrikhand, making it a wholesome meal to crave for something tasty as well as filling.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "009",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/MAKAI%20KI%20ROTI%20AUR%20SARSOO%20KA%20SAAG%20WITH%20WHITE%20BUTTER%20N%20GUDD.jpg"
+          ],
+          "chefName": "SNEHA BAJAJ",
+          "dishName": "MAKAI KI ROTI + SARSOO KA SAAG WITH WHITE BUTTER AND JAGGERY",
+          "dishSubName": "",
+          "saleAmount": 575.00,
+          "dishDescription": " A delicious north Indian dish made with peas and cottage cheese which tastes divine with rotis, chapaties, pulao equally.",
+          "saleKgMg": "Serves for 2",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "010",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Mutter Paneer.jpg"
+          ],
+          "chefName": "LEELA KANAKARAJ",
+          "dishName": "MUTTER PANEER",
+          "dishSubName": "CURRY",
+          "saleAmount": 190.00,
+          "dishDescription": " A delicious north Indian dish made with peas and cottage cheese which tastes divine with rotis, chapaties, pulao equally.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0005",
+      "categoryTitle": "NON-VEG COMBO",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Ghee Rice With Peshwa Chicken.jpg"
+          ],
+          "chefName": "REBECCA VINCENT",
+          "dishName": "GHEE RICE AND PESHWA CHICKEN ",
+          "dishSubName": "",
+          "saleAmount": 160.00,
+          "dishDescription": "Light ghee rice paired with juicy peshwa chicken gravy. Incorporating ghee with hot rice has many health benefits including storage of fat solouble vitamins.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/fishthali.jpg"
+          ],
+          "chefName": "SHWETHA D SILVA",
+          "dishName": "FISH MEAL THALI - RED/WHITE RICE, VEG CURRY, FISH CURRY, FISH FRY",
+          "dishSubName": "",
+          "saleAmount": 120.00,
+          "dishDescription": "Mangalore is famous for its Fish Thali, this authentic dish - which is comprised of a portion of red/white rice, a vegetable dish, a fish curry & on the side a tawa fried fish. This is a filling meal rich in omega fatty acids and good amount of fibre and proteins.",
+          "saleKgMg": "",
+          "calories": 117.50,
+          "protein": 28.78,
+          "fat": 10.83,
+          "carbs": 56.53,
+          "fiber": 1.72,
+          "sugar": 2.14,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Country Chicken With Dosa.jpg"
+          ],
+          "chefName": "SANDHYA S",
+          "dishName": "COUNTRY CHICKEN WITH DOSA/IDLI",
+          "dishSubName": "",
+          "saleAmount": 150.00,
+          "dishDescription": "Simple and tasty meal containing idli or dosa served with mysore style chicken( Nati Koli Saru).",
+          "saleKgMg": "",
+          "calories": 159.50,
+          "protein": 15.14,
+          "fat": 9.06,
+          "carbs": 65.85,
+          "fiber": 5.30,
+          "sugar": 4.66,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Non-veg%20Meal%20Combo%201.jpg"
+          ],
+          "chefName": "JUSTIN BABU C",
+          "dishName": "NON-VEG MEAL- RICE, ROTI/CHAPATI. CURRY - CHICKEN/MUTTON/EGG, , RASAM, PICKLE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "a wholesome south indian non-veg meal comprising of either chicken, mutton or egg served with rice, Roti or Chappati, rasam and pickle.",
+          "saleKgMg": "",
+          "calories": 203.00,
+          "protein": 16.52,
+          "fat": 6.5106,
+          "carbs": 62.93,
+          "fiber": 6.72,
+          "sugar": 7.33,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Tomato Rice With Fish Fry.jpg"
+          ],
+          "chefName": "REBECCA VINCENT",
+          "dishName": "TOMATO RICE WITH FISH FRY",
+          "dishSubName": "",
+          "saleAmount": 160.00,
+          "dishDescription": "Piping hot fresh tomato rice with 2 sardine or 1 macrikel pan fried. It is good souce of lycopene and omega fatty acids.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0006",
+      "categoryTitle": "BALANCED MEAL",
+      "categorySubTitle": "VEG",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "",
+          "dishName": "FRUIT SALAD, PLAIN DAL, LAUKI SABZI WITH ROTI/CHAPATI/RICE ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Add variety to your meals with this combination of seasonal fruits, pulses, vegetable and grains. Incorporating various food groups is essential in meeting your everyday nutrient demand. This is vegan friendly meal.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "",
+          "dishName": "GREEN GRAM DAL & BHINDI SABZI WITH ROTI/CHAPATI/RICE ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Good amount of greens to add essential vitamins and minerals in your diet, without excessive oil or fats, this is a simple and wholesome meal.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "",
+          "dishName": "MULTIGRAIN ROTI WITH DAL & VEG SALAD ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Increasing nutritional content with multigrain roti, paired with good amount of pulses and veg salad with dressing, this is sure to keep your body fit and healthy.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "",
+          "dishName": "KHICHDI WITH SPROUT SALAD, RAITA ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Khichdi is a wholesome meal in itself, having a good ratio of grains, pulse, vegetables and condiments. Paired with sprout salad which is rich in vitamin C and essential minerals, and raita rich in fiber and acts a synbiotic, this combo is a good health choice.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "",
+          "dishName": "PALAK PANEER WITH BROWN RICE/ROTIES/CHAPATI ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Rich in complex carbs, protein, calcium, vitamin A and other minerals, spinach with cottage cheese paired with brown rice or rotis are a great healthy and tasty option.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "006",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "",
+          "dishName": "LENTIL CURRY WITH METHI RICE ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Rich in protein and minerals, lentil curry with fenugreek rice is a flavourful and healthy combination.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "007",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "",
+          "dishName": "MULTIGRAIN ROTI, RAJMA, POMEGRANATE CUCUMBER CURD ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "This meal is rich in fiber, essential vitamins and minerals, protiens and complex carbs. The pomegranate cucumber curd acts as a synbiotic and maintains gut health.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0007",
+      "categoryTitle": "BALANCED MEAL",
+      "categorySubTitle": "NON-VEG",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "",
+          "dishName": "STEAMED/GRILLED CHICKEN WITH RICE & GREEN CHUTNEY ",
+          "dishSubName": "(MINT & CORIANDER)",
+          "saleAmount": 0.00,
+          "dishDescription":  "A flavourful and healthy meal rich in protein and retains much of its nutrients because of chicken being steamed or grilled with appropriate condiments.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "",
+          "dishName": "MANCHURIAN/CHICKEN GRILLED VEGETABLE PULAV ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "A great combination of pulao with colorful seasonal vegetables paired with manchurian or grilled chicken for a satisfying meal.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Hoskote Chicken Dum Biryani With Boiled Egg.jpg"
+          ],
+          "chefName": "",
+          "dishName": "CHICKEN CURRY WITH BROWN RICE OR ROTIES/CHAPATI",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Good amount of fiber and nutrients in brown rice or whole wheat paired with chicken curry to give a flavourful experience. ",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0008",
+      "categoryTitle": "BEVERAGES",
+      "categorySubTitle": "SUGGESTED",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Lemonade.jpg"
+          ],
+          "chefName": "",
+          "dishName": "LEMONADE ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Simple lemonade to give the flavourful benefits of having electrolyte as well as vitamin C. Have it sweet or salty!",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Mint Cooler.jpg"
+          ],
+          "chefName": "",
+          "dishName": "MINT COOLER ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Refreshing drink with the beneficial effect of mint as a soothing agent which is great for digestion and brain health.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Carrot Juice.jpg"
+          ],
+          "chefName": "",
+          "dishName": "CARROT JUICE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "This is light, refreshing drink which can be prepared with milk as well. It provides good amount of carotene which is essential for your tissues, and eye health.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Green Smoothi.jpg"
+          ],
+          "chefName": "",
+          "dishName": "GREEN SMOOTHIE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Rich in pigments, this drink is all the goodness of fiber, vitamin and minerals your body needs!",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Banana Milkshake.jpg"
+          ],
+          "chefName": "",
+          "dishName": "BANANA MILK SHAKE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "A satieting and healthy drink which good amount of minerals, proteins and energy.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "006",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Turmeric Latte.jpg"
+          ],
+          "chefName": "",
+          "dishName": "TURMERIC LATTE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Turmeric milk latte is great for the body with benfits of curcumin present in turmeric for its anti-inflammatory and antioxidant effects.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0009",
+      "categoryTitle": "DESSERTS",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Carrot Halwa.jpg"
+          ],
+          "chefName": "",
+          "dishName": "CARROT HALWA ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Popularly called as Gajar Ka Halwa, it is rich in beta carotene and fibre while being extremely delicious.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Custard.jpg"
+          ],
+          "chefName": "",
+          "dishName": "CUSTARD ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Custard is simple dessert prepared from sweetened milk, cream and can be with eggs or eggless. It tastes great with fresh fruits as well.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Soji Halwa.jpg"
+          ],
+          "chefName": "",
+          "dishName": "SUJI HALWA",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Suji halwa rich in dry fruits and nuts and aroma of ghee meets the sweet cravings just right.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Shrikand.jpg"
+          ],
+          "chefName": "",
+          "dishName": "SHRIKHAND",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Shrikhand made from hung curd is a non-calorie healthy dessert incorporated with flavours like elaichi, mano, orange etc. It is good source of calcium and both prebiotics and probiotics and thus maintains our gut health.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Fruit Bowl.jpg"
+          ],
+          "chefName": "",
+          "dishName": "FRUIT BOWL",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Fresh seasonal fruits rich in natural sugars, pigments, vitamins and minerals is a healthy and refreshing dessert.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "006",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Mini Pie.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "MINI PIES",
+          "dishSubName": "",
+          "saleAmount": 45.00,
+          "dishDescription": "Puff pastry with delicious filling like cheese, chicken, onions with stripped puff tops which serve just a right bite, freshly baked without any preservatives or additives.",
+          "saleKgMg": "",
+          "calories": 237.00,
+          "protein": 4.05,
+          "fat": 23.45,
+          "carbs": 64.82,
+          "fiber": 3.41,
+          "sugar": 4.26,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "007",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chocolate Brownie.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "CHOCOLATE BROWNIE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Rich, moist, chocolaty freshly baked brownies which melts in the mouth.",
+          "saleKgMg": "",
+          "calories": 405.00,
+          "protein": 5.29,
+          "fat": 19.50,
+          "carbs": 62.82,
+          "fiber": 0.81,
+          "sugar": 11.58,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "008",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Lemon Tart.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "LEMON TART",
+          "dishSubName": "",
+          "saleAmount": 35.00,
+          "dishDescription": "Rich buttery base with real lemon filling without any use of artificial flavours, colors or additives. Freshly baked tart that tastes delicious.",
+          "saleKgMg": "",
+          "calories": 300.00,
+          "protein": 7.09,
+          "fat": 23.15,
+          "carbs": 31.34,
+          "fiber": 1.03,
+          "sugar": 37.39,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "009",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Kesari.jpg"
+          ],
+          "chefName": "",
+          "dishName": "KESARI",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "This popular sweet dish from South India is a quick mouth melting dessert, soft and flavourful.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0010",
+      "categoryTitle": "ARTISANAL ICE CREAMS",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Coffee%20and%20Jaggery%20Ice%20cream.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "COFFEE AND JAGGERY ICE CREAM ",
+          "dishSubName": "(sugar FREE)",
+          "saleAmount": 150.00,
+          "dishDescription": "Freshly prepared icecream made out of milk, cream coffee and palm jaggery with no sugar, artificial color or flavour.",
+          "saleKgMg": "for 150ml",
+          "calories": 190.60,
+          "protein": 9.40,
+          "fat": 47.68,
+          "carbs": 42.22,
+          "fiber": 0.70,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Coffee%20and%20Jaggery%20Ice%20cream.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "COFFEE AND JAGGERY ICE CREAM ",
+          "dishSubName": "(sugar FREE)",
+          "saleAmount": 250.00,
+          "dishDescription": "Freshly prepared icecream made out of milk, cream coffee and palm jaggery with no sugar, artificial color or flavour.",
+          "saleKgMg": "for 250ml",
+          "calories": 190.60,
+          "protein": 9.40,
+          "fat": 47.68,
+          "carbs": 42.22,
+          "fiber": 0.70,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Coffee%20and%20Jaggery%20Ice%20cream.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "COFFEE AND JAGGERY ICE CREAM ",
+          "dishSubName": "(sugar FREE)",
+          "saleAmount": 500.00,
+          "dishDescription": "Freshly prepared icecream made out of milk, cream coffee and palm jaggery with no sugar, artificial color or flavour.",
+          "saleKgMg": "for 500ml",
+          "calories": 190.60,
+          "protein": 9.40,
+          "fat": 47.68,
+          "carbs": 42.22,
+          "fiber": 0.70,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Saffron%20and%20Almond%20Ice%20cream.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "SAFFRON AND ALMOND ICE CREAM ",
+          "dishSubName": " (ALSO sugar FREE AVAILABLE)",
+          "saleAmount": 180.00,
+          "dishDescription": "Ice cream made out of actual saffron strands from Kashmir, almonds from UAE, milk, cream and sugar. sugar free option is available too. Relish the icecreams made out of good quality ingredients.",
+          "saleKgMg": "for 150ml",
+          "calories": 304.10,
+          "protein": 11.94,
+          "fat": 49.52,
+          "carbs": 38.54,
+          "fiber":1.73 ,
+          "sugar": 67.35,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Saffron%20and%20Almond%20Ice%20cream%201.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "SAFFRON AND ALMOND ICE CREAM ",
+          "dishSubName": " (ALSO sugar FREE AVAILABLE)",
+          "saleAmount": 300.00,
+          "dishDescription": "Ice cream made out of actual saffron strands from Kashmir, almonds from UAE, milk, cream and sugar. sugar free option is available too. Relish the icecreams made out of good quality ingredients.",
+          "saleKgMg": "for 250ml",
+          "calories": 304.10,
+          "protein": 11.94,
+          "fat": 49.52,
+          "carbs": 38.54,
+          "fiber":1.73 ,
+          "sugar": 67.35,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "006",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Saffron%20and%20Almond%20Ice%20cream%202.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "SAFFRON AND ALMOND ICE CREAM ",
+          "dishSubName": " (ALSO sugar FREE AVAILABLE)",
+          "saleAmount": 600.00,
+          "dishDescription": "Ice cream made out of actual saffron strands from Kashmir, almonds from UAE, milk, cream and sugar. sugar free option is available too. Relish the icecreams made out of good quality ingredients.",
+          "saleKgMg": "for 500ml",
+          "calories": 304.10,
+          "protein": 11.94,
+          "fat": 49.52,
+          "carbs": 38.54,
+          "fiber":1.73 ,
+          "sugar": 67.35,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "007",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Dark%20Chocolate%20Ice%20cream%201.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "DARK CHOCOLATE ICE CREAM",
+          "dishSubName": "ALSO sugar FREE AVAILABLE",
+          "saleAmount": 175.00,
+          "dishDescription": "With 52% couverture chocolate, it is a delicious ice-cream made out of real cream, chocolate, and sugar with no preservatives, color, or artificial flavor.",
+          "saleKgMg": "for 150 ml",
+          "calories": 313.62,
+          "protein": 3.71,
+          "fat": 41.64,
+          "carbs": 18.72,
+          "fiber": 0.24,
+          "sugar": 35.69,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "008",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Dark%20Chocolate%20Ice%20cream%201.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "DARK CHOCOLATE ICE CREAM",
+          "dishSubName": "ALSO sugar FREE AVAILABLE",
+          "saleAmount": 275.00,
+          "dishDescription": "With 52% couverture chocolate, it is a delicious ice-cream made out of real cream, chocolate, and sugar with no preservatives, color, or artificial flavor.",
+          "saleKgMg": "for 250 ml",
+          "calories": 313.62,
+          "protein": 3.71,
+          "fat": 41.64,
+          "carbs": 18.72,
+          "fiber": 0.24,
+          "sugar": 35.69,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "009",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Dark%20Chocolate%20Ice%20cream%202.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "DARK CHOCOLATE ICE CREAM",
+          "dishSubName": "ALSO sugar FREE AVAILABLE",
+          "saleAmount": 550.00,
+          "dishDescription": "With 52% couverture chocolate, it is a delicious ice-cream made out of real cream, chocolate, and sugar with no preservatives, color, or artificial flavor.",
+          "saleKgMg": "for 500 ml",
+          "calories": 313.62,
+          "protein": 3.71,
+          "fat": 41.64,
+          "carbs": 18.72,
+          "fiber": 0.24,
+          "sugar": 35.69,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "010",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Coconut%20Milk%20ice%20cream.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "COCONUT MILK ICE CREAM ",
+          "dishSubName": "ALSO sugar FREE AVAILABLE",
+          "saleAmount": 120.00,
+          "dishDescription": "Made with pure coconut milk, cream and sugar (can be sugar free as well), this is deliciously blended ice cream.",
+          "saleKgMg": "for 150ml",
+          "calories": 238.90,
+          "protein": 3.09,
+          "fat": 39.11,
+          "carbs": 22.38,
+          "fiber": 0.39,
+          "sugar": 35.03,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "011",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Coconut%20Milk%20ice%20cream%201.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "COCONUT MILK ICE CREAM ",
+          "dishSubName": "ALSO sugar FREE AVAILABLE",
+          "saleAmount": 200.00,
+          "dishDescription": "Made with pure coconut milk, cream and sugar (can be sugar free as well), this is deliciously blended ice cream.",
+          "saleKgMg": "for 250ml",
+          "calories": 238.90,
+          "protein": 3.09,
+          "fat": 39.11,
+          "carbs": 22.38,
+          "fiber": 0.39,
+          "sugar": 35.03,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "012",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Coconut%20Milk%20ice%20cream%202.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "COCONUT MILK ICE CREAM ",
+          "dishSubName": "ALSO sugar FREE AVAILABLE",
+          "saleAmount": 400.00,
+          "dishDescription": "Made with pure coconut milk, cream and sugar (can be sugar free as well), this is deliciously blended ice cream.",
+          "saleKgMg": "for 500ml",
+          "calories": 238.90,
+          "protein": 3.09,
+          "fat": 39.11,
+          "carbs": 22.38,
+          "fiber": 0.39,
+          "sugar": 35.03,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "013",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Vanilla%20ice%20cream.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "VANILLA ICE CREAM",
+          "dishSubName": "",
+          "saleAmount": 90.00,
+          "dishDescription": "Plain Vanilla ice-cream has its own lovers. This is made with real cream, vanilla and sugar. Suagr-free option is available too.",
+          "saleKgMg": "for 150ml",
+          "calories": 207.80,
+          "protein": 2.33,
+          "fat": 33.33,
+          "carbs": 2.17,
+          "fiber": 0.16,
+          "sugar": 62.02,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "014",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Vanilla%20ice%20cream%202.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "VANILLA ICE CREAM",
+          "dishSubName": "",
+          "saleAmount": 150.00,
+          "dishDescription": "Plain Vanilla ice-cream has its own lovers. This is made with real cream, vanilla and sugar. Suagr-free option is available too.",
+          "saleKgMg": "for 250ml",
+          "calories": 207.80,
+          "protein": 2.33,
+          "fat": 33.33,
+          "carbs": 2.17,
+          "fiber": 0.16,
+          "sugar": 62.02,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "015",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Vanilla%20ice%20cream%202.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "VANILLA ICE CREAM",
+          "dishSubName": "",
+          "saleAmount": 300.00,
+          "dishDescription": "Plain Vanilla ice-cream has its own lovers. This is made with real cream, vanilla and sugar. Suagr-free option is available too.",
+          "saleKgMg": "for 500ml",
+          "calories": 207.80,
+          "protein": 2.33,
+          "fat": 33.33,
+          "carbs": 2.17,
+          "fiber": 0.16,
+          "sugar": 62.02,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "016",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Fig%20and%20Honey%20Ice%20cream.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "FIG AND HONEY ICE CREAM",
+          "dishSubName": "",
+          "saleAmount": 150.00,
+          "dishDescription": "Fig sourced from Iran and Honey is sourced directly from the honey farm of Wayanad, Kerala. This is a fast-selling ice-cream made with loads of care.",
+          "saleKgMg": "for 150ml",
+          "calories": 220.90,
+          "protein": 8.60,
+          "fat": 43.44,
+          "carbs": 37.30,
+          "fiber": 2.32,
+          "sugar": 8.34,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "017",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Fig%20and%20Honey%20Ice%20cream%201.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "FIG AND HONEY ICE CREAM",
+          "dishSubName": "",
+          "saleAmount": 250.00,
+          "dishDescription": "Fig sourced from Iran and Honey is sourced directly from the honey farm of Wayanad, Kerala. This is a fast-selling ice-cream made with loads of care.",
+          "saleKgMg": "for 250ml",
+          "calories": 220.90,
+          "protein": 8.60,
+          "fat": 43.44,
+          "carbs": 37.30,
+          "fiber": 2.32,
+          "sugar": 8.34,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "018",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Fig%20and%20Honey%20Ice%20cream%202.jpg"
+          ],
+          "chefName": "REMA GOPALAKRISHNA",
+          "dishName": "FIG AND HONEY ICE CREAM",
+          "dishSubName": "",
+          "saleAmount": 500.00,
+          "dishDescription": "Fig sourced from Iran and Honey is sourced directly from the honey farm of Wayanad, Kerala. This is a fast-selling ice-cream made with loads of care.",
+          "saleKgMg": "for 500ml",
+          "calories": 220.90,
+          "protein": 8.60,
+          "fat": 43.44,
+          "carbs": 37.30,
+          "fiber": 2.32,
+          "sugar": 8.34,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+
+      ]
+    },
+    {
+      "id": "0011",
+      "categoryTitle": "BAKERY ITEMS",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Red%20velvet%20Cupcake.jpg"
+          ],
+          "chefName": "JESSY HANNAH",
+          "dishName": "RED VELVET CUPCAKE ",
+          "dishSubName": "",
+          "saleAmount": 45.00,
+          "dishDescription": "Guilt free indulgence made out of good quality ingredients, freshly baked to cater sweet cravings.",
+          "saleKgMg": "per cupcake",
+          "calories": 369.00,
+          "protein": 9.46,
+          "fat": 24.56,
+          "carbs": 39.02,
+          "fiber": 1.97,
+          "sugar": 24.99,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chocolate%20Cupcake.jpg"
+          ],
+          "chefName": "JESSY HANNAH",
+          "dishName": "CHOCOLATE CUPCAKE",
+          "dishSubName": "",
+          "saleAmount": 45.00,
+          "dishDescription": "Cupcakes without harmful additives freshly baked to cater choco cravings.",
+          "saleKgMg": "per cupcake",
+          "calories": 356.00,
+          "protein": 4.79,
+          "fat": 14.80,
+          "carbs": 18.36,
+          "fiber": 2.02,
+          "sugar": 60.03,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/chocolatechipcake10.jpg"
+          ],
+          "chefName": "RASHI DIWEDI",
+          "dishName": "WHOLE WHEAT, OATS CHOCO CHIP CAKE",
+          "dishSubName": "",
+          "saleAmount": 450.00,
+          "dishDescription": "Made out of whole wheat and oats, this cake is rich in fiber, protein and beta-glucan which aids in controlling cholesterol, helps in digetion and maintains gut health. It is healthier alternative to cakes made out of refined flour and is loved by all specially kids who love chocochips.",
+          "saleKgMg": "for half kg",
+          "calories": 223.00,
+          "protein": 11.23,
+          "fat": 24.11,
+          "carbs": 27.95,
+          "fiber": 7.95,
+          "sugar": 28.77,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Dry-fruit-Cake-9.jpg"
+          ],
+          "chefName": "RASHI DIWEDI",
+          "dishName": "WHOLE WHEAT, OATS, DRY FRUIT CAKE",
+          "dishSubName": "",
+          "saleAmount": 500.00,
+          "dishDescription": "Made out of whole wheat and oats, this cake is rich in fiber, protein and beta-glucan which aids in controlling cholesterol, helps in digetion and maintains gut health. It is healthier alternative to cakes made out of refined flour. Dry fruits are rich in phytonutrients and aids in better health.",
+          "saleKgMg": "for half kg",
+          "calories": 243.00,
+          "protein": 6.45,
+          "fat": 17.68,
+          "carbs": 20.00,
+          "fiber": 4.77,
+          "sugar": 51.10,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/almond2.jpg"
+          ],
+          "chefName": "RASHI DIWEDI",
+          "dishName": "WHOLE WHEAT ALMOND COOKIES",
+          "dishSubName": "",
+          "saleAmount": 500.00,
+          "dishDescription": "Cookies made out of whole wheat and almond lead to a healthier option rich in fiber, Vitamin E, omega fatty acids, protein and being lower in calories, perfectly loved by elders and kids alike.",
+          "saleKgMg": "for half kg",
+          "calories": 198.50,
+          "protein": 20.53,
+          "fat": 33.00,
+          "carbs": 32.56,
+          "fiber": 5.17,
+          "sugar": 8.73,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "006",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Wheat _ Millets Cookies.jpg"
+          ],
+          "chefName": "RASHI DIWEDI",
+          "dishName": "WHOLE WHEAT OATS & MILLETS WITH SEEDS COOKIES",
+          "dishSubName": "",
+          "saleAmount": 450.00,
+          "dishDescription": "A mix of whole wheat, oats, millets and seeds made in cookies is perfect for everyday health snacks that are kid friendly too. It is rich in essential minerals like zinc, selenium, manganese along with being high in fiber.",
+          "saleKgMg": "for half kg",
+          "calories": 109.00,
+          "protein": 8.70,
+          "fat": 17.39,
+          "carbs": 39.13,
+          "fiber": 4.35,
+          "sugar": 30.43,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "007",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Christmas Cake.jpg"
+          ],
+          "chefName": "LOUELLA ROGERS",
+          "dishName": "CHRISTMAS CAKE",
+          "dishSubName": "",
+          "saleAmount": 1300.00,
+          "dishDescription": "",
+          "saleKgMg": "per 1Kg.",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "008",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Pudding.jpg"
+          ],
+          "chefName": "LOUELLA ROGERS",
+          "dishName": "PUDDING",
+          "dishSubName": "",
+          "saleAmount": 1300.00,
+          "dishDescription": "",
+          "saleKgMg": "per 1Kg.",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "009",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Rich Plum Cake.jpg"
+          ],
+          "chefName": "RAJINI SOARES",
+          "dishName": "RICH PLUM CAKE",
+          "dishSubName": "",
+          "saleAmount": 900.00,
+          "dishDescription": "",
+          "saleKgMg": "per 1kg",
+          "calories": 324.00,
+          "protein": 3.92,
+          "fat": 12.18,
+          "carbs": 42.35,
+          "fiber": 5.01,
+          "sugar": 36.54,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "010",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Exotic Cup Cakes.jpg"
+          ],
+          "chefName": "RAJINI SOARES",
+          "dishName": "EXOTIC CUPCAKES",
+          "dishSubName": "",
+          "saleAmount": 45.00,
+          "dishDescription": "",
+          "saleKgMg": "per piece",
+          "calories": 305.00,
+          "protein": 5.73,
+          "fat": 4.93,
+          "carbs": 56.93,
+          "fiber": 4.40,
+          "sugar": 28.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "011",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Birthday Cake.jpg"
+          ],
+          "chefName": "RAJINI SOARES",
+          "dishName": "BIRTHDAY CAKE",
+          "dishSubName": "",
+          "saleAmount": 1000.00,
+          "dishDescription": "",
+          "saleKgMg": "",
+          "calories": 345.00,
+          "protein": 5.16,
+          "fat": 22.12,
+          "carbs": 35.40,
+          "fiber": 0.44,
+          "sugar": 36.87,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "012",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chocolate Cake.jpg"
+          ],
+          "chefName": "RAJINI SOARES",
+          "dishName": "CHOCOLATE CAKE",
+          "dishSubName": "",
+          "saleAmount": 1000.00,
+          "dishDescription": "",
+          "saleKgMg": "",
+          "calories": 335.00,
+          "protein": 7.35,
+          "fat": 14.71,
+          "carbs": 38.82,
+          "fiber": 2.35,
+          "sugar": 36.76,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "013",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Brownie.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "BROWNIE",
+          "dishSubName": "",
+          "saleAmount": 50.00,
+          "dishDescription": "",
+          "saleKgMg": "for 80g",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "014",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Tarts.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "TARTS",
+          "dishSubName": "",
+          "saleAmount": 35.00,
+          "dishDescription": "",
+          "saleKgMg": "each",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },{
+          "dishId": "015",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Baked Mini Sausage Bites.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "BAKED MINI SAUSAGE BITES",
+          "dishSubName": "",
+          "saleAmount": 45.00,
+          "dishDescription": "",
+          "saleKgMg": "each",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },{
+          "dishId": "016",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Baked Chicken & Cheese Bites.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "BAKED CHICKEN AND CHEESE BITES",
+          "dishSubName": "",
+          "saleAmount": 190.00,
+          "dishDescription": "",
+          "saleKgMg": "for 300g",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },{
+          "dishId": "017",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Puff Pastries.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "PUFF PASTRY",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },{
+          "dishId": "018",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Donut.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "DONUT",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },{
+          "dishId": "019",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Gougere.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "GOUGERE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },{
+          "dishId": "020",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Walnut Bread Pudding.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "WALNUT BREAD PUDDING",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0012",
+      "categoryTitle": "BOTTLED/PACKAGED ITEM",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Orange Ginger Marmalade.jpg"
+          ],
+          "chefName": "LOUELLA ROGERS",
+          "dishName": "ORANGE GINGER CONSERVE / MARMALADE ",
+          "dishSubName": "",
+          "saleAmount": 300.00,
+          "dishDescription": "Made from fresh oranges, this conserve is like a sweet bitter marmalade with a hint of subtle heat from fiery ginger which complements the entire product really well as well as enhances the nutrition. Spread it on toast, try it on scones, yogurt,oatmeal or anyhow you like.",
+          "saleKgMg": "",
+          "calories": 227.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 8.47,
+          "fiber": 6.78,
+          "sugar": 84.75,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Tomato%20pickle%20(Andhra%20Style)%201.jpg"
+          ],
+          "chefName": "SURESH K S",
+          "dishName": "TOMATO PICKLE",
+          "dishSubName": "ANDHRA STYLE",
+          "saleAmount": 300.00,
+          "dishDescription": "Add a spoonfull of tomato pickle to meals for a varied taste palate which is not too spicy. It is a good antioxidant and aids in better digestion.",
+          "saleKgMg": "for 1kg",
+          "calories": 166.00,
+          "protein": 16.67,
+          "fat": 27.79,
+          "carbs": 46.38,
+          "fiber": 5.83,
+          "sugar": 3.33,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/AVAKAYA%20PICKLE%20(MANGO)%20-%20ANDHRA%20STYLE.jpg"
+          ],
+          "chefName": "SURESH K S",
+          "dishName": "AVAKAYA PICKLE ",
+          "dishSubName": "MANGO",
+          "saleAmount": 70.00,
+          "dishDescription": "Relish mangoes all year round with home made mango pickle made out of raw mangoes which is rich in vitamin C.",
+          "saleKgMg": "250 gm bottle",
+          "calories": 166.00,
+          "protein": 16.67,
+          "fat": 27.79,
+          "carbs": 46.38,
+          "fiber": 5.83,
+          "sugar": 3.33,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/5fb3a35d4815adb2479abb11/dosa%20batter.jpg"
+          ],
+          "chefName": "SURESH K S",
+          "dishName": "DOSA BATTER",
+          "dishSubName": "",
+          "saleAmount": 70.00,
+          "dishDescription": "Ready to cook dosa batter with perfect proportion of grains, pulses and no colors or additives, to relish perfect dosa while also saving time.",
+          "saleKgMg": "",
+          "calories": 219.00,
+          "protein": 12.44,
+          "fat": 0.77,
+          "carbs": 81.57,
+          "fiber": 4.92,
+          "sugar": 0.31,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/5fb3a35d4815adb2479abb11/vada.JPG"
+          ],
+          "chefName": "SURESH K S",
+          "dishName": "VADA BATTER",
+          "dishSubName": "",
+          "saleAmount": 70.00,
+          "dishDescription": "Ready to cook vada batter with perfect proportion of grains, pulses and no colors or additives, to relish perfect vada while also saving time.",
+          "saleKgMg": "",
+          "calories": 129.00,
+          "protein": 25.32,
+          "fat": 1.90,
+          "carbs": 52.85,
+          "fiber": 7.28,
+          "sugar": 12.66,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0013",
+      "categoryTitle": "SOUPS/STEW",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Mixed Veg Noodles Soup.jpg"
+          ],
+          "chefName": "",
+          "dishName": "MIXED VEG NOODLE SOUP",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "This is a great healthy veg option perfect for a comforting feeling. This is healthier than heavily fried noodles and retains much of its nutrients.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chicken Noodle Soup.jpg"
+          ],
+          "chefName": "",
+          "dishName": "MIXED VEG CHICKEN NOODLE SOUP",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Quick and hot soup with the goodness of vegetables, chicken, noodles blending in aromatic affair.",
+          "saleKgMg": "",
+          "calories":0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Steamed Chicken Soup.jpg"
+          ],
+          "chefName": "",
+          "dishName": "STEAMED CHICKEN & VEG SOUP/STEW",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Great option for someone looking for a warm, not too heavy dish. Steaming results in higher nutritional content.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0014",
+      "categoryTitle": "RICE",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Rice.jpg"
+          ],
+          "chefName": "",
+          "dishName": "PLAIN RICE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "White rice is staple for more than half of the world's population and is a great source of energy, amino acids and enzymes. it aids in better digestation and is best complemented with daal (pulses) in terms of amino acids.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Brown Rice.jpg"
+          ],
+          "chefName": "",
+          "dishName": "BROWN RICE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Rich in fiber(bran) and essential germ layer, it has higher amounts of protien, dietary fiber, vitamins, minerals and oryzanol as compared to polished rice. It is great for diabetics, people with high cholesterol and obesity.",
+          "saleKgMg": "",
+          "calories":0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Jeera Rice.jpg"
+          ],
+          "chefName": "sneha BAJAJ",
+          "dishName": "JEERA RICE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Rice with cumin seeds is a great combination which is non-sticky, flavourful prepared with ghee, cumin and fragnant spices. It goes well with almost any curry and is a great way to switch from monotonus meals.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Methi Rice.jpg"
+          ],
+          "chefName": "",
+          "dishName": "METHI RICE",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Made with fresh methi leaves, spices and rice, this is a refreshing dish which also increases the nutritional value of ordinary rice.",
+          "saleKgMg": "",
+          "calories":0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0015",
+      "categoryTitle": "ROTI/CHAPPATI",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chapathi,%20palya.jpg"
+          ],
+          "chefName": "Catherine",
+          "dishName": "MULTIGRAIN ROTI",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Rotis prepared out of flours of Indian grains and millets like bajra, jowar, ragi, whole wheat etc. are rich in iron, fibre, vitamin B, calcium among being low in fats and healthy macronutrient source. Paired with nutritious curries, they are a great meal choice. ",
+          "saleKgMg": "",
+          "calories": 129.15,
+          "protein": 11.25,
+          "fat":10.21,
+          "carbs": 62.03,
+          "fiber": 11.54,
+          "sugar": 4.98,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Plain Roti _ Chapathi.jpg"
+          ],
+          "chefName": "",
+          "dishName": "PLAIN ROTI/CHAPATI",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Roti and chapatti are a healthy option over fried products like puris. Made out of whole wheat flour, they are a good source of protein, fibre and minerals.",
+          "saleKgMg": "",
+          "calories":0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Methi Roti.jpg"
+          ],
+          "chefName": "",
+          "dishName": "METHI ROTI",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Adding additional benefits to ordinary roti by incorporating methi which is fenugreek leaves with appropriate condiments, they are great choice in terms of both taste and health.  Fenugreek is known fow lowering blood sugar leves, inflammation and cholesterol.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0016",
+      "categoryTitle": "INTERNATIONAL CUISINES",
+      "categorySubTitle": "CONTINENTAL/MEXICAN/CHINESE/ITALIAN",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/BURMESE%20KHOWSUEY.jpg"
+          ],
+          "chefName": "SNEHA BAJAJ",
+          "dishName": "KHOWSUEY",
+          "dishSubName": "",
+          "saleAmount": 290.00,
+          "dishDescription": "Khow Suey, a Burmese dish made out of noodles with coconut milk and vegetables, served with a variety of contrasting condiments. ",
+          "saleKgMg": "",
+          "calories": 172.00,
+          "protein": 29.30,
+          "fat": 16.90,
+          "carbs": 41.69,
+          "fiber": 6.20,
+          "sugar": 5.92,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Mexican Bowl.jpg"
+          ],
+          "chefName": "SNEHA BAJAJ",
+          "dishName": "MEXICAN BOWL",
+          "dishSubName": "BEANS/RICE/SALSA/SALAD/SPRING ONION/CAPSICUM/GLUACOMOLE",
+          "saleAmount": 350.00,
+          "dishDescription": "Mexican Bowl comprising of red kidney beans(rajmaa), rice, salsa, salad, spring onion, capsicum, and gluacomole which is avocado based dip. Healthy, filling and adding variety to your diet!",
+          "saleKgMg": "",
+          "calories":123.67,
+          "protein": 15.92,
+          "fat": 13.30,
+          "carbs": 58.71,
+          "fiber": 9.80,
+          "sugar": 2.27,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chinese Combo.jpg"
+          ],
+          "chefName": "SNEHA BAJAJ",
+          "dishName": "CHINESE COMBO",
+          "dishSubName": "FRIED RICE/HAKKA NOODLES/VEG MANCHURIAN BALLS",
+          "saleAmount": 350.00,
+          "dishDescription": "Chinese meal combo comprisising of fried rice, hakka noodles served with delicious veg manchurian balls. Made with fresh ingredients, no MSG or additives, this meal is filling and tasty at the same time.",
+          "saleKgMg": "",
+          "calories": 153.25,
+          "protein": 8.40,
+          "fat": 19.47,
+          "carbs": 64.81,
+          "fiber": 4.65,
+          "sugar": 2.67,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Thai Combo.jpg"
+          ],
+          "chefName": "SNEHA BAJAJ",
+          "dishName": "THAI COMBO",
+          "dishSubName": "THAI GREEN CURRY WITH BASIL RICE & PAPAYA SALAD",
+          "saleAmount": 400.00,
+          "dishDescription": "COCONUT BASED CURRY WITH EXOTIC VEGETABLES Paired  WITH basil RICE and RAW PAPAYA SALAD",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/focaccia.jpg"
+          ],
+          "chefName": "RASHI DIWEDI",
+          "dishName": "FOCCACIA WITH OLIVES & VEGETABLES",
+          "dishSubName": "",
+          "saleAmount": 250.00,
+          "dishDescription": "Foccacia bread with fresh vegetables and olives deliciously topped serve as a amazing side dish.",
+          "saleKgMg": "for half kg",
+          "calories": 250.00,
+          "protein": 16.98,
+          "fat": 15.09,
+          "carbs": 61.13,
+          "fiber": 3.40,
+          "sugar": 3.40,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "006",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Chicken Pineapple Pizza.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "CHICKEN PINEAPPLE PIZZA",
+          "dishSubName": "",
+          "saleAmount": 395.00,
+          "dishDescription": "COCONUTDelicious pizza topped with pineapple, chicken cubes, onions, cheese and baked. Can be customized as per preference.",
+          "saleKgMg": "for 10 inch",
+          "calories": 243.00,
+          "protein": 20.03,
+          "fat": 13.11,
+          "carbs": 62.20,
+          "fiber": 0.78,
+          "sugar": 3.89,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "007",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Au Gratin.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "AU GRATIN",
+          "dishSubName": "CHICKEN & MUSHROOM",
+          "saleAmount": 190.00,
+          "dishDescription": "Chicken, mushroom ,herbs are baked in creamy cheesey white sauce",
+          "saleKgMg": "for 375 ml",
+          "calories": 282.00,
+          "protein": 50.00,
+          "fat": 25.48,
+          "carbs": 22.24,
+          "fiber": 0.76,
+          "sugar": 1.52,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "008",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Au Gratin.jpg"
+          ],
+          "chefName": "MARCIA LEAH BURCHEL",
+          "dishName": "AU GRATIN",
+          "dishSubName": "CHICKEN & MUSHROOM",
+          "saleAmount": 350.00,
+          "dishDescription": "Chicken, mushroom ,herbs are baked in creamy cheesey white sauce",
+          "saleKgMg": "for 750 ml",
+          "calories": 282.00,
+          "protein": 50.00,
+          "fat": 25.48,
+          "carbs": 22.24,
+          "fiber": 0.76,
+          "sugar": 1.52,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "009",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Calzone (Folded Pizza Pocket).jpg"
+          ],
+          "chefName": "",
+          "dishName": "CALZONE (FOLDED PIZZA POCKET)",
+          "dishSubName": "CHEESE SPINACH & CORN/CHICKEN,MUSHROOM & CHEESE,CHICKEN & CHEESE,CHICKEN PINEAPPLE & CHEESE,CHICKEN JALAPENOS & CHEESE, PULLED BEEF & CHEESE,HAM & CHEESE",
+          "saleAmount": 0.00,
+          "dishDescription": "It is folded pizza pocket with desired filling , cheese and sauses, freshly baked.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0017",
+      "categoryTitle": "EXECUTIVE MENU",
+      "categorySubTitle": "",
+      "categoryDescription": "",
+      "categoryImg": "",
+      "menuDetails": [
+        {
+          "dishId": "001",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Stuffed Paratha With Curd & Pickle .jpg"
+          ],
+          "chefName": "",
+          "dishName": "STUFFED PARATHA, CURD, STIR FRIED VEGETABLES,  PICKLE ",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Stuffed parathas are a quick, healthy and filling option in between work or meetings. They can be simply indulged equally well with both curd and pickle or stir-fried fresh vegetables, all prepared without excessive oil.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "002",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Multigrain Roti.jpg"
+          ],
+          "chefName": "",
+          "dishName": "MULTIGRAIN ROTI,  CHANNA DAL, DRY ALOO,  SEWAI PAYASAM",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Rotis prepared from multigrain flour not only increases fiber content but also takes care of essential nutrients. Paired with pulses, vegetable, dessert, this is a complete veg meal!",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "003",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Corn Pulao.jpg"
+          ],
+          "chefName": "",
+          "dishName": "VEG CORN PULAO,  ALOO DUM, PARUPPU PAYASAM",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Add variety to your diet with this savory plus sweet combination prepared all from fresh ingredients! Increase your nutrient intake by incorporating variety of veggies in pulao and also combination of pulse and milk in paruppu payasam is a must!",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "004",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Corn Palak.jpg"
+          ],
+          "chefName": "",
+          "dishName": "CORN PALAK, CHAPATHI, SUJI BURFI",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Corn Palak is an amazing preparation of nutrient-rich spinach and corn. They are not only complementary in flavor and texture but also in terms of looks! Absolutely enticing when eaten with chappati and paired with suji barfi to end your meal. ",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        },
+        {
+          "dishId": "005",
+          "dishImage": [
+            "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Uttappam With Mint Chutney.jpg"
+          ],
+          "chefName": "",
+          "dishName": "VEG UTHAPPAM, MINT CHUTNEY, WHEAT JAGGERY LADOO",
+          "dishSubName": "",
+          "saleAmount": 0.00,
+          "dishDescription": "Give a break to classic uttapum and try veg uttapum for a healthy and quick meal.It is a tasty south Indian recipe supplying good carbs and minerals. Pairing with a healthy dessert gives you much needed fiber and iron while also catering your sweet cravings.",
+          "saleKgMg": "",
+          "calories": 0.00,
+          "protein": 0.00,
+          "fat": 0.00,
+          "carbs": 0.00,
+          "fiber": 0.00,
+          "sugar": 0.00,
+          "suitableFor": [
+            "DIABETIC PATIENTS",
+            "PREGNANT WOMEN",
+            "HEART PATIENTS",
+            "GENERAL"
+          ]
+        }
+      ]
+    }
+  ]
+}

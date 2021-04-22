@@ -1,0 +1,207 @@
+<!--<td class="d-md-flex align-items-center">
+    <figure>
+        <a href={{menuItem.dishImage[0]}} title="Photo title">
+            <img style="max-width: 60px; max-height: 60px; height: auto; width: auto;" src={{menuItem.dishImage[0]}}
+                alt="thumb" class="lazy">
+        </a>
+    </figure>
+
+    <div class="flex-md-column">
+        <h4>
+            {{ menuItem.dishName }}
+        </h4>
+        <p>
+            {{ menuItem.dishDescription }}
+        </p>
+    </div>
+</td>
+
+<td>
+    {{ menuItem.saleAmount | priceview }}
+</td>
+
+<td class="options">
+    <div class="dropdown dropdown-options">
+        <i class="icon_minus_alt2" (click)="handleQuantity(1)"></i>
+        &nbsp;
+
+        {{ quantity }}
+
+        &nbsp;
+        <i class="icon_plus_alt2" (click)="handleQuantity(-1)"></i>
+    </div>
+</td>-->
+
+
+
+<div class="container">
+    <div class="row img-thumbnail" style="padding: 10px;margin: 10px;">
+        <div class="col-lg-8 d-flex flex-row align-items-center flex-md-column" data-toggle="modal"
+            [attr.data-target]="'#detail-view-' + menuItem.uniqueDishId">
+            <figure style="margin: 2px;">
+                <!--<a href={{menuItem.dishImage[0]}} title="Photo title">
+                    <img style="width: 70px; height: 70px; " class="img-fluid img-thumbnail" src={{menuItem.dishImage[0]}}
+                        alt="thumb" class="lazy">
+                </a>-->
+                <img style="width: 70px; height: 70px; " class="img-fluid img-thumbnail" src={{menuItem.dishImage[0]}}
+                    alt="thumb" class="lazy">
+
+            </figure>
+
+            <div class="flex-md-column" style="padding:5px 5px 5px 10px;">
+                <h4 style="font-size: 13px;">
+                    {{ menuItem.dishName }}
+                </h4>
+                <p style="font-size: 13px;margin: 0px;" class="someDiv">
+                    {{ menuItem.dishDescription }}
+                </p>
+            </div>
+
+        </div>
+        <div class="col-lg-2  flex-md-column">
+            <h4 style="font-size: 13px;"> {{ menuItem.saleAmount | priceview }}</h4>
+
+        </div>
+        <div class="col-lg-2  flex-md-column" style="text-align: center;">
+            <i class="icon_minus_alt2" (click)="handleQuantity(1,menuItem.uniqueDishId)" style="font-size: 16px;color: #e54750;"></i>
+            <!-- &nbsp; -->
+           <!-- *ngFor="let item of loclobj2.menuItemSummaries"
+            *ngIf="item.dishName==menuItem.dishName" -->
+
+            <input type="text" id="{{menuItem.uniqueDishId}}" [(ngModel)]="value[menuItem.uniqueDishId]" disabled
+            style="width: 30px; border: none;background-color:white;text-align: center;">
+             <!-- &nbsp; -->
+            <i class="icon_plus_alt2" (click)="handleQuantity(-1,menuItem.uniqueDishId)" style="font-size: 16px; color: #e54750;"></i>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<!-- Modal -->
+<div id="detail-view-{{menuItem.uniqueDishId}}" class="modal fade bd-example-modal-lg" role="dialog"
+    style="margin-top:40px">
+    <div class="modal-dialog modal-lg">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Detail</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <main class="bg_gray">
+
+                    <div class="container margin_20_20">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12">
+                                <div class="box_order_form">
+                                    <div class="head">
+                                        <div class="title">
+                                            <h3>{{ menuItem.dishName }}</h3>
+                                        </div>
+                                    </div>
+                                    <!-- /head -->
+                                    <div class="main">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-lg-6 col-sm-12">
+
+                                                    <figure>
+                                                        <img src={{menuItem.dishImage[0]}} class="img-fluid" />
+                                                    </figure>
+                                                </div>
+                                                <div class="col-lg-6 col-sm-12">
+
+                                                    <label>
+                                                        {{ menuItem.dishDescription }}
+                                                    </label>
+                                                    <label style="size:14px;font-weight:bold;padding-top:10px">
+                                                        NUTRITION DETAILS
+                                                    </label>
+
+                                                    <br>
+
+                                                    <label style="size:12px;padding-left: 25px;">
+                                                        <span>PROTEIN : {{ menuItem.protein }} %</span>
+                                                        <br />
+
+                                                        <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                                        <span>CALORIES : {{ menuItem.calories }} </span>
+                                                        <br />
+
+                                                        <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                                        <span>CARBS : {{ menuItem.carbs }} %</span>
+                                                        <br />
+                                                        <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+
+                                                        <span>SUGAR : {{ menuItem.sugar }} %</span>
+                                                        <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                                        <br />
+
+                                                        <span>FAT : {{ menuItem.fat }} %</span>
+                                                        <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                                        <br />
+
+                                                        <span>FIBER : {{ menuItem.fiber }} %</span>
+                                                        <br />
+                                                    </label>
+                                                    <br>
+                                                </div>
+
+                                            </div>
+
+
+
+
+
+                                            <!-- <label style="size:14px;font-weight:bold;padding-top:10px">
+                                                SUITABLE FOR
+                                            </label> -->
+
+                                            <!-- <br>/ -->
+
+                                            <!-- <label style="size:12px;padding-top:10px">
+                                                <span
+                                                    *ngFor="let suitableForItem of menuItem.suitableFor; last as isLast">
+                                                    {{ suitableForItem }} <span *ngIf="!isLast"
+                                                        style="color:#e54750;padding-left:10px">| &nbsp; </span>
+                                                </span>
+                                            </label> -->
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <!-- /row -->
+                    </div>
+                    <!-- /container -->
+
+                </main>
+            </div>
+            <!----<div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>-->
+        </div>
+
+    </div>
+</div>
+
+
+
+<style>
+    .someDiv {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+</style>

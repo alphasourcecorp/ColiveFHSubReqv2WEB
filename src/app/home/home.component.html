@@ -1,0 +1,327 @@
+<app-header></app-header>
+<div id="mySidenav" class="sidenav">
+    <a><img src="img/logo-white.png" width="162" height="35" alt="" /></a>
+    <a href="javascript:void(0)" class="closebtn" (click)="closeNav()">&times;</a>
+    <div class="container my-2" style="width: auto;color: white;">
+        <div class="my-2">
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="breakfast"
+                (change)="onCheckboxChangeBreakfast()"  class="m-1" type="checkbox" value="">Breakfast</label>
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="lunch"
+                (change)="onCheckboxChangelunch()" class="m-1"type="checkbox" value="">Lunch</label>
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="dinner"
+                (change)="onCheckboxChangeDinner()"class="m-1" type="checkbox" value="">Dinner</label>
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="snacks"
+                (change)="onCheckboxChangesnacks()" class="m-1" type="checkbox" value="">Snacks</label>
+        </div>
+        <input (input)="search()" [(ngModel)]="query" class="form-control" type="text" placeholder="Search" class="form-control" style="width: 100%;">
+    </div>
+
+    <a (click)="closeNav()" [routerLink]="'.'" [fragment]="'section-def-' + menuCategoryInfo.id" *ngFor="let menuCategoryInfo of submenu; let count = index">
+    {{ menuCategoryInfo.categoryName }} ({{ menuCategoryInfo.noOfDishes }})
+  </a>
+</div>
+<!-- side nav -->
+<app-navigation></app-navigation>
+<app-hero-main></app-hero-main>
+<div class="container m_detail summary-content">
+    <div class="row">
+        <div class="col-lg-8">
+            <div *ngFor="let item of menu; let count = index">
+                <section id="{{ 'section-def-' + item.id }}" style="padding-top: 65px">
+                    <h4 style="font-size: 18px; font-weight: bold">
+                        {{ item.categoryTitle }}
+                        <span *ngIf="item.categorySubTitle">
+              ({{ item.categorySubTitle }})
+            </span>
+                    </h4>
+                    <p style="text-align: justify">
+                        {{ item.categoryDescription }}
+                    </p>
+
+                    <div class="table_wrapper">
+                        <div class="container">
+                            <div class="row d-flex justify-content-between hidemobile">
+                                <div class="col-sm-8">
+                                    <h4 style="font-size: 14px">Dish Name</h4>
+                                </div>
+                                <div class="col-sm-2">
+                                    <h4 style="font-size: 14px">Price</h4>
+                                </div>
+                                <div class="col-sm-2">
+                                    <h4 style="font-size: 14px">Quantity</h4>
+                                </div>
+                            </div>
+                            <div class="row" *ngFor="let menuItem of item.menuDetails">
+                                <!-- <div *ngIf="!menuItem[mealtype]">No dish Available in this Category for {{mealtype}}</div> -->
+                                <div *ngIf="menuItem[mealtype]" class="container">
+                                    <div class="row img-thumbnail" style="padding: 10px; margin: 10px">
+                                        <div class="col-lg-8 d-flex flex-row align-items-center flex-md-column" data-toggle="modal" [attr.data-target]="
+                        '#detail-view-' + menuItem.uniqueDishId
+                      ">
+                                            <figure style="margin: 2px">
+                                                <!--<a href={{menuItem.dishImage[0]}} title="Photo title">
+                  <img style="width: 70px; height: 70px; " class="img-fluid img-thumbnail" src={{menuItem.dishImage[0]}}
+                      alt="thumb" class="lazy">
+              </a>-->
+                                                <img style="width: 70px; height: 70px" class="img-fluid img-thumbnail" src="{{ menuItem.dishImage[0] }}" alt="thumb" class="lazy" />
+                                            </figure>
+
+                                            <div class="flex-md-column" style="padding: 5px 5px 5px 10px">
+                                                <h4 style="font-size: 13px">
+                                                    {{ menuItem.dishName }}
+                                                </h4>
+                                                <p style="font-size: 13px; margin: 0px" class="someDiv">
+                                                    {{ menuItem.dishDescription }}
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2 flex-md-column">
+                                            <h4 style="font-size: 13px">
+                                                {{ menuItem.saleAmount | priceview }}
+                                            </h4>
+                                        </div>
+                                        <div class="col-lg-2 flex-md-column" style="text-align: center">
+                                            <i class="icon_minus_alt2" (click)="handleQuantity(1, menuItem.uniqueDishId)" style="font-size: 16px; color: #e54750"></i>
+                                            <!-- &nbsp; -->
+                                            <!-- *ngFor="let item of loclobj2.menuItemSummaries"
+          *ngIf="item.dishName==menuItem.dishName" -->
+
+                                            <input type="text" id="{{ menuItem.uniqueDishId }}" [(ngModel)]="value[menuItem.uniqueDishId]" disabled style="
+                          width: 30px;
+                          border: none;
+                          background-color: white;
+                          text-align: center;
+                        " />
+                                            <!-- &nbsp; -->
+                                            <i class="icon_plus_alt2" (click)="handleQuantity(-1, menuItem.uniqueDishId)" style="font-size: 16px; color: #e54750"></i>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Modal -->
+                                <div id="detail-view-{{ menuItem.uniqueDishId }}" class="modal fade bd-example-modal-lg" role="dialog" style="margin-top: 40px">
+                                    <div class="modal-dialog modal-lg">
+                                        <!-- Modal content-->
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title">Detail</h4>
+                                                <button type="button" class="close" data-dismiss="modal">
+                          &times;
+                        </button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <main class="bg_gray">
+                                                    <div class="container margin_20_20">
+                                                        <div class="row justify-content-center">
+                                                            <div class="col-lg-12">
+                                                                <div class="box_order_form">
+                                                                    <div class="head">
+                                                                        <div class="title">
+                                                                            <h3>{{ menuItem.dishName }}</h3>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- /head -->
+                                                                    <div class="main">
+                                                                        <div class="form-group">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-6 col-sm-12">
+                                                                                    <figure>
+                                                                                        <img src="{{ menuItem.dishImage[0] }}" class="img-fluid" />
+                                                                                    </figure>
+                                                                                </div>
+                                                                                <div class="col-lg-6 col-sm-12">
+                                                                                    <label>
+                                            {{ menuItem.dishDescription }}
+                                          </label>
+                                                                                    <label style="
+                                              size: 14px;
+                                              font-weight: bold;
+                                              padding-top: 10px;
+                                            ">
+                                            NUTRITION DETAILS
+                                          </label>
+
+                                                                                    <br />
+
+                                                                                    <label style="
+                                              size: 12px;
+                                              padding-left: 25px;
+                                            ">
+                                            <span
+                                              >PROTEIN :
+                                              {{ menuItem.protein }} %</span
+                                            >
+                                            <br />
+
+                                            <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                            <span
+                                              >CALORIES :
+                                              {{ menuItem.calories }}
+                                            </span>
+                                            <br />
+
+                                            <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                            <span
+                                              >CARBS :
+                                              {{ menuItem.carbs }} %</span
+                                            >
+                                            <br />
+                                            <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+
+                                            <span
+                                              >SUGAR :
+                                              {{ menuItem.sugar }} %</span
+                                            >
+                                            <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                            <br />
+
+                                            <span
+                                              >FAT : {{ menuItem.fat }} %</span
+                                            >
+                                            <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                            <br />
+
+                                            <span
+                                              >FIBER :
+                                              {{ menuItem.fiber }} %</span
+                                            >
+                                            <br />
+                                          </label>
+                                                                                    <br />
+                                                                                </div>
+                                                                            </div>
+
+                                                                            <!-- <label style="size:14px;font-weight:bold;padding-top:10px">
+                                              SUITABLE FOR
+                                          </label> -->
+
+                                                                            <!-- <br>/ -->
+
+                                                                            <!-- <label style="size:12px;padding-top:10px">
+                                              <span
+                                                  *ngFor="let suitableForItem of menuItem.suitableFor; last as isLast">
+                                                  {{ suitableForItem }} <span *ngIf="!isLast"
+                                                      style="color:#e54750;padding-left:10px">| &nbsp; </span>
+                                              </span>
+                                          </label> -->
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /row -->
+                                                    </div>
+                                                    <!-- /container -->
+                                                </main>
+                                            </div>
+                                            <!----<div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>-->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- /section -->
+            </div>
+            <!-- /col -->
+        </div>
+        <div class="col-lg-4 p-0 .d-md-none" stickySidebar>
+            <!-- Content goes here -->
+            <app-summary [menuItemSummaries]="menuSelections"></app-summary>
+        </div>
+
+    </div>
+    <!-- /row -->
+    <div class="btn_reserve_fixed" style="text-align: center">
+        <a class="btn_1 gradient" style="width: 250px">View Basket</a>
+    </div>
+</div>
+
+<!-- /container -->
+<style>
+    @media screen and (max-width: 600px) {
+        .hidemobile {
+            visibility: hidden;
+            display: none;
+        }
+    }
+    
+    .padng {
+        margin: 0px 0px 0px 0px;
+    }
+    
+    .m_detail {
+        margin-top: 45px;
+        margin-bottom: 60px;
+    }
+    
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+    
+    .sidenav {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1000000;
+        top: 0;
+        left: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 20px;
+    }
+    
+    .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 16px;
+        color: #f1f1f1;
+        display: block;
+        transition: 0.3s;
+    }
+    
+    .sidenav a:hover {
+        color: #f1f1f1;
+    }
+    
+    .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 10px;
+        font-size: 35px;
+        margin-left: 50px;
+    }
+    
+    #main {
+        transition: margin-left 0.5s;
+        padding: 0px;
+    }
+    
+    .table.cart-list td .dropdown-options {
+        text-align: center;
+    }
+    
+    @media screen and (max-height: 450px) {
+        .sidenav {
+            padding-top: 15px;
+        }
+        .sidenav a {
+            font-size: 16px;
+        }
+    }
+    
+    .secondary_nav {
+        padding: 10px 0;
+    }
+    
+    .modal-header {
+        display: -ms-flexbox;
+        display: block;
+    }
+</style>

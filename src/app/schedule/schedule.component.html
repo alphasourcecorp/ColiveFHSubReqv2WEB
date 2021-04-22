@@ -1,0 +1,489 @@
+<app-header></app-header>
+<main class="bg_gray">
+    <div class="container margin_60_20">
+        <div class="row justify-content-center">
+            <div class="col-xl-6 col-lg-8">
+                <div class="box_order_form">
+                    <div class="head">
+                        <div class="title">
+                            <h3>Dish</h3>
+                        </div>
+                    </div>
+                    <!-- /head -->
+                    <div class="main">
+                        <div class="table_wrapper">
+                            <div class="row">
+                                <div class="col-sm-7">
+                                    <h4 style="font-size: 14px; text-align: left">Dish Name</h4>
+                                </div>
+                                <div class="col-sm-2">
+                                    <h4 style="font-size: 14px; text-align: center">Price</h4>
+                                </div>
+                                <div class="col-sm-3">
+                                    <h4 style="font-size: 14px; text-align: center">Quantity</h4>
+                                </div>
+                            </div>
+                            <!-- loop start -->
+                            <div class="container" *ngFor="let menuItem of menuItemSummaries">
+                                <div class="row py-2 my-2" style="border-top: 2px solid #eceaea">
+                                    <div class="col-sm-7 d-flex flex-row align-items-center flex-md-column">
+                                        <img style="width: 70px; height: 70px" class="img-fluid img-thumbnail" src="{{ menuItem.dishImage }}" alt="thumb" class="lazy" />
+                                        <div class="flex-md-column" style="padding: 5px 5px 5px 10px">
+                                            <h4 style="font-size: 13px">
+                                                {{ menuItem.dishName }}
+                                            </h4>
+                                            <label class="container1">
+                                                <input type="checkbox" checked="checked"
+                                                    [(ngModel)]="check[menuItem.uniqueDishId]" />
+                                                <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-2 d-flex justify-content-center align-items-center">
+                                        <h4 style="font-size: 13px">
+                                            {{ menuItem.saleAmount | priceview }}
+                                        </h4>
+                                    </div>
+                                    <div class="col-sm-3 d-flex justify-content-center align-items-center" style="text-align: center">
+                                        <i class="icon_minus_alt2" (click)="handleQuantity(1, menuItem.uniqueDishId)" style="margin-right: 2px; color: #faba17; font-size: 22px"></i>
+                                        <!-- &nbsp; -->
+                                        <!-- *ngFor="let item of loclobj2.menuItemSummaries"
+              *ngIf="item.dishName==menuItem.dishName" -->
+                                        <input type="text" disabled [(ngModel)]="value[menuItem.uniqueDishId]" style="
+                        width: 30px;
+                        font-size: 20px;
+
+                        border: none;
+                        background-color: white;
+                        text-align: center;
+                      " />
+                                        <!-- &nbsp; -->
+
+                                        <i class="icon_plus_alt2" (click)="handleQuantity(-1, menuItem.uniqueDishId)" style="color: #faba17; font-size: 22px"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- loop start -->
+                        </div>
+                        <div class="d-flex justify-content-end py-3">
+                            <a (click)="goTohome()" class="btn_1 gradient full-width mb_5" style="width: 150px">Add
+                                more</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- /col -->
+            <div class="col-xl-4 col-lg-4" id="sidebar_fixed">
+                <div class="box_order">
+                    <div class="head">
+                        <h3>Scheduling</h3>
+                        <!--<div>Corporate Meal Subscription</div>-->
+                    </div>
+                    <!-- /head -->
+                    <div class="main">
+                        <div class="row">
+                            <div class="col-12">
+                                Start Date
+                                <div class="dropdown day">
+                                    <input type="date" placeholder="dd-mm-yyyy" min="{{ tdddMMyyyy }}" (change)="addEvent()" [(ngModel)]="startDate" style="border: none; padding: 5px; width: 100%" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                End Date
+                                <div class="dropdown day">
+                                    <input type="date" placeholder="dd-mm-yyyy" min="{{ tdddMMyyyy }}" (change)="addEvent()" [(ngModel)]="endDate" style="border: none; padding: 5px; width: 100%" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--<label for="day_2">End Date</label>
+               <div class="dropdown day">
+                                <input type="date" placeholder="" style="border:none;padding:5px;width:100%">
+
+                           </div>-->
+                        <div class="row align-middle" style="padding: 10px 0px 10px 0px">
+                            <div class="col-4">
+                                <label class="container1" style="text-align: left">
+                                    <input type="checkbox" [(ngModel)]="BFselect" />
+                                    <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                    <span style="font-size: 13px; padding-left: 5px"
+                                        class="align-middle">Breakfast</span>
+                                </label>
+                            </div>
+                            <div class="col-4">
+                                <label class="container1" style="text-align: left"><span
+                                        style="font-size: 13px; padding-left: 5px">Lunch</span>
+                                    <input type="checkbox" [(ngModel)]="Lselect" />
+                                    <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                </label>
+                            </div>
+                            <div class="col-4">
+                                <label class="container1" style="text-align: left"><span
+                                        style="font-size: 13px; padding-left: 5px">Dinner</span>
+                                    <input type="checkbox" [(ngModel)]="Dselect" />
+                                    <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class=""></div>
+
+                        <div class="dropdown" data-toggle="collapse" href="#collapseExample">
+                            <div class="row">
+                                <div class="col-8">
+                                    <p style="margin: 5px 0px 5px 5px">Scheduling Date View</p>
+                                </div>
+                                <div class="col-4 d-flex justify-content-end">
+                                    <img src="img/schedule/arrowup.png" alt="" style="width: 20px; height: 20px; margin: 5px" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="collapse" id="collapseExample">
+                            <div *ngIf="startDate && endDate">
+                                <div class="row text-center">
+                                    <div class="col-4">
+                                        <div class="btn btn-primary" mwlCalendarPreviousView [view]="view" [(viewDate)]="viewDate">
+                                            Previous
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <h6>
+                                            {{ viewDate | calendarDate: view + "ViewTitle":"en" }}
+                                        </h6>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="btn btn-primary" mwlCalendarNextView [view]="view" [(viewDate)]="viewDate">
+                                            Next
+                                        </div>
+                                    </div>
+                                </div>
+                                <mwl-calendar-month-view [viewDate]="viewDate" [events]="events" (dayClicked)="dayClicked($event.day)">
+                                </mwl-calendar-month-view>
+                            </div>
+                            <p>
+                                <span style="
+                    font-size: 12px;
+                    padding: 1px 0px 10px 0px;
+                    font-weight: bold;
+                  " class="align-middle">Tap to Excludes Date</span>
+                            </p>
+                            <div class="row align-middle">
+                                <div class="col-4">
+                                    <label class="container1" style="text-align: left">
+                                        <input type="checkbox" checked="checked" [(ngModel)]="sunDay"
+                                            (change)="onCheckboxChange(sunDay, 'sunday', 0)" />
+                                        <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                        <span style="font-size: 13px; padding-left: 5px"
+                                            class="align-middle">Sunday</span>
+                                    </label>
+                                    <label class="container1" style="text-align: left">
+                                        <input type="checkbox" checked="checked" [(ngModel)]="wednesDay"
+                                            (change)="onCheckboxChange(wednesDay, 'wednesday', 3)" />
+                                        <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                        <span style="font-size: 13px; padding-left: 5px"
+                                            class="align-middle">Wednesday</span>
+                                    </label>
+                                    <label class="container1" style="text-align: left">
+                                        <input type="checkbox" checked="checked" [(ngModel)]="satDay"
+                                            (change)="onCheckboxChange(satDay, 'satday', 6)" />
+                                        <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                        <span style="font-size: 13px; padding-left: 5px"
+                                            class="align-middle">Saturday</span>
+                                    </label>
+                                </div>
+                                <div class="col-4">
+                                    <label class="container1" style="text-align: left"><span
+                                            style="font-size: 13px; padding-left: 5px">Monday</span>
+                                        <input type="checkbox" checked="checked" [(ngModel)]="monDay"
+                                            (change)="onCheckboxChange(monDay, 'monday', 1)" />
+                                        <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                    </label>
+                                    <label class="container1" style="text-align: left"><span
+                                            style="font-size: 13px; padding-left: 5px">Thursday</span>
+                                        <input type="checkbox" checked="checked" [(ngModel)]="thusDay"
+                                            (change)="onCheckboxChange(thusDay, 'thusday', 4)" />
+                                        <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                    </label>
+                                </div>
+                                <div class="col-4">
+                                    <label class="container1" style="text-align: left"><span
+                                            style="font-size: 13px; padding-left: 5px">Tuesday</span>
+                                        <input type="checkbox" checked="checked" [(ngModel)]="tuesDay"
+                                            (change)="onCheckboxChange(tuesDay, 'tuesday', 2)" />
+                                        <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                    </label>
+                                    <label class="container1" style="text-align: left"><span
+                                            style="font-size: 13px; padding-left: 5px">Friday</span>
+                                        <input type="checkbox" checked="checked" [(ngModel)]="friDay"
+                                            (change)="onCheckboxChange(friDay, 'friday', 5)" />
+                                        <span class="checkmark" style="border: 2px solid #faba17"></span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div>
+                                <span style="
+                    font-size: 12px;
+                    font-weight: bold;
+                    margin: 10px 0px 10px 0px;
+                  " class="align-middle">Notes :</span>
+                                <div class="row align-middle opt_order" style="padding: 10px 0px 10px 0px">
+                                    <div class="col-6">
+                                        <label class="" style="text-align: left">
+                                            <img src="img/schedule/corporate_dish_book2.png" alt=""
+                                                style="width: 20px; height: 20px" /><span
+                                                style="font-size: 10px; padding-left: 5px" class="align-middle">Dishes
+                                                Booked</span>
+                                        </label>
+                                        <label class="" style="text-align: left">
+                                            <img src="img/schedule/corporate_dish_not_able_deliver.png" alt=""
+                                                style="width: 20px; height: 20px" /><span
+                                                style="font-size: 10px; padding-left: 5px" class="align-middle">Dish not
+                                                avilable</span>
+                                        </label>
+                                        <label class="" style="text-align: left">
+                                            <img src="img/schedule/corporate_dish_not_deliver.png" alt=""
+                                                style="width: 20px; height: 20px" /><span
+                                                style="font-size: 10px; padding-left: 5px" class="align-middle">Dish not
+                                                deliver on that day</span>
+                                        </label>
+                                    </div>
+                                    <div class="col-6">
+                                        <label class="" style="text-align: left">
+                                            <img src="img/schedule/corporate_dish_deliver2.png" alt=""
+                                                style="width: 20px; height: 20px" /><span
+                                                style="font-size: 10px; padding-left: 5px" class="align-middle">Dishes
+                                                Deliveres</span>
+                                        </label>
+                                        <label class="" style="text-align: left">
+                                            <img src="img/schedule/corporate_dish_disable2.png" alt=""
+                                                style="width: 20px; height: 20px" /><span
+                                                style="font-size: 10px; padding-left: 5px" class="align-middle">dish
+                                                don't want on that day</span>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <a href="" class="btn_1 gradient full-width mb_5" (click)="convert()" style="margin: 20px 0px 20px 0px" data-toggle="modal" data-target="#myModalSchedule">Confirm Order</a>
+                    </div>
+                </div>
+                <!-- /box_booking -->
+            </div>
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</main>
+<!-- /main -->
+
+<div *ngIf="startDate && endDate" id="myModalSchedule" class="modal fade" role="dialog" style="margin-top: 30px">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Summary</h4>
+                <button type="button" class="close" data-dismiss="modal">
+                    &times;
+                </button>
+            </div>
+            <div class="modal-body">
+                <main class="bg_gray">
+                    <div class="container margin_20_20">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12">
+                                <div class="box_order_form">
+                                    <!-- /head -->
+                                    <div class="main">
+                                        <div class="form-group">
+                                            <label>Start Date :
+                                                <span style="font-size: 12px">{{
+                                                    startDate
+                                                    }}</span></label><label style="padding-left: 30px">End Date :
+                                                <span style="font-size: 12px">{{
+                                                    endDate
+                                                    }}</span></label>
+                                            <p>
+                                                <label id="labelspan" style="size: 12px; padding-top: 10px">
+                                                    <p style="display: inline">Meals Plan :</p>
+                                                    <span *ngIf="BFselect == true"
+                                                        style="font-size: 12px">Breakfast</span>
+                                                    <span *ngIf="Lselect == true && BFselect == true"
+                                                        style="color: #e54750; padding-left: 10px">|</span>
+
+                                                    <span *ngIf="Lselect == true"
+                                                        style="padding-left: 10px; font-size: 12px">Lunch</span>
+                                                    <span *ngIf="Lselect == true && Dselect == true"
+                                                        style="color: #e54750; padding-left: 10px">|</span>
+                                                    <span *ngIf="
+                              Lselect == false &&
+                              Dselect == true &&
+                              BFselect == true
+                            " style="color: #e54750; padding-left: 10px">|</span>
+                                                    <span *ngIf="Dselect == true"
+                                                        style="padding-left: 10px; font-size: 12px">Dinner</span>
+                                                </label>
+                                            </p>
+                                            <div class="container" *ngFor="let menuItem of menuItemSummaries">
+                                                <div *ngIf="check[menuItem.uniqueDishId] == true" class="row" style="border-top: 2px solid #eceaea">
+                                                    <div class="col-sm-12 d-flex flex-row align-items-center flex-md-column">
+                                                        <img style="width: 50px; height: 50px" class="img-fluid img-thumbnail" src="{{ menuItem.dishImage }}" alt="thumb" class="lazy" />
+                                                        <div class="flex-md-column" style="padding: 5px 5px 5px 10px">
+                                                            <h4 style="font-size: 13px">
+                                                                {{ menuItem.dishName }}
+                                                            </h4>
+                                                            <h4 style="font-size: 13px">
+                                                                {{ value[menuItem.uniqueDishId] }} X {{ menuItem.saleAmount | priceview }}
+                                                            </h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- loop start -->
+                                            <!--exclude dates -->
+
+                                            <label style="size: 14px; font-weight: bold; padding-top: 10px">Excluded
+                                                days</label><br />
+                                            <div class="d-flex text-center" style="
+                          font-size: small;
+                          font-weight: 500;
+                          flex-wrap: wrap;
+                        ">
+                                                <span class="mr-1" *ngFor="let item of Excluded_days">
+                                                 
+                                                    <p style="font-size:12px;padding:3px;margin:0px;font-size:12px;"> {{ month_names_short[item.slice(5,7)] }}
+                                                    </p>
+                                                    <p style="font-size:12px;padding:5px;margin:0px;text-align:center"
+                                                        class="circlebg">{{ item.slice(8,10) }}</p>
+                                                    <p style="font-size:12px;padding:3px;margin:0px;font-size:12px;">
+                                                        {{ item.slice(0,4) }}</p>
+                                                </span>
+
+                                            </div>
+                                            <a *ngIf="!ScheduleID" class="btn_1 gradient full-width mb_5" style="margin: 20px 0px 20px 0px" (click)="addToschedule()" data-dismiss="modal">Add To Schedule</a>
+                                            <a *ngIf="ScheduleID && !RSdata" class="btn_1 gradient full-width mb_5" style="margin: 20px 0px 20px 0px" (click)="Editschedule()" data-dismiss="modal">Update Schedule</a>
+                                            <a *ngIf="ScheduleID && RSdata" class="btn_1 gradient full-width mb_5" style="margin: 20px 0px 20px 0px" (click)="RequestscheduleEdit()" data-dismiss="modal">Update Schedule </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /row -->
+                    </div>
+                    <!-- /container -->
+                </main>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="cartvalue">
+    <app-cartvalue></app-cartvalue>
+</div>
+<style>
+    /* The container */
+    
+    .cartvalue {
+        top: 10px;
+        right: 20px;
+        z-index: 99999;
+        position: absolute;
+    }
+    
+    .container1 {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 20px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    /* Hide the browser's default checkbox */
+    
+    .container1 input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 22px;
+        width: 22px;
+        background-color: #eee;
+        margin-left: 10px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    /* On mouse-over, add a grey background color */
+    
+    .container1:hover input~.checkmark {
+        background-color: #ccc;
+    }
+    /* When the checkbox is checked, add a blue background */
+    
+    .container1 input:checked~.checkmark {
+        background-color: #faba17;
+    }
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    /* Show the checkmark when checked */
+    
+    .container1 input:checked~.checkmark:after {
+        display: block;
+    }
+    /* Style the checkmark/indicator */
+    
+    .container1 .checkmark:after {
+        left: 8px;
+        top: 2px;
+        width: 5px;
+        height: 13px;
+        border: solid white;
+        border-width: 0 3px 3px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    .circlebg {
+        width: 28px;
+        height: 28px;
+        background: #e54750;
+        -moz-border-radius: 70px;
+        -webkit-border-radius: 70px;
+        border-radius: 70px;
+        color: #fff;
+    }
+    
+    input[type="date"]::-webkit-calendar-picker-indicator {
+        background: transparent;
+        bottom: 0;
+        color: transparent;
+        cursor: pointer;
+        height: auto;
+        left: auto;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 100%;
+    }
+</style>

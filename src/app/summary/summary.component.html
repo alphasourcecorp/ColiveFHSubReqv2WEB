@@ -1,0 +1,61 @@
+<div class="m-top">
+    <div class="container card">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="box_order mobile_fixed">
+                    <div class="head">
+                        <h3>Items Summary</h3>
+                        <a href="#0" class="close_panel_mobile"><i class="icon_close"></i
+            ></a>
+                    </div>
+                    <!-- /head -->
+                    <div class="main">
+                        <p>
+                            <img src="img/largeicon.jpg" class="img-fluid" />
+                        </p>
+
+                        <ul class="clearfix">
+                            <li *ngFor="let summaryInfo of menuItemSummaries" class="d-flex justify-content-between">
+                                <p style="cursor: pointer;">
+                                    {{ summaryInfo.quantity }}x &nbsp; {{ summaryInfo.dishName }}
+                                </p>
+
+                                <p>
+                                    {{ summaryInfo.saleAmount }}
+                                </p>
+                            </li>
+
+                            <!-- <li><a href="#0">1x Masala Dosa</a><span>Rs.50</span></li>
+                        <li><a href="#0">2x Idli</a><span>Rs.50</span></li>
+                        <li><a href="#0">1x Egg Biryani</a><span>Rs.50</span></li>
+                        <li><a href="#0">2x Orange Juice</a><span>Rs.50</span></li>
+                        <li><a href="#0">2x Cheese Cake</a><span>Rs.50</span></li> -->
+                        </ul>
+
+
+                        <!-- /dropdown -->
+                        <div class="btn_1_mobile">
+                            <div id="divsubclick">
+                                <a (click)="navigate($event)" id="subclick" class="btn_1 gradient full-width mb_5">Schedule Now</a
+                >
+              </div>
+              <div class="text-center">
+                <small>No money charged on this steps</small>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- /box_order -->
+      </div>
+    </div>
+  </div>
+</div>
+<style>
+  @media only screen and (min-width: 600px) {
+    .m-top {
+      /* margin-top: 60px; */
+      padding-top: 80px;
+      padding-bottom: 10px;
+    }
+  }
+</style>

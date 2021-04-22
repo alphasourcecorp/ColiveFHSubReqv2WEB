@@ -1,0 +1,25 @@
+<!--<nav class="secondary_nav" style="position: fixed;top: 0;z-index:6000">-->
+<nav class="secondary_nav " style="position: fixed;top: 0;z-index:6000">
+    <div class="container">
+        <ul id="secondary_nav">
+            <img src="img/logo.png" width="152" height="30" alt="" class="hidemobilemenu">
+
+            <a class="list-group-item list-group-item-action" (click)="openNav()"><img src="img/menuicon.png" alt="" style="width:30px;height:30px;cursor: pointer;margin: 0px 10px;"></a>
+            <!---- <li><a class="list-group-item list-group-item-action" onclick="openNav()">MENU</a></li>-->
+            <!--<li><a class="list-group-item list-group-item-action" href="#">WhatsApp: +91 8147189500</a></li>-->
+            <li><a class="list-group-item list-group-item-action" target="_blank" href="https://api.whatsapp.com/send?phone=918147189500">WhatsApp: +91 8147189500</a></li>
+            <app-cartvalue style="float: right;"></app-cartvalue>
+            <span style="clear: both;"></span>
+        </ul>
+    </div>
+    <span></span>
+</nav>
+<!-- /secondary_nav -->
+
+<style>
+    @media only screen and (max-width: 600px) {
+        .hidemobilemenu {
+            display: none;
+        }
+    }
+</style>

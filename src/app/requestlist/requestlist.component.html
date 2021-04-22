@@ -1,0 +1,171 @@
+<app-header></app-header>
+<app-cartvalue style="position: absolute;
+top: 5px;
+right: 80px;
+z-index: 99999;" class="hidemobile"></app-cartvalue>
+
+<main>
+
+    <div class="d-flex headselection">
+        <div class="d-flex d-left" style="justify-content: end;flex: 40%;align-items: flex-end;">
+            <div (click)="Onallclick()" [ngClass]="{'selected':all}" style="text-align: center;margin:0px 3px;padding: 10px; flex: auto;
+            background-color: rgba(0, 0, 0, 0.05);border-radius: 2px;cursor: pointer;">
+                ALL
+
+            </div>
+            <div (click)="Onrequestclick()" [ngClass]="{'selected':request}" style="text-align: center;margin:0px 3px;padding: 10px; flex: auto;
+                background-color: rgba(0, 0, 0, 0.05);border-radius: 2px;cursor: pointer;">
+                Pending Request
+
+            </div>
+            <div (click)="Onacceptedclick()" [ngClass]="{'selected':aprrove}" style="text-align: center;margin:0px 3px;padding: 10px; flex: auto;
+                    background-color: rgba(0, 0, 0, 0.05);border-radius: 2px;cursor: pointer;">
+                Accepted
+
+            </div>
+            <div (click)="Onrejectedclick()" [ngClass]="{'selected':reject}" class="" style="text-align: center;margin:0px 3px;padding: 10px; flex: auto;
+                        background-color: rgba(0, 0, 0, 0.05);border-radius: 2px;cursor: pointer;">
+                Rejected
+
+            </div>
+        </div>
+
+        <div class="d-flex d-right" style="flex: 60%;">
+            <div class="d-flex " style="align-items: flex-end;">
+
+                <div class=" p-0" style="margin:0px 5px;">
+                    <label>Start Date</label>
+                    <input [(ngModel)]="startdate" (change)="datesearch()" class="form-control" type="date">
+                </div>
+
+                <!-- <div style="text-align: center;margin: 5px;padding: 10px; 
+            background-color: rgba(0, 0, 0, 0.05);border-radius: 2px">
+                    End date
+
+                </div> -->
+
+                <div class=" p-0" style="margin:0px 5px;">
+                    <label>End Date</label>
+                    <input [(ngModel)]="enddate" min={{startdate}} max={{yymmdd}} (change)="datesearch()" class="form-control" placeholder="Search" type="date">
+                </div>
+                <div class=" p-0" style="display: flex; justify-content: space-around;width: 400px;">
+                    <input [(ngModel)]="searchQuery" class="form-control" type="text" placeholder="Search">
+                    <span (click)="search()" class="form-control" style="width: auto; cursor: pointer;"> <i
+                            class="fa fa-search " style="font-size: 20px;"></i></span>
+                    <span (click)="clear()" class="form-control" style="width: auto; cursor: pointer;margin-left: 3px;">
+                        <i class="fa fa-window-close " style="font-size: 20px;"></i></span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+    <!-- details of all request -->
+    <div class="list-group">
+        <div class="list-group-item">
+            <div class="container" style="padding-top: 0px;
+    padding-bottom: 0px;">
+                <div class="row justify-content-center">
+                    <div class="col-xl-12">
+                        <div class=" row " style="     font-size: 16px;
+                        font-weight: bold;   margin-bottom:5px !important;">
+                            <div class="col-3 d-flex pr-0" style="  
+                    align-self: center; ">
+                                <span style="  padding-left: 20px;  align-self: center;">Request ID </span>
+                            </div>
+                            <div class="col-3 d-flex p-0" style=" 
+                    align-self: center; ">
+
+                                <span style=" padding-left: 20px;   align-self: center;">Request Date</span>
+                            </div>
+                            <div class="col-2 d-flex p-0" style=" 
+                            align-self: center; ">
+
+                                <span style="    align-self: center;">Schedules</span>
+                            </div>
+                            <div class="col-2 d-flex p-0" style=" 
+                            align-self: center;justify-content: center; ">
+
+                                <span style="    align-self: center;"></span>
+                            </div>
+                            <div class="col-2 d-flex p-0" style=" 
+                            align-self: center;justify-content: center; ">
+
+                                <span style="    align-self: center;"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="list-group-item" *ngFor="let item of requestList; let i=index">
+            <div class="container" style="padding-top: 10px;
+    padding-bottom: 10px;">
+                <div class="row justify-content-center">
+                    <div class="col-xl-12">
+                        <div class=" row box_order_form" style="    margin-bottom:5px !important;">
+
+                            <div class="col-3 d-flex" style=" 
+                    align-self: center; ">
+                                <span> <img src="img/schedule/status_common.png" alt="thumb" class="lazy"
+                                        style="width:35px;height:35px;padding: 5px;"></span>
+                                <span style="    align-self: center;">{{item.requestId}} </span>
+                            </div>
+                            <div class="col-3 d-flex " style=" 
+                    align-self: center; ">
+                                <span> <img src="img/schedule/calendernewsat.png" alt="thumb" class="lazy"
+                                        style="width:35px;height:35px;padding: 5px;"></span>
+                                <span style="    align-self: center;">{{item.subscriptionDate.slice(0, 10)}}</span>
+                            </div>
+                            <div class="col-3 d-flex" style="  
+                            align-self: center; ">
+
+                                <span style="    align-self: center;">Number of Schedules
+                                    {{item.schedullingInfo.length}}</span>
+                            </div>
+                            <div class="col-3 ">
+                                <div *ngIf="item.status=='Rejected'" class="col" style="text-align: center;margin: 5px;padding: 8px; 
+                        background-color: #b82815e3;border-radius: 4px;color: white;width: 200px;" (click)="goTorequestView(item.requestId)">
+                                    view details >>
+
+                                </div>
+                                <div *ngIf="item.status=='Request'" class="col" style="text-align: center;margin: 5px;padding: 8px; 
+                        background-color: #c7930ffa;border-radius: 4px;color: white;width: 200px;" (click)="goTorequestView(item.requestId)">
+                                    view details >>
+
+                                </div>
+                                <div *ngIf="item.status=='Approved' || item.status=='approved' " class="col" style="text-align: center;margin: 5px;padding: 8px; 
+                        background-color: #3da714d0;border-radius: 4px;color: white;width: 200px;" (click)="goTorequestView(item.requestId)">
+                                    view details >>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</main>
+<style>
+    .headselection {
+        margin: 2px;
+        padding: 10px;
+    }
+    
+    .selected {
+        background-color: #fd3601 !important;
+        color: white;
+    }
+    
+    @media screen and (max-width: 991px) {
+        .hidemobile {
+            visibility: hidden;
+            display: none;
+        }
+    }
+</style>

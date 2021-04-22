@@ -1,0 +1,80 @@
+<div class="col-xl-12 col-lg-12" id="sidebar_fixed">
+    <div class="box_order">
+        <div class="head">
+            <h3>Schedule Summary</h3>
+            <div>Corporate Meal Subscription</div>
+        </div>
+        <!-- /head -->
+        <div class="main">
+            Schedule:
+            <div style="display: flex;justify-content: space-between;margin: 5px;padding: 10px; 
+            background-color: rgba(0, 0, 0, 0.05);border-radius: 2px" *ngFor="let item of Sdata; let i=index">
+                <span>Schedule {{i+1}}</span>
+                <span>₹{{total[i]}}</span>
+            </div>
+            <div style="display: flex;justify-content: space-between;    margin: 5px;">
+                <span>Subtotal</span>
+                <span>₹{{finalTotal}}</span>
+            </div>
+            <div style="display: flex;justify-content: space-between;    margin: 5px;">
+                <span>Delivery fee</span>
+                <span>FREE</span>
+            </div>
+            <div style="display: flex;justify-content: space-between;    margin: 5px;">
+                <span>Packaging Charges</span>
+                <span>FREE</span>
+            </div>
+            <div style="display: flex;justify-content: space-between;    margin: 5px;">
+                <span>Tax</span>
+                <span>0</span>
+            </div>
+            <div style="    margin: 5px;">
+                <p style="display: inline;">Apply Promocode</p>
+                <input type="checkbox" style="margin-left: 5px;" [(ngModel)]="promocheck">
+
+                <input *ngIf="promocheck" type="text" class="promocode" [(ngModel)]="promoCode">
+            </div>
+            <div style="display: flex;justify-content: space-between;    margin: 5px;">
+                <span><b>Total</b></span>
+                <span><b>₹{{finalTotal}}</b></span>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-sm-12">
+                    <a *ngIf="!RSdata" (click)="confirmOrder()" class="btn_1 gradient full-width" style="font-size: 12px">
+            Confirm subscription
+          </a>
+                    <a *ngIf="RSdata" (click)="UpdateOrder()" class="btn_1 gradient full-width" style="font-size: 12px">
+            Update subscription
+          </a>
+                </div>
+            </div>
+
+            <br />
+
+            <div class="text-center">
+                <small>Or Call Us at <strong>080-47189148</strong></small>
+            </div>
+        </div>
+    </div>
+    <!-- /box_booking -->
+</div>
+
+<style>
+    .someDiv {
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    .promocode {
+        margin-left: 5px;
+        font-size: 0.875rem;
+        border-radius: 3px;
+        width: 120px;
+        display: inline;
+        border: 1px solid #d2d8dd;
+        line-height: 30px;
+    }
+</style>

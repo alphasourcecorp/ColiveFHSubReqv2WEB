@@ -1,0 +1,39 @@
+<app-header></app-header>
+<main style="
+    background-image: url('img/hero_general_2.jpg');
+    background-size: 100% 100%;
+  ">
+    <div class="container" style="padding: 100px 0px">
+        <div class="row justify-content-center">
+            <div class="col-lg-5">
+                <div class="">
+                    <!-- /head -->
+                    <div class="head py-5" style="background: rgba(0, 0, 0, 0.4); border-radius: 10px">
+                        <div class="text-center">
+                            <a><img src="img/logo-white.png" width="162" height="35" alt="" /></a>
+                        </div>
+                        <hr style="border: 1px solid white" />
+                        <div class="m-2 row" onclick="location.href='https://www.foodyhive.com/';">
+                            <a class="m-2 btn_1 gradient full-width arrow" style="font-size: 18px;padding: 12px 10px;">
+                                <span>CONSUMER</span>
+                                <span class="float-right" style="font-size: 35px; line-height: 25px">&#187;</span>
+                                <span class="clearfix"></span>
+                            </a>
+                        </div>
+                        <div class="m-2 row" (click)="goLogin()">
+                            <a class="m-2 btn_1 gradient full-width arrow" style="font-size: 18px;padding: 12px 10px;">
+                                <span>CORPORATE/SUBSCRIPTIONS</span>
+                                <span class="float-right" style="font-size: 35px; line-height: 25px">&#187;</span>
+                                <span class="clearfix"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- /box_booking -->
+            </div>
+            <!-- /col -->
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</main>
