@@ -22,6 +22,7 @@ export class AddcartService {
   public  requestDelete;
   public UpdaterequestStatus;
   public getCompanydetails;
+  public addnewCompanyUrl;
 
   User;
 
@@ -38,6 +39,7 @@ export class AddcartService {
    this.requestDelete=environment.DeleterequestlistUrl;
    this.UpdaterequestStatus=environment.UpdateRequestStatusUrl;
    this.getCompanydetails=environment.GetallCompanyUrl;
+   this.addnewCompanyUrl=environment.AddnewCompanyUrl;
     this.User=JSON.parse(sessionStorage.getItem('user'));
 
    }
@@ -216,6 +218,24 @@ export class AddcartService {
     return this
       .httpClient
       .get<MenuResponse>(this.getCompanydetails, httpOptions)
+      .pipe(
+        retry(1),
+        catchError(this.httpErrorHandler));
+  }
+  ADDcompany(request){
+
+    let token =JSON.parse(sessionStorage.getItem('token'));
+
+    let httpOptions = {
+      headers: new HttpHeaders({
+        'Content-Type': 'application/json',
+        'Authorization':"Bearer"+" "+token,
+      })
+    };
+
+    return this
+      .httpClient
+      .post<MenuResponse>(this.addnewCompanyUrl,request, httpOptions)
       .pipe(
         retry(1),
         catchError(this.httpErrorHandler));

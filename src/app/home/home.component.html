@@ -16,7 +16,7 @@
         <input (input)="search()" [(ngModel)]="query" class="form-control" type="text" placeholder="Search" class="form-control" style="width: 100%;">
     </div>
 
-    <a (click)="closeNav()" [routerLink]="'.'" [fragment]="'section-def-' + menuCategoryInfo.id" *ngFor="let menuCategoryInfo of submenu; let count = index">
+    <a (click)="closeNav()" [routerLink]="'.'" [fragment]="'section-def-' + menuCategoryInfo.id" *ngFor="let menuCategoryInfo of newsub; let count = index">
     {{ menuCategoryInfo.categoryName }} ({{ menuCategoryInfo.noOfDishes }})
   </a>
 </div>
@@ -26,8 +26,8 @@
 <div class="container m_detail summary-content">
     <div class="row">
         <div class="col-lg-8">
-            <div *ngFor="let item of menu; let count = index">
-                <section id="{{ 'section-def-' + item.id }}" style="padding-top: 65px">
+            <div *ngFor="let item of mainsub; let count = index">
+                <section *ngIf="item.menuDetails.length>0" id="{{ 'section-def-' + item.id }}" style="padding-top: 65px">
                     <h4 style="font-size: 18px; font-weight: bold">
                         {{ item.categoryTitle }}
                         <span *ngIf="item.categorySubTitle">

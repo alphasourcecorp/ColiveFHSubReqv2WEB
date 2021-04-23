@@ -28,7 +28,8 @@ export class HomeComponent implements OnInit {
   public value: any;
   public query;
   submenu;
-  mainsub;
+  mainsub=[];
+  newsub;
   breakfast:boolean;
   lunch:boolean;
   dinner:boolean;
@@ -46,10 +47,11 @@ export class HomeComponent implements OnInit {
   constructor(private menuService: MenuService, private router: Router, public addCart: AddcartService) {
 
     this.menuSelections = [];
-    this.menuService.getMenuItems().subscribe((menuResponse) => {
+    // this.menuService.getMenuItems().subscribe((menuResponse) => {
+      this.menuService.getMenuItems().subscribe((menuResponse) => {
       if (menuResponse.isSuccess) {
         this.menu = menuResponse.data;
-
+        this.mainsub=this.menu;
         this.menu.forEach((menuInfo) => {
           const categoryId = menuInfo.id;
 
@@ -74,43 +76,49 @@ export class HomeComponent implements OnInit {
       }
     });
 
-    this.mainsub=this.menu;
+    
     this.submenu=this.menuCategories;
+    this.newsub=this.submenu;
     this.value = {
       '0004001': '0', '0004002': '0', '0004003': '0', '0004004': '0',
       '0004005': '0', '0004006': '0', '0004007': '0', '0004008': '0',
       '0004009': '0', '0004010': '0', '0003001': '0', '0003002': '0',
-      '0003003': '0', '0006001': '0', '0006002': '0', '0006003': '0',
-      '0006004': '0', '0006005': '0', '0006006': '0', '0006007': '0',
-      '0007001': '0', '0007002': '0', '0007003': '0', '0001001': '0',
-      '0001002': '0', '0001003': '0', '0001004': '0', '0001005': '0',
-      '0001006': '0', '0001007': '0', '0001008': '0', '0001009': '0',
-      '0001010': '0', '0001011': '0', '0001012': '0', '0001013': '0',
-      '0002001': '0', '0002002': '0', '0002003': '0', '0002004': '0',
+      '0003003': '0', '0003004': '0', '0003005': '0',  '0003006': '0',
+      '0003007': '0',  '0003008': '0',  '0003009': '0',  '0003010': '0', 
+       '0003011': '0',  '0003012': '0',  '0003013': '0',
+      '0007001': '0', '0007002': '0', '0007003': '0',
+      '0007004': '0', '0007005': '0', '0007006': '0', '0007007': '0',
+      '0007008': '0', '0007009': '0', '0007010': '0',
+      '0007011': '0', '0007012': '0', '0007013': '0', '0007014': '0',
+      '0007015': '0', '0007016': '0', '0007017': '0',
+      '0007018': '0', '0007019': '0', '0007020': '0', 
+      '0008001': '0', '0008002': '0', '0008003': '0',
+      '0008004': '0', '0008005': '0', '0008006': '0',
+      '0008007': '0', '0008008': '0', '0008009': '0',
+      '0008010': '0', '0008011': '0', '0008012': '0',
+      '0008013': '0', '0008014': '0', '0008015': '0',
+      '0008016': '0', '0008017': '0', '0008018': '0',
+      '0008019': '0', '0008020': '0', '0008021': '0','0008022': '0', 
+      '0001001': '0','0001002': '0', '0001003': '0', '0001004': '0', '0001005': '0','0001006': '0', 
+     '0002001': '0', '0002002': '0', '0002003': '0', '0002004': '0',
       '0002005': '0', '0002006': '0', '0002007': '0', '0002008': '0',
       '0002009': '0', '0002010': '0', '0002011': '0', '0002012': '0',
-      '0005001': '0', '0005002': '0', '0005003': '0', '0005004': '0',
-      '0005005': '0', '0008001': '0', '0008002': '0', '0008003': '0',
-      '0008004': '0', '0008005': '0', '0008006': '0', '0009001': '0',
-      '0009002': '0', '0009003': '0', '0009004': '0', '0009005': '0',
-      '0009006': '0', '0009007': '0', '0009008': '0', '0009009': '0',
-      '0010001': '0', '0010002': '0', '0010003': '0', '0010004': '0',
-      '0010005': '0', '0010006': '0', '0010007': '0', '0010008': '0',
-      '0010009': '0', '0010010': '0', '0010011': '0', '0010012': '0',
-      '0010013': '0', '0010014': '0', '0010015': '0', '0010016': '0',
-      '0010017': '0', '0010018': '0', '0011001': '0', '0011002': '0',
-      '0011003': '0', '0011004': '0', '0011005': '0', '0011006': '0',
-      '0011007': '0', '0011008': '0', '0011009': '0', '0011010': '0',
-      '0011011': '0', '0011012': '0', '0011013': '0', '0011014': '0',
-      '0011015': '0', '0011016': '0', '0011017': '0', '0011018': '0',
-      '0011019': '0', '0011020': '0', '0012001': '0', '0012002': '0',
-      '0012003': '0', '0012004': '0', '0012005': '0', '0013001': '0',
-      '0013002': '0', '0013003': '0', '0014001': '0', '0014002': '0',
-      '0014003': '0', '0014004': '0', '0015001': '0', '0015002': '0',
-      '0015003': '0', '0016001': '0', '0016002': '0', '0016003': '0',
-      '0016004': '0', '0016005': '0', '0016006': '0', '0016007': '0',
-      '0016008': '0', '0016009': '0', '0017001': '0', '0017002': '0',
-      '0017003': '0', '0017004': '0', '0017005': '0',
+      '0002013': '0', '0002014': '0', '0002015': '0',
+      '0005001': '0', '0005002': '0', '0005003': '0', '0005004': '0', '0005005': '0', 
+      '0005006': '0', '0005007': '0', '0005008': '0', '0005009': '0', '0005010': '0', 
+      '0005011': '0', '0005012': '0', '0005013': '0', '0005014': '0', '0005015': '0', 
+      '0006001': '0', '0006002': '0', '0006003': '0', '0006004': '0', '0006005': '0', 
+      '0006006': '0', '0006007': '0', '0006008': '0', '0006009': '0', '0006010': '0', 
+      '0006011': '0', '0006012': '0', '0006013': '0', '0006014': '0', '0006015': '0', 
+      '0009001': '0', '0009002': '0', '0009003': '0',
+      '0009004': '0', '0009005': '0', '0009006': '0', '0009007': '0',
+      '0010001': '0', '0010002': '0', '0010003': '0', '0010004': '0', '0010005': '0',
+      '0010006': '0', '0010007': '0', '0010008': '0', '0010009': '0','0010010': '0',
+      '0010011': '0', '0010012': '0', '0010013': '0', '0010014': '0', '0010015': '0',
+      '0010016': '0', '0010017': '0', '0010018': '0', '0010019': '0','0010020': '0',
+      '0010021': '0', '0010022': '0', '0010023': '0', '0010024': '0', '0010025': '0',
+      '0010026': '0', '0010027': '0', '0010028': '0', '0010029': '0','0010030': '0',
+      '0010031': '0', '0010032': '0', '0010033': '0', '0010034': '0'
     };
   }
   closeNav() {
@@ -195,11 +203,11 @@ export class HomeComponent implements OnInit {
   }
   search(){
 if(this.query==null || ""){
-  this.submenu=this.menuCategories;
+  this.newsub=this.submenu;
 }
 
-this.submenu=this.menuCategories;
-this.submenu = this.submenu.filter(res => {
+this.newsub=this.submenu;
+this.newsub = this.newsub.filter(res => {
   return res.categoryName.toLowerCase().includes(this.query.toLowerCase()) 
 })
   }
@@ -208,39 +216,113 @@ this.submenu = this.submenu.filter(res => {
     this.lunch=false;
     this.dinner=false;
     this.snacks=false;
-    this.mealtype='Breakfast';
+    this.mainsub=this.menu;
+    this.query="";
+    this.mainsub= this.mainsub.map((element) => {
+      return {...element, menuDetails: element.menuDetails.filter((subElement) => subElement.Breakfast == true)}
+    })
+    this.submenu=[];
+    this.mainsub.forEach((menu) => {
+      const menuCategoryInfo: MenuCategoryInfo = {
+        categoryName: menu.categoryTitle,
+        noOfDishes: menu.menuDetails.length,
+        id:menu.id
+      };
+
+      this.submenu.push(menuCategoryInfo);
+    });
+    this.newsub=this.submenu;
     }else{
-      this.mealtype='dishName';
+      this.mainsub=this.menu;
+      this.submenu=this.menuCategories;
+      this.newsub=this.submenu;
+      this.query="";
     }
+    
+
   }
   onCheckboxChangelunch(){
     if(this.lunch==true){
     this.breakfast=false;
     this.dinner=false;
     this.snacks=false;
-    this.mealtype='Lunch';
-  }else{
-    this.mealtype='dishName';
-  }
+    this.mainsub=this.menu;
+    this.query="";
+    this.mainsub= this.mainsub.map((element) => {
+      return {...element, menuDetails: element.menuDetails.filter((subElement) => subElement.Lunch == true)}
+    })
+    this.submenu=[];
+    this.mainsub.forEach((menu) => {
+      const menuCategoryInfo: MenuCategoryInfo = {
+        categoryName: menu.categoryTitle,
+        noOfDishes: menu.menuDetails.length,
+        id:menu.id
+      };
+
+      this.submenu.push(menuCategoryInfo);
+    });
+    this.newsub=this.submenu;
+    }else{
+      this.mainsub=this.menu;
+      this.submenu=this.menuCategories;
+      this.newsub=this.submenu;
+      this.query="";
+    }
   }
   onCheckboxChangeDinner(){
     if(this.dinner==true){
     this.breakfast=false;
     this.lunch=false;
     this.snacks=false;
-    this.mealtype='Dinner';
-  }else{
-    this.mealtype='dishName';
-  }
+    this.mainsub=this.menu;
+    this.query="";
+    this.mainsub= this.mainsub.map((element) => {
+      return {...element, menuDetails: element.menuDetails.filter((subElement) => subElement.Dinner == true)}
+    })
+    this.submenu=[];
+    this.mainsub.forEach((menu) => {
+      const menuCategoryInfo: MenuCategoryInfo = {
+        categoryName: menu.categoryTitle,
+        noOfDishes: menu.menuDetails.length,
+        id:menu.id
+      };
+
+      this.submenu.push(menuCategoryInfo);
+    });
+    this.newsub=this.submenu;
+    }else{
+      this.mainsub=this.menu;
+      this.submenu=this.menuCategories;
+      this.newsub=this.submenu;
+      this.query="";
+    }
   }
   onCheckboxChangesnacks(){
     if(this.snacks==true){
     this.breakfast=false;
     this.lunch=false;
     this.dinner=false;
-    this.mealtype='Snacks';
-  }else{
-    this.mealtype='dishName';
-  }
+    this.mainsub=this.menu;
+    this.query="";
+    this.mainsub= this.mainsub.map((element) => {
+      return {...element, menuDetails: element.menuDetails.filter((subElement) => subElement.Snacks == true)}
+    })
+    this.submenu=[];
+    this.mainsub.forEach((menu) => {
+      const menuCategoryInfo: MenuCategoryInfo = {
+        categoryName: menu.categoryTitle,
+        noOfDishes: menu.menuDetails.length,
+        id:menu.id
+      };
+
+      this.submenu.push(menuCategoryInfo);
+    });
+    this.newsub=this.submenu;
+    }else{
+      this.mainsub=this.menu;
+      this.submenu=this.menuCategories;
+      this.newsub=this.submenu;
+      this.query="";
+    }
   }
 }

@@ -1,0 +1,4486 @@
+{
+    "isSuccess": true,
+    "errorMessage": "",
+    "data": [{
+            "id": "0001",
+            "categoryTitle": "WEEKLY SPECIALS ",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MONDAY - NORTH INDIAN  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Aloo Mater: 80 gms\n Dal Palak: 180 gms\n Chicken Curry: 100 gms\n Cucumber Salad: 60 gms\n Mint Raita: 80 gms\n Chapati: 1 No.\n Jeera Pulao: 200 gms",
+                    "saleKgMg": " ",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "TUESDAY - MARATHI  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
+                    "dishSubName": " ",
+                    "saleAmount": 100,
+                    "dishDescription": "Vangi Sabzi: 80 gms\n Dal Amati: 180 gms\n Chicken Kolhapuri: 150 gms\n Green Salad: 60 gms\n Mix Veg Raita: 80 gms\n Chapati: 1 No.\n Masala Bhaat: 200 gms",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "WEDNESDAY - GUJARATHI  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Oondiyo: 80 gms\n Gujarati Kadhi: 180 gms\n Murghanu Shaak: 150 gms\n Mix Veg Salad: 60 gms\n Cucumber Raita: 80 gms\n Methi Thepla: 1 No.\n Vagharela Bhaat: 200 gms",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "004",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "THURSDAY - BENGALI  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Aloo Posto: 80 gms\n Bengali Chana Dal: 180 gms\n Bengali Chicken Curry: 100 gms\n Cucumber Salad: 60 gms\n Onion Mint raita: 80 gms\n Chapati: 1 No.\n Bengali Veg Pulao: 200 gms",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "005",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "FRIDAY - RAJASTHANI  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Panchmel Ki Sabzi: 80 gms\n Dal Bhanjari: 180 gms\n Chicken Laal Maas: 150 gms\n Bengal Gram Salad: 60 gms\n Mix Veg Raita: 80 gms\n Chapati: 1 No.\n Kabuli Pulao: 200 gms",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "006",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SATURDAY - SOUTH INDIAN  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Mix Veg Korma: 80 gms\n Sambar: 180 gms\n Chicken Chettinad: 150 gms\n Green Salad: 60 gms\n Mint Raita: 80 gms\n Chapati: 1 No.\n Tomato Pulao: 200 gms",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        },
+        {
+
+            "id": "0002",
+            "categoryTitle": "MULTI-CUISINES - BENGALI(₹150 Dish / ₹185 Non-Veg)",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "ALOO POSTO ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "CHOR CHORI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BENGALI STYLE CHANA DAL",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "004",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KUMROR CHOKKA (BENGALI STYLE POTATO & PUMPKIN SABZI)",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "005",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BENGALI STYLE SOYA SABZI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "006",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "CHANAR DALNA (BENGALIS STYLE PANEER SABZI)",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "007",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DOI BAIGAN",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "008",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MACHER JHOL",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "009",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KOSHA MANGCHO",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "010",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BENGALI CHICKEN CURRY",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "011",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DOI MURGI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "012",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MUSTURD FISH CURRY",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "013",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BENGALI VEG PULAO",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "014",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BENGALI BASANTI PULAO",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "015",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BIRYANI BENGALI STYLE",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        },
+        {
+
+            "id": "0003",
+            "categoryTitle": "MULTI-CUISINES - GUJARARI Rs150/DISH | Rs185/NON-VEG",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "GUJARATI KADHI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "VAGHARELA BHAAT",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "OONDIYU",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "004",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BARDOLI KI KHICHDI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "005",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "METHI KA THEPLA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "006",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "GUJARATI DAL",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "007",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BLACK CHANA CURRY",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "008",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SURAN SABZI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "009",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SEV TAMATER KI SABZI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "010",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KOBI BATATA NU SHAAK",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "011",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PANCHMEL KHICHDI",
+                    "dishSubName": " ",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "012",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DAHIWALA MOONG DAL KHICHDI ",
+                    "dishSubName": " ",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "013",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "GUJARATI MASALA BAAT ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        },
+        {
+
+            "id": "0004",
+            "categoryTitle": "MULTI-CUISINES - ORISSA  Rs150/DISH | Rs185/NON-VEG",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KHICHDI",
+                    "dishSubName": " ",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "CHUNGDI MALAI (PRWANS CURRY)",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MACHA GHANTA (FISH CURRY)",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "004",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DALMA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "005",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KANIKA (SWEET RICE)",
+                    "dishSubName": " ",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "006",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PILAF (PULAO)",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "007",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SANTULA (VEGTABLE CURRY)",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "008",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "CHAATU RAI (MUSHROOM CURRY)",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "009",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "ALOO POTALA RASA (ALOO PARVAL SABZI)",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "010",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BESARA (ALOO, BANANA, RAW PAPAYA)",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        },
+        {
+
+            "id": "0005",
+            "categoryTitle": "MULTI-CUISINES - MARATHI Rs150/DISH | Rs185/NON-VEG",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BARALI VANGI",
+                    "dishSubName": " ",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PITHALA",
+                    "dishSubName": "  ",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "AMATI",
+                    "dishSubName": " ",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "004",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DAL VARAN",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "005",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KADHI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "006",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PANDARA RASSA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "007",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "TAMBADA RASAA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "008",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "CHICKEN KOLHAPURI ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "009",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MASALA BHAAT",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "010",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "VARAN BHAAT",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "011",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "COCONUT RICE",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "012",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "VANGI BHAAT",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "013",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "TENDLI BHAAT",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "014",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KOBDI RASSA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "015",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "CHICKEN SUKKHA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        },
+        {
+
+            "id": "0006",
+            "categoryTitle": "MULTI-CUISINES - RAJASTHANI Rs150/DISH | Rs185/NON-VEG",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DAL BATI ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "GATTE KI SABZI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "GATTA CURRY ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "004",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "LAAL MAAS",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "005",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KER SANGRI ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "006",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KABULI PULAO ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "007",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "GATTE MATTER KHICHDI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "008",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "ALOO MATER SAAG ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "009",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DAHI ALOO",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "010",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PYAAZ PANEER",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "011",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DAL BHANJARI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "012",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "RAJASTHANI KADHI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "013",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PANCHMEL KI SABZI ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "014",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KHATTA MURGH ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "015",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MURGH AJMERI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0007",
+            "categoryTitle": "SNACK THAT!",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MASALA NACHOS",
+                    "dishSubName": " ",
+                    "saleAmount": 40,
+                    "dishDescription": " ",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KACHORI (2 PCS SMALL)",
+                    "dishSubName": " ",
+                    "saleAmount": 20,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KACHORI (2 PCS BIG)",
+                    "dishSubName": " ",
+                    "saleAmount": 45,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "004",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MINI VEG ROLL",
+                    "dishSubName": " ",
+                    "saleAmount": 35,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "005",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "ROASTED POTATOES WEDGES",
+                    "dishSubName": " ",
+                    "saleAmount": 80,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "006",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MASALA BHEL",
+                    "dishSubName": " ",
+                    "saleAmount": 30,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "007",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BLACK CHANA CHAAT",
+                    "dishSubName": " ",
+                    "saleAmount": 40,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "008",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "ALOO PATTY BURGER",
+                    "dishSubName": " ",
+                    "saleAmount": 40,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "009",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "FALA FAL WRAP",
+                    "dishSubName": " ",
+                    "saleAmount": 65,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "010",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MISAL PAV",
+                    "dishSubName": " ",
+                    "saleAmount": 45,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "011",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "VADA PAV",
+                    "dishSubName": " ",
+                    "saleAmount": 10,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "012",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "CHOLEY PATTY",
+                    "dishSubName": " ",
+                    "saleAmount": 20,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "013",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "HUMMUS TOAST",
+                    "dishSubName": " ",
+                    "saleAmount": 35,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "014",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DHOKLA",
+                    "dishSubName": " ",
+                    "saleAmount": 20,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "015",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BANANA BEANS PORIYAL WRAP",
+                    "dishSubName": " ",
+                    "saleAmount": 40,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "016",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "STUFFED KULCHA",
+                    "dishSubName": " ",
+                    "saleAmount": 25,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "017",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BATATA TOSASTED SANDWICH",
+                    "dishSubName": " ",
+                    "saleAmount": 35,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "018",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "HUMMUS VEG SANDWICH",
+                    "dishSubName": " ",
+                    "saleAmount": 35,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "019",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PANJABI CHOLE",
+                    "dishSubName": " ",
+                    "saleAmount": 60,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "020",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MINI VEGETABLE KATHI ROLL",
+                    "dishSubName": " ",
+                    "saleAmount": 55,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0008",
+            "categoryTitle": "HEALTHY MORNINGS",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "VEGETABLE POHA",
+                    "dishSubName": "TAMOTO CHUTNEY",
+                    "saleAmount": 65,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "WHEAT UPMA",
+                    "dishSubName": " TAMOTO CHUTNEY ",
+                    "saleAmount": 50,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PONGAL",
+                    "dishSubName": "TAMOTO CHUTNEY",
+                    "saleAmount": 50,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "004",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BESIBELLE BHAT",
+                    "dishSubName": "TAMOTO CHUTNEY",
+                    "saleAmount": 50,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "005",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BROKEN WHEAT KHICHDI",
+                    "dishSubName": "TAMOTO CHUTNEY",
+                    "saleAmount": 65,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "006",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "RED RICE KHICHDI",
+                    "dishSubName": "TAMOTO CHUTNEY",
+                    "saleAmount": 90,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "007",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "IDLI 3 PCS",
+                    "dishSubName": "SAMBER + COCONUT CHUTNEY",
+                    "saleAmount": 50,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "008",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "POHA 200",
+                    "dishSubName": "MINT CHUTNEY",
+                    "saleAmount": 65,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "009",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SEWAIYAN UPMA 200",
+                    "dishSubName": "COCONUT CHUTNEY V2",
+                    "saleAmount": 50,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "010",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "UPMA 200",
+                    "dishSubName": "COCONUT CHUTNEY V2",
+                    "saleAmount": 40,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "011",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "LEMON RICE 250",
+                    "dishSubName": "COCONUT CHUTNEY V2",
+                    "saleAmount": 40,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "012",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SET DOSA [3X5] 150",
+                    "dishSubName": "COCONUT CHUTNEY V2/SAMBAR",
+                    "saleAmount": 50,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "013",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "VEG SANDWICH 93",
+                    "dishSubName": "KETCHUP",
+                    "saleAmount": 40,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "014",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "METHI THEPLA 150",
+                    "dishSubName": "ALOO BHAJI",
+                    "saleAmount": 120,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "015",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SABUDANA KHICHDI 200",
+                    "dishSubName": "",
+                    "saleAmount": 65,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "016",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "TAWA PAROTHA 2PCS",
+                    "dishSubName": "ALOO BHAJI",
+                    "saleAmount": 40,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "017",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "ALOO PARATHA 2PCS",
+                    "dishSubName": "CURD",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "018",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "TAMOTO RICE 250",
+                    "dishSubName": "COCONUT CHUTNEY",
+                    "saleAmount": 35,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "019",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BREAKFAST QUEADILLA 170",
+                    "dishSubName": "KETCHUP",
+                    "saleAmount": 110,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "020",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "UTTAPAM(3X50) 150",
+                    "dishSubName": "COCONUT CHUTNEY V2/SAMBER",
+                    "saleAmount": 50,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "021",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PULIYOGARE RICE 200",
+                    "dishSubName": "CURD",
+                    "saleAmount": 35,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "022",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "VEGETABLE RAVA IDLI 3PCS 150",
+                    "dishSubName": "COCONUT CHUTNEY/SAMBER",
+                    "saleAmount": 55,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0009",
+            "categoryTitle": "HEALTHY MENU",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SUNDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
+                    "dishSubName": " ",
+                    "saleAmount": 100,
+                    "dishDescription": "Breakfast : Brunch\nSnack : 1/4 Cup DRIED FRUITS\nLunch : Rajma(Boil Make Extra For Tuesday Burrito Bowl ), Chawal , Dahi, Kachumber Salad\nDinner: Paneer Kofta, Arbi ki Sabzi(Make Extra For Wednesday)\nSide 1: Salad\nSide 2: Chapati / Rice",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MONDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Breakfast : Boild Egg Sandwich ,Fresh Juice / Tea /Coffee\nSnack : 1/4 Cup DRIED FRUITS\nLunch : Thai Noodle Salad(Lunch Box Friendly)\nDinner: Vegetable Pulao(Make Extra for Thursday)\nSide 1: BeetRoot Raita\nSide 2: Green Salad",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "TUESDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Breakfast : Vegetable Poha(20 Minutes), 1/2 Apple, 1/2 Cub Dahi \nSnack : 1/4 Cup DRIED FRUITS\nLunch : Burrito Bowl (pack Great At Home)\nDinner: Moonga Dal Tadka(Make Extra For Wednesday) phulka / Roti / Parota\nSide 1: Khatte Aloo(Make Extra For Thursday Breakfast) \nSide 2: Green Salad",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "004",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "WEDNESDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Breakfast : Caprese SandWich, Pear / Kiwi \nSnack : 1/4 Cup DRIED FRUITS\nLunch : Moonga Dal Tadka, Arbi Ki Sabzi, Tadke Wali Sabzi , Chapati / Whole Wheat Bread \nDinner: Gujrathi Khatti Dal (Make Extra For Friday Red Rice)\nSide 1: Baingan Bharta \nSide 2: Dahi\nDessert: Green Salad",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "005",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "THURSDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Breakfast : Mumbai Toast With Lift Over Vegetables , Masala Chai \nSnack : 1/4 Cup DRIED FRUITS\nLunch : Vegtable Pulao\nDinner: Vegetable Biryani  / Chicken Biryani , Boondi Raita  \nSide 1: Papad \nDessert: Green Salad",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "006",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "FRIDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Breakfast : Granola And Fruit Parfait\nSnack : 1/4 Cup DRIED FRUITS\nLunch : Gujarati Khatti Dal , Karele Ki Sabzi \nDinner: Sabut Masoor Dal , Aloo Gobhi Achari  \nSide 1: Chapati / Rice",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "007",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SATURDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "Breakfast : Paratha / Sabzi \nSnack : 1/4 Cup DRIED FRUITS\nLunch : Egg Curry , Malabar Parota",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0010",
+            "categoryTitle": "Lunch Specials ( ₹ 175 Veg /  ₹ 200 Non-veg)",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "ALOO RASSEDAR",
+                    "dishSubName": " ",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "BAIGAN KA SALAN",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "TURAI GREEN PEA MASALA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "004",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "KALA CHANA MASALA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "005",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DUM ALOO KASHMIR!",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "006",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SUEZ MILONI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "007",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MATAR KI NIMONA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "008",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SINDHI CURRY",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "009",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SUEZ DIWANI NANDI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "010",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "ALOO SOABEAN",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "011",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MIX VEG POSTO",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "012",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SURAN MASALA CURRY",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "013",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "AVIAL",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "014",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "CHILLI PANEER / CHICKEN",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "015",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DHABA CHICKEN / DHABA PANEER",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "016",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MURGH TARI WALA / MATAR PANEER",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "017",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PALAK MURGH / LAHSUNI METHI PANEER",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "018",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DAL AMRITSARI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "019",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "RAJAMA RASILA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "020",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "LOBIA DAL",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "021",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SAMBHAR ",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "022",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DAL PALAK",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "023",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "GHAR KI DAL",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "024",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DAL PANCHMEL",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "025",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DALMA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "026",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "WATANA KORMA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "027",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "DAL MILONI",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "028",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "LANGAR WALT DAL (SPLIT URAD DAL)",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "029",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "TIKRI PAKWAN",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "030",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "TOMATO PAPU",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "031",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MIX VEGETABLE SOYA GINGER SAUCE",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "032",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "LAUKI CHANA DAL",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "033",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PUNJABI CHOLEY MASALA",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "034",
+                    "dishImage": [
+                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                    ],
+                    "chefName": " ",
+                    "dishName": "GATTA CURRY",
+                    "dishSubName": "",
+                    "saleAmount": 100,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        }
+    ]
+}

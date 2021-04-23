@@ -4,7 +4,8 @@
 
 export const environment = {
   production: true,
-  menuItemsJsonUrl: 'https://foodyhivestorage.blob.core.windows.net/assets/data/subscription-requests.json',
+  // menuItemsJsonUrl: 'https://foodyhivestorage.blob.core.windows.net/assets/data/subscription-requests.json',
+  menuItemsJsonUrl: 'assets/stayabode.json',
   subscriptionRequestServiceUrl: 'https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/SubscriptionRequest/Create',
   loginUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/UserLogin/userlogin",
   addScheduleUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/Scheduling/addnewschedule",

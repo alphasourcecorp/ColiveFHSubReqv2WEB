@@ -80,7 +80,7 @@
                                 <span><a style="cursor: pointer" (click)="editSchedule(data.scheduleID)"><img
                                             src="img/schedule/edit_icon2.png" alt="thumb" class="lazy"
                                             style="width: 30px; height: 30px" /></a></span>
-                                <span style="margin-left: 5px; cursor: pointer"><a
+                                <span *ngIf="Scheduledata.length>1" style="margin-left: 5px; cursor: pointer"><a
                                         (click)="deleteSchedule(data.scheduleID)"><img
                                             src="img/schedule/failcorporate.png" alt="thumb" class="lazy"
                                             style="width: 28px; height: 28px" /></a></span>
@@ -217,7 +217,7 @@
     <!-- /row -->
 
     <!-- /container -->
-    <div class="container bg_gray">
+    <div *ngIf="request" class="container bg_gray">
         <div class="box_order_form" style="display: flex;justify-content: space-between;    margin: 5px;padding: 10px;">
             <div style="width: 350px;
             font-size: 15px;">
@@ -229,7 +229,7 @@
                 </div>
                 <span>{{request.deliveryAddresses[0].addressLine1}}</span>,<br>
                 <span>{{request.deliveryAddresses[0].addressLine2}}</span>,<br>
-                <span>{{request.deliveryAddresses[0].city}} ,{{request.deliveryAddresses[0].postalCode}} </span>,<br>
+                <span>{{request.deliveryAddresses[0].city}} , {{request.deliveryAddresses[0].postalCode}} </span>,<br>
                 <span>{{request.deliveryAddresses[0].state}}</span>,<br>
                 <span>{{request.deliveryAddresses[0].country}}</span>
             </div>
