@@ -3,9 +3,9 @@
         <ul id="secondary_nav" style="display: flex;
         align-items: center;">
             <a href="https://www.colive.com/" target="_blank" style="cursor: pointer;"><img height="50px" src="img/images/logo-colive.png"></a>
-            <li><a class="list-group-item list-group-item-action" style="cursor: pointer;" (click)="openhome()">Home</a></li>
-            <li><a class="list-group-item list-group-item-action" style="cursor: pointer;" (click)="openabout()">About Us</a></li>
-            <li><a class="list-group-item list-group-item-action" style="cursor: pointer;" (click)="openmeal()">Subscribe Meals</a></li>
+            <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openhome()">Home</a></li>
+            <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openabout()">About Us</a></li>
+            <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openmeal()">Subscribe Meals</a></li>
 
             <li><a class="list-group-item list-group-item-action" target="_blank" href="https://api.whatsapp.com/send?phone=918147189500">WhatsApp: +91 8147189500</a></li>
 
@@ -14,3 +14,10 @@
     </div>
     <span></span>
 </nav>
+
+<style>
+    .mover:hover {
+        background-color: #fd3601 !important;
+        color: white;
+    }
+</style>

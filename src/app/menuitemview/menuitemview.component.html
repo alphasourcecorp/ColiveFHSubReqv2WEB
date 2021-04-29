@@ -36,15 +36,13 @@
 
 <div class="container">
     <div class="row img-thumbnail" style="padding: 10px;margin: 10px;">
-        <div class="col-lg-8 d-flex flex-row align-items-center flex-md-column" data-toggle="modal"
-            [attr.data-target]="'#detail-view-' + menuItem.uniqueDishId">
+        <div class="col-lg-8 d-flex flex-row align-items-center flex-md-column" data-toggle="modal" [attr.data-target]="'#detail-view-' + menuItem.uniqueDishId">
             <figure style="margin: 2px;">
                 <!--<a href={{menuItem.dishImage[0]}} title="Photo title">
                     <img style="width: 70px; height: 70px; " class="img-fluid img-thumbnail" src={{menuItem.dishImage[0]}}
                         alt="thumb" class="lazy">
                 </a>-->
-                <img style="width: 70px; height: 70px; " class="img-fluid img-thumbnail" src={{menuItem.dishImage[0]}}
-                    alt="thumb" class="lazy">
+                <img style="width: 70px; height: 70px; " class="img-fluid img-thumbnail" src={{menuItem.dishImage[0]}} alt="thumb" class="lazy">
 
             </figure>
 
@@ -58,19 +56,18 @@
             </div>
 
         </div>
-        <div class="col-lg-2  flex-md-column">
+        <div class="col-lg-2  flex-md-column" style="align-self: center;">
             <h4 style="font-size: 13px;"> {{ menuItem.saleAmount | priceview }}</h4>
 
         </div>
         <div class="col-lg-2  flex-md-column" style="text-align: center;">
             <i class="icon_minus_alt2" (click)="handleQuantity(1,menuItem.uniqueDishId)" style="font-size: 16px;color: #e54750;"></i>
             <!-- &nbsp; -->
-           <!-- *ngFor="let item of loclobj2.menuItemSummaries"
+            <!-- *ngFor="let item of loclobj2.menuItemSummaries"
             *ngIf="item.dishName==menuItem.dishName" -->
 
-            <input type="text" id="{{menuItem.uniqueDishId}}" [(ngModel)]="value[menuItem.uniqueDishId]" disabled
-            style="width: 30px; border: none;background-color:white;text-align: center;">
-             <!-- &nbsp; -->
+            <input type="text" id="{{menuItem.uniqueDishId}}" [(ngModel)]="value[menuItem.uniqueDishId]" disabled style="width: 30px; border: none;background-color:white;text-align: center;">
+            <!-- &nbsp; -->
             <i class="icon_plus_alt2" (click)="handleQuantity(-1,menuItem.uniqueDishId)" style="font-size: 16px; color: #e54750;"></i>
 
         </div>
@@ -83,8 +80,7 @@
 
 
 <!-- Modal -->
-<div id="detail-view-{{menuItem.uniqueDishId}}" class="modal fade bd-example-modal-lg" role="dialog"
-    style="margin-top:40px">
+<div id="detail-view-{{menuItem.uniqueDishId}}" class="modal fade bd-example-modal-lg" role="dialog" style="margin-top:40px">
     <div class="modal-dialog modal-lg">
 
         <!-- Modal content-->

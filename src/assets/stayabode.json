@@ -3,20 +3,20 @@
     "errorMessage": "",
     "data": [{
             "id": "0001",
-            "categoryTitle": "WEEKLY SPECIALS ",
+            "categoryTitle": "WEEKLY SPECIALS",
             "categorySubTitle": "",
             "categoryDescription": "",
             "categoryImg": "",
             "menuDetails": [{
                     "dishId": "001",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1bigErUym_DpSXpQ43jd3pev6RX_CBGHj"
                     ],
                     "chefName": " ",
-                    "dishName": "MONDAY - NORTH INDIAN  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
+                    "dishName": "SINGLE - Weekly Specials",
                     "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Aloo Mater: 80 gms\n Dal Palak: 180 gms\n Chicken Curry: 100 gms\n Cucumber Salad: 60 gms\n Mint Raita: 80 gms\n Chapati: 1 No.\n Jeera Pulao: 200 gms",
+                    "saleAmount": 800,
+                    "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
                     "saleKgMg": " ",
                     "calories": 0,
                     "protein": 0,
@@ -38,14 +38,14 @@
                 {
                     "dishId": "002",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1pZGfbzo8qAAdE0iG7eAvA-H0UVvM4Wuy"
                     ],
                     "chefName": " ",
-                    "dishName": "TUESDAY - MARATHI  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
-                    "dishSubName": " ",
-                    "saleAmount": 100,
-                    "dishDescription": "Vangi Sabzi: 80 gms\n Dal Amati: 180 gms\n Chicken Kolhapuri: 150 gms\n Green Salad: 60 gms\n Mix Veg Raita: 80 gms\n Chapati: 1 No.\n Masala Bhaat: 200 gms",
-                    "saleKgMg": "",
+                    "dishName": "COUPLES - Weekly Specials",
+                    "dishSubName": "",
+                    "saleAmount": 1400,
+                    "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
+                    "saleKgMg": " ",
                     "calories": 0,
                     "protein": 0,
                     "fat": 0,
@@ -66,98 +66,14 @@
                 {
                     "dishId": "003",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=15OE-qeJRG_WMpM1x6v0nIMSnc1kYvrBt"
                     ],
                     "chefName": " ",
-                    "dishName": "WEDNESDAY - GUJARATHI  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
+                    "dishName": "FAMILIES - Weekly Specials",
                     "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Oondiyo: 80 gms\n Gujarati Kadhi: 180 gms\n Murghanu Shaak: 150 gms\n Mix Veg Salad: 60 gms\n Cucumber Raita: 80 gms\n Methi Thepla: 1 No.\n Vagharela Bhaat: 200 gms",
-                    "saleKgMg": "",
-                    "calories": 0,
-                    "protein": 0,
-                    "fat": 0,
-                    "carbs": 0,
-                    "fibre": 0,
-                    "sugar": 0,
-                    "Breakfast": true,
-                    "Lunch": true,
-                    "Dinner": true,
-                    "Snacks": true,
-                    "suitableFor": [
-                        "DIABETIC PATIENTS",
-                        "PREGNANT WOMEN",
-                        "HEART PATIENTS",
-                        "GENERAL"
-                    ]
-                },
-                {
-                    "dishId": "004",
-                    "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
-                    ],
-                    "chefName": " ",
-                    "dishName": "THURSDAY - BENGALI  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
-                    "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Aloo Posto: 80 gms\n Bengali Chana Dal: 180 gms\n Bengali Chicken Curry: 100 gms\n Cucumber Salad: 60 gms\n Onion Mint raita: 80 gms\n Chapati: 1 No.\n Bengali Veg Pulao: 200 gms",
-                    "saleKgMg": "",
-                    "calories": 0,
-                    "protein": 0,
-                    "fat": 0,
-                    "carbs": 0,
-                    "fibre": 0,
-                    "sugar": 0,
-                    "Breakfast": true,
-                    "Lunch": true,
-                    "Dinner": true,
-                    "Snacks": true,
-                    "suitableFor": [
-                        "DIABETIC PATIENTS",
-                        "PREGNANT WOMEN",
-                        "HEART PATIENTS",
-                        "GENERAL"
-                    ]
-                },
-                {
-                    "dishId": "005",
-                    "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
-                    ],
-                    "chefName": " ",
-                    "dishName": "FRIDAY - RAJASTHANI  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
-                    "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Panchmel Ki Sabzi: 80 gms\n Dal Bhanjari: 180 gms\n Chicken Laal Maas: 150 gms\n Bengal Gram Salad: 60 gms\n Mix Veg Raita: 80 gms\n Chapati: 1 No.\n Kabuli Pulao: 200 gms",
-                    "saleKgMg": "",
-                    "calories": 0,
-                    "protein": 0,
-                    "fat": 0,
-                    "carbs": 0,
-                    "fibre": 0,
-                    "sugar": 0,
-                    "Breakfast": true,
-                    "Lunch": true,
-                    "Dinner": true,
-                    "Snacks": true,
-                    "suitableFor": [
-                        "DIABETIC PATIENTS",
-                        "PREGNANT WOMEN",
-                        "HEART PATIENTS",
-                        "GENERAL"
-                    ]
-                },
-                {
-                    "dishId": "006",
-                    "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
-                    ],
-                    "chefName": " ",
-                    "dishName": "SATURDAY - SOUTH INDIAN  ( for Single :Rs.800/Week/Rs.133/Day/Person\n for Couples :Rs.1400/Week/Rs.117/Day/Person\n for Families:Rs.2200/Week/Rs.91/Day/Person )",
-                    "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Mix Veg Korma: 80 gms\n Sambar: 180 gms\n Chicken Chettinad: 150 gms\n Green Salad: 60 gms\n Mint Raita: 80 gms\n Chapati: 1 No.\n Tomato Pulao: 200 gms",
-                    "saleKgMg": "",
+                    "saleAmount": 2200,
+                    "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
+                    "saleKgMg": " ",
                     "calories": 0,
                     "protein": 0,
                     "fat": 0,
@@ -178,21 +94,20 @@
             ]
         },
         {
-
             "id": "0002",
-            "categoryTitle": "MULTI-CUISINES - BENGALI(₹150 Dish / ₹185 Non-Veg)",
+            "categoryTitle": "MULTI-CUISINES - BENGALI",
             "categorySubTitle": "",
             "categoryDescription": "",
             "categoryImg": "",
             "menuDetails": [{
                     "dishId": "001",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1FH9JiuP_VvX8VGjuDOE5V8mvLJTrnnoc"
                     ],
                     "chefName": " ",
                     "dishName": "ALOO POSTO ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -215,12 +130,12 @@
                 {
                     "dishId": "002",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1JG-XXoq5YLVRiUcDLB3QoR05ESqiNKJV"
                     ],
                     "chefName": " ",
                     "dishName": "CHOR CHORI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -243,12 +158,12 @@
                 {
                     "dishId": "003",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1g8EUZNjB8MUxjvBzGXg0HV-H_FMWLjbT"
                     ],
                     "chefName": " ",
                     "dishName": "BENGALI STYLE CHANA DAL",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -271,12 +186,12 @@
                 {
                     "dishId": "004",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1T7hA6-AdXPF9V4M9VaB6w0hCJmdwXNyC"
                     ],
                     "chefName": " ",
                     "dishName": "KUMROR CHOKKA (BENGALI STYLE POTATO & PUMPKIN SABZI)",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -299,12 +214,12 @@
                 {
                     "dishId": "005",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=18wIPNwfsqwxX7n2PcKu8vBcz21-UvWP7"
                     ],
                     "chefName": " ",
                     "dishName": "BENGALI STYLE SOYA SABZI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -327,12 +242,12 @@
                 {
                     "dishId": "006",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1dS6-qtzPIoDtsegmbk_iOYNZdC5ut0R8"
                     ],
                     "chefName": " ",
                     "dishName": "CHANAR DALNA (BENGALIS STYLE PANEER SABZI)",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -355,12 +270,12 @@
                 {
                     "dishId": "007",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=11T3CpnVDu9a1rzTXZxKe8FPa5xiXIoVr"
                     ],
                     "chefName": " ",
                     "dishName": "DOI BAIGAN",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -383,12 +298,12 @@
                 {
                     "dishId": "008",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1zpJPuGU6bmKxowqR1IMoVYUnGaMk23Cx"
                     ],
                     "chefName": " ",
                     "dishName": "MACHER JHOL",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -411,12 +326,12 @@
                 {
                     "dishId": "009",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1wJD-TuX1dpZjNw0UhlcufDlh2Cp08M-I"
                     ],
                     "chefName": " ",
                     "dishName": "KOSHA MANGCHO",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -439,12 +354,12 @@
                 {
                     "dishId": "010",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1nTWrL58W9C2IfNiZ0M1DEEC-OfPX8QRM"
                     ],
                     "chefName": " ",
                     "dishName": "BENGALI CHICKEN CURRY",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -467,12 +382,12 @@
                 {
                     "dishId": "011",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1jNiHHnUrW7eM3e6Cd8v2V6zkOnrrW6Aa"
                     ],
                     "chefName": " ",
                     "dishName": "DOI MURGI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -495,12 +410,12 @@
                 {
                     "dishId": "012",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1gDXz08fYfYfI7rjBtSuNSELP2hizC6Kk"
                     ],
                     "chefName": " ",
                     "dishName": "MUSTURD FISH CURRY",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -523,12 +438,12 @@
                 {
                     "dishId": "013",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=19KjT34ctYz24j6yXO8W0xNbz-fRcvMY9"
                     ],
                     "chefName": " ",
                     "dishName": "BENGALI VEG PULAO",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -551,12 +466,12 @@
                 {
                     "dishId": "014",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=12hn8c5divq1XpaXTKTdY1EOx8G0uK5HU"
                     ],
                     "chefName": " ",
                     "dishName": "BENGALI BASANTI PULAO",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -579,12 +494,12 @@
                 {
                     "dishId": "015",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1-_gfGxUffrCIRX_KH7anLBfgln1Rxy3J"
                     ],
                     "chefName": " ",
                     "dishName": "BIRYANI BENGALI STYLE",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -609,19 +524,19 @@
         {
 
             "id": "0003",
-            "categoryTitle": "MULTI-CUISINES - GUJARARI Rs150/DISH | Rs185/NON-VEG",
+            "categoryTitle": "MULTI-CUISINES - GUJARATI ",
             "categorySubTitle": "",
             "categoryDescription": "",
             "categoryImg": "",
             "menuDetails": [{
                     "dishId": "001",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1LTa1be0YBQKtUURQ9jYquNU0EQasZqT1"
                     ],
                     "chefName": " ",
                     "dishName": "GUJARATI KADHI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -644,12 +559,12 @@
                 {
                     "dishId": "002",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=14J-wgjRaTrW-lf9B39SzvymQETvYyFx4"
                     ],
                     "chefName": " ",
                     "dishName": "VAGHARELA BHAAT",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -672,12 +587,12 @@
                 {
                     "dishId": "003",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1fSEyQSupLOWZ3-w8fqF1t20yyeAvUSIO"
                     ],
                     "chefName": " ",
                     "dishName": "OONDIYU",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -700,12 +615,12 @@
                 {
                     "dishId": "004",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1xLy5LmG46tn0UsOzS4KP_4WeGw42dE-0"
                     ],
                     "chefName": " ",
                     "dishName": "BARDOLI KI KHICHDI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -728,12 +643,12 @@
                 {
                     "dishId": "005",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1Z1i3jq6GNa-ZYg1bqozBeUjfR0gjqgso"
                     ],
                     "chefName": " ",
                     "dishName": "METHI KA THEPLA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -756,12 +671,12 @@
                 {
                     "dishId": "006",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1bC8hhNgSkac1qZNYmZt2Q1U8E982_-k1"
                     ],
                     "chefName": " ",
                     "dishName": "GUJARATI DAL",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -784,12 +699,12 @@
                 {
                     "dishId": "007",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1yUoesHfu2UDQXjCQuZn5Q6pKJrKNPv-u"
                     ],
                     "chefName": " ",
                     "dishName": "BLACK CHANA CURRY",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -812,12 +727,12 @@
                 {
                     "dishId": "008",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1spw6VGomyQnXyFy6gY6bPfCQ00sxE9r4"
                     ],
                     "chefName": " ",
                     "dishName": "SURAN SABZI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -840,12 +755,12 @@
                 {
                     "dishId": "009",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1NwR1JOZFCs3gc--5a4HOAnUcH5oLXHnb"
                     ],
                     "chefName": " ",
                     "dishName": "SEV TAMATER KI SABZI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -868,12 +783,12 @@
                 {
                     "dishId": "010",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1Ujf8XEyL1rukiznm1-DEEyPDre1Np89D"
                     ],
                     "chefName": " ",
                     "dishName": "KOBI BATATA NU SHAAK",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -896,12 +811,12 @@
                 {
                     "dishId": "011",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1noG8Dp_sa3YAXXh532VrtX-rqv88EbeU"
                     ],
                     "chefName": " ",
                     "dishName": "PANCHMEL KHICHDI",
                     "dishSubName": " ",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -924,12 +839,12 @@
                 {
                     "dishId": "012",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1E_q7bOv06QT0i4nJ1xIatEsGAahyLBgA"
                     ],
                     "chefName": " ",
                     "dishName": "DAHIWALA MOONG DAL KHICHDI ",
                     "dishSubName": " ",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -952,12 +867,12 @@
                 {
                     "dishId": "013",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=13_XZ1U8sjiBQ8jJp78QcEsSIzBhmQ_RG"
                     ],
                     "chefName": " ",
                     "dishName": "GUJARATI MASALA BAAT ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -982,19 +897,19 @@
         {
 
             "id": "0004",
-            "categoryTitle": "MULTI-CUISINES - ORISSA  Rs150/DISH | Rs185/NON-VEG",
+            "categoryTitle": "MULTI-CUISINES - ORISSA ",
             "categorySubTitle": "",
             "categoryDescription": "",
             "categoryImg": "",
             "menuDetails": [{
                     "dishId": "001",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1BCuDXlLfEN8Nfnlsx8wI9AeQ9EwTJoKq"
                     ],
                     "chefName": " ",
                     "dishName": "KHICHDI",
                     "dishSubName": " ",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1017,12 +932,12 @@
                 {
                     "dishId": "002",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=13tx0yzHlsBfoTy9orTuPlV_9vTs5mnZo"
                     ],
                     "chefName": " ",
                     "dishName": "CHUNGDI MALAI (PRWANS CURRY)",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1045,12 +960,12 @@
                 {
                     "dishId": "003",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1hT49Ol_fz0c8wPxh4mIqYjmXf7Vm2XuA"
                     ],
                     "chefName": " ",
                     "dishName": "MACHA GHANTA (FISH CURRY)",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1073,12 +988,12 @@
                 {
                     "dishId": "004",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1ovaz7oSbUT4K7uwxQAnIIPke-SoVNpXn"
                     ],
                     "chefName": " ",
                     "dishName": "DALMA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1101,12 +1016,12 @@
                 {
                     "dishId": "005",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1z5uAdG_6-C6ChEBV0P09vWsnK5AmFdNl"
                     ],
                     "chefName": " ",
                     "dishName": "KANIKA (SWEET RICE)",
                     "dishSubName": " ",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1129,12 +1044,12 @@
                 {
                     "dishId": "006",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1ZWmFz13gSsLD9QGdbFADe203GK8DGxXO"
                     ],
                     "chefName": " ",
                     "dishName": "PILAF (PULAO)",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1157,12 +1072,12 @@
                 {
                     "dishId": "007",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1dG1vp0UzoxNXxmdfvz2-58KAQHtsGBF6"
                     ],
                     "chefName": " ",
                     "dishName": "SANTULA (VEGTABLE CURRY)",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1185,12 +1100,12 @@
                 {
                     "dishId": "008",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=17hyu1SYXXLDG0lbbp6SCceloYnnbkb4A"
                     ],
                     "chefName": " ",
                     "dishName": "CHAATU RAI (MUSHROOM CURRY)",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1213,12 +1128,12 @@
                 {
                     "dishId": "009",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=17JCD9pTvr66Sb58bESOFUNgAT54cPlCH"
                     ],
                     "chefName": " ",
                     "dishName": "ALOO POTALA RASA (ALOO PARVAL SABZI)",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1241,12 +1156,12 @@
                 {
                     "dishId": "010",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1lK2eo45Ju5uLSvEA2PA-U65daytoYR94"
                     ],
                     "chefName": " ",
                     "dishName": "BESARA (ALOO, BANANA, RAW PAPAYA)",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1271,19 +1186,19 @@
         {
 
             "id": "0005",
-            "categoryTitle": "MULTI-CUISINES - MARATHI Rs150/DISH | Rs185/NON-VEG",
+            "categoryTitle": "MULTI-CUISINES - MARATHI ",
             "categorySubTitle": "",
             "categoryDescription": "",
             "categoryImg": "",
             "menuDetails": [{
                     "dishId": "001",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1IkL46smXtixZlcraSAfiYayfrbbFn3aa"
                     ],
                     "chefName": " ",
                     "dishName": "BARALI VANGI",
                     "dishSubName": " ",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1306,12 +1221,12 @@
                 {
                     "dishId": "002",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=146cbxCsv0V-dxBfhPPqITH5uXe5Cfd4I"
                     ],
                     "chefName": " ",
                     "dishName": "PITHALA",
                     "dishSubName": "  ",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1334,12 +1249,12 @@
                 {
                     "dishId": "003",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1_BPx1Q-iqyeksnPVpOyvOvqprSR0MWib"
                     ],
                     "chefName": " ",
                     "dishName": "AMATI",
                     "dishSubName": " ",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1362,12 +1277,12 @@
                 {
                     "dishId": "004",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=17ubG266lVoH2Y6ni5R44UWpsUQOARmwO"
                     ],
                     "chefName": " ",
                     "dishName": "DAL VARAN",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1390,12 +1305,12 @@
                 {
                     "dishId": "005",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1YTEMzzGpo5D4Gr99PmIt2PnhR8RScd__"
                     ],
                     "chefName": " ",
                     "dishName": "KADHI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1418,12 +1333,12 @@
                 {
                     "dishId": "006",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1JGJD29bcMVBoDjUbu6uzwTfhkIXQJJqT"
                     ],
                     "chefName": " ",
                     "dishName": "PANDARA RASSA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1446,12 +1361,12 @@
                 {
                     "dishId": "007",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1W0L5SFlLXGC5L9v85O9z3S2TID7kdzwJ"
                     ],
                     "chefName": " ",
                     "dishName": "TAMBADA RASAA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1474,12 +1389,12 @@
                 {
                     "dishId": "008",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1rQkVkcyC6Pj2qSGnAb_USuVz3ol612Dp"
                     ],
                     "chefName": " ",
                     "dishName": "CHICKEN KOLHAPURI ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1502,12 +1417,12 @@
                 {
                     "dishId": "009",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1zTtT6vlvMYdga4ebzPGWuWDTguKBEjMz"
                     ],
                     "chefName": " ",
                     "dishName": "MASALA BHAAT",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1530,12 +1445,12 @@
                 {
                     "dishId": "010",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1LHeqQd65sVAXsym2VCrwWtb1MLnmgk15"
                     ],
                     "chefName": " ",
                     "dishName": "VARAN BHAAT",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1558,12 +1473,12 @@
                 {
                     "dishId": "011",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1MK9NJKdDl6pcQxRyfSRjL-6vRFqYMaIE"
                     ],
                     "chefName": " ",
                     "dishName": "COCONUT RICE",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1586,12 +1501,12 @@
                 {
                     "dishId": "012",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1H2w4d2Cxy_aOKWHh6o3dqS9gHJIntABb"
                     ],
                     "chefName": " ",
                     "dishName": "VANGI BHAAT",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1614,12 +1529,12 @@
                 {
                     "dishId": "013",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1gVDDcaOSjG0mpVhGwMQu0RrouU5n0Ggn"
                     ],
                     "chefName": " ",
                     "dishName": "TENDLI BHAAT",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1642,12 +1557,12 @@
                 {
                     "dishId": "014",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1Akua-9XPqco1-na5A1adox5jqcc8IMEb"
                     ],
                     "chefName": " ",
                     "dishName": "KOBDI RASSA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1670,12 +1585,12 @@
                 {
                     "dishId": "015",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=10tV7UQJQjDaQ2JnBB9xqFzmi1c9cQZGg"
                     ],
                     "chefName": " ",
                     "dishName": "CHICKEN SUKKHA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1700,19 +1615,19 @@
         {
 
             "id": "0006",
-            "categoryTitle": "MULTI-CUISINES - RAJASTHANI Rs150/DISH | Rs185/NON-VEG",
+            "categoryTitle": "MULTI-CUISINES - RAJASTHANI ",
             "categorySubTitle": "",
             "categoryDescription": "",
             "categoryImg": "",
             "menuDetails": [{
                     "dishId": "001",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1AFPQcAEskpvFvguSIOedjTHdJDNayJVP"
                     ],
                     "chefName": " ",
                     "dishName": "DAL BATI ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1735,12 +1650,12 @@
                 {
                     "dishId": "002",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1Q0-luiXm5g9Wko-e75DNgqZIrpm4rPMn"
                     ],
                     "chefName": " ",
                     "dishName": "GATTE KI SABZI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1763,12 +1678,12 @@
                 {
                     "dishId": "003",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1i64potYxX88NATvGTzWuW6lHUt4wxjXj"
                     ],
                     "chefName": " ",
                     "dishName": "GATTA CURRY ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1791,12 +1706,12 @@
                 {
                     "dishId": "004",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1R3JZ8Byn0M4MHBEWpxJIhlZBmlv0xaBo"
                     ],
                     "chefName": " ",
                     "dishName": "LAAL MAAS",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1819,12 +1734,12 @@
                 {
                     "dishId": "005",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1I_5a4fBBDRL2e5f77wuE0lHC8TRkv1by"
                     ],
                     "chefName": " ",
                     "dishName": "KER SANGRI ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1847,12 +1762,12 @@
                 {
                     "dishId": "006",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=16y3UQVWzaSNHWFGWkL1oEzpasvnt2Ze4"
                     ],
                     "chefName": " ",
                     "dishName": "KABULI PULAO ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1875,12 +1790,12 @@
                 {
                     "dishId": "007",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=12-cU2GN9XwK8HzHJ0WlRprW-Nr9XJ6f-"
                     ],
                     "chefName": " ",
                     "dishName": "GATTE MATTER KHICHDI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1903,12 +1818,12 @@
                 {
                     "dishId": "008",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1eZ6H2f7guBTemRnPzIu0Xj3FcV4qCd4j"
                     ],
                     "chefName": " ",
                     "dishName": "ALOO MATER SAAG ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1931,12 +1846,12 @@
                 {
                     "dishId": "009",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=11l6QfJN8rLtH1qJBpi4JnqfgAcU2b_Z7"
                     ],
                     "chefName": " ",
                     "dishName": "DAHI ALOO",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1959,12 +1874,12 @@
                 {
                     "dishId": "010",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1GOtPRmHjPsW5IlpZDjnjKALRCNCkHZc6"
                     ],
                     "chefName": " ",
                     "dishName": "PYAAZ PANEER",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -1987,12 +1902,12 @@
                 {
                     "dishId": "011",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1n9IYRCIysuBL_vDi9j4lWRMrH6v2Ssy4"
                     ],
                     "chefName": " ",
                     "dishName": "DAL BHANJARI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -2015,12 +1930,12 @@
                 {
                     "dishId": "012",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1azDjffBgyuUMfvr-mFUdR6a-AJ8sdv74"
                     ],
                     "chefName": " ",
                     "dishName": "RAJASTHANI KADHI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -2043,12 +1958,12 @@
                 {
                     "dishId": "013",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1M6megdtto-g6JNFZoVjgh18SjpCuhkAA"
                     ],
                     "chefName": " ",
                     "dishName": "PANCHMEL KI SABZI ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 150,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -2071,12 +1986,12 @@
                 {
                     "dishId": "014",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1L_xYs5Q_pFfwh7tSqTw2jZKMWH6-tFbX"
                     ],
                     "chefName": " ",
                     "dishName": "KHATTA MURGH ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -2099,12 +2014,12 @@
                 {
                     "dishId": "015",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1oLmzV2qTGMOMvg8sTY8pw3s84ANevj9Z"
                     ],
                     "chefName": " ",
                     "dishName": "MURGH AJMERI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 185,
                     "dishDescription": " ",
                     "saleKgMg": "",
                     "calories": 0,
@@ -2135,7 +2050,7 @@
             "menuDetails": [{
                     "dishId": "001",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1kRqh_RFZOpp5KmC3elP6nPORDZvnMSGc"
                     ],
                     "chefName": " ",
                     "dishName": "MASALA NACHOS",
@@ -2163,7 +2078,7 @@
                 {
                     "dishId": "002",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1siAdC2j6-oQ19oWNDQEc3bgl2iX19yoM"
                     ],
                     "chefName": " ",
                     "dishName": "KACHORI (2 PCS SMALL)",
@@ -2191,7 +2106,7 @@
                 {
                     "dishId": "003",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1siAdC2j6-oQ19oWNDQEc3bgl2iX19yoM"
                     ],
                     "chefName": " ",
                     "dishName": "KACHORI (2 PCS BIG)",
@@ -2219,7 +2134,7 @@
                 {
                     "dishId": "004",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1YJv5QLuNLmdHglT18_tiPjxpdbJ7GOBX"
                     ],
                     "chefName": " ",
                     "dishName": "MINI VEG ROLL",
@@ -2247,7 +2162,7 @@
                 {
                     "dishId": "005",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1r1WcqLZj_CHLma3D4TfwD0Xi7ezJpYXZ"
                     ],
                     "chefName": " ",
                     "dishName": "ROASTED POTATOES WEDGES",
@@ -2275,7 +2190,7 @@
                 {
                     "dishId": "006",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=13tNAZwz7piOPsMkHCiBkYSgZ7wzjaM8c"
                     ],
                     "chefName": " ",
                     "dishName": "MASALA BHEL",
@@ -2303,7 +2218,7 @@
                 {
                     "dishId": "007",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1dhb9fa4wOLOQAnAVjqCMh_dODUXVeeOC"
                     ],
                     "chefName": " ",
                     "dishName": "BLACK CHANA CHAAT",
@@ -2331,7 +2246,7 @@
                 {
                     "dishId": "008",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1gRYIEBr5lrChU7pS3P-hjaFWmYj0Ogpa"
                     ],
                     "chefName": " ",
                     "dishName": "ALOO PATTY BURGER",
@@ -2359,7 +2274,7 @@
                 {
                     "dishId": "009",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1hd9Bk38UX_KcxTSBdFOrZZP-vao_-yM-"
                     ],
                     "chefName": " ",
                     "dishName": "FALA FAL WRAP",
@@ -2387,7 +2302,7 @@
                 {
                     "dishId": "010",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1-AzQOFOfirF6_G1Mi6ZepBuds6Mif4WO"
                     ],
                     "chefName": " ",
                     "dishName": "MISAL PAV",
@@ -2415,7 +2330,7 @@
                 {
                     "dishId": "011",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=19dasXzOpCFeC_yENaR9lFAheAV98Bu9N"
                     ],
                     "chefName": " ",
                     "dishName": "VADA PAV",
@@ -2443,7 +2358,7 @@
                 {
                     "dishId": "012",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1AF9Y3rv2y54Qz5tsKbU3Iywc5CwiYvPk"
                     ],
                     "chefName": " ",
                     "dishName": "CHOLEY PATTY",
@@ -2471,7 +2386,7 @@
                 {
                     "dishId": "013",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1N5Cib6UU_RsKaLF4nDDDq2Ajl33gFK5-"
                     ],
                     "chefName": " ",
                     "dishName": "HUMMUS TOAST",
@@ -2499,7 +2414,7 @@
                 {
                     "dishId": "014",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1JUBD7_T201wELEADgOEnshz7nERrqFke"
                     ],
                     "chefName": " ",
                     "dishName": "DHOKLA",
@@ -2527,7 +2442,7 @@
                 {
                     "dishId": "015",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        " "
                     ],
                     "chefName": " ",
                     "dishName": "BANANA BEANS PORIYAL WRAP",
@@ -2555,7 +2470,7 @@
                 {
                     "dishId": "016",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=10blJda7_Sh9nEH-D7WCziHmy8Fn_ZDEM"
                     ],
                     "chefName": " ",
                     "dishName": "STUFFED KULCHA",
@@ -2583,7 +2498,7 @@
                 {
                     "dishId": "017",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1EAYEa2QZGo_PQ1OqNwDB-MNZ8I1H9JlF"
                     ],
                     "chefName": " ",
                     "dishName": "BATATA TOSASTED SANDWICH",
@@ -2611,7 +2526,7 @@
                 {
                     "dishId": "018",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1vQea8m_8rFh-lgLzsN8Fa30ijBeID2wM"
                     ],
                     "chefName": " ",
                     "dishName": "HUMMUS VEG SANDWICH",
@@ -2639,7 +2554,7 @@
                 {
                     "dishId": "019",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1u1r355RRmd5Z-m9ZYsoyYUjlpkv_az2d"
                     ],
                     "chefName": " ",
                     "dishName": "PANJABI CHOLE",
@@ -2667,7 +2582,7 @@
                 {
                     "dishId": "020",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1pxjn8OeOfwo-bE3_27ju9bxw7Sw2Q6WD"
                     ],
                     "chefName": " ",
                     "dishName": "MINI VEGETABLE KATHI ROLL",
@@ -2703,7 +2618,7 @@
             "menuDetails": [{
                     "dishId": "001",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1zBJFnOK9lV6obBTLif1rx5WPZHLo7tt1"
                     ],
                     "chefName": " ",
                     "dishName": "VEGETABLE POHA",
@@ -2731,7 +2646,7 @@
                 {
                     "dishId": "002",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1ys5b0W2T7xlFuvYIRdeXIHr8ioVsoU5F"
                     ],
                     "chefName": " ",
                     "dishName": "WHEAT UPMA",
@@ -2759,7 +2674,7 @@
                 {
                     "dishId": "003",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1FM8EuCs-EDROpne-MFzRf1qHYnfWdKGZ"
                     ],
                     "chefName": " ",
                     "dishName": "PONGAL",
@@ -2787,7 +2702,7 @@
                 {
                     "dishId": "004",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1dMfwqeqXnX1UGTQu6j1bFdq3sWGbPPIS"
                     ],
                     "chefName": " ",
                     "dishName": "BESIBELLE BHAT",
@@ -2815,7 +2730,7 @@
                 {
                     "dishId": "005",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1tiD8BODib2Al5kzfr4VSH0d-T-TuAqd7"
                     ],
                     "chefName": " ",
                     "dishName": "BROKEN WHEAT KHICHDI",
@@ -2843,7 +2758,7 @@
                 {
                     "dishId": "006",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1LSec7Di6vgTMkVrQvbCjqgNuBIlGeGDv"
                     ],
                     "chefName": " ",
                     "dishName": "RED RICE KHICHDI",
@@ -2871,7 +2786,7 @@
                 {
                     "dishId": "007",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1fzFGjKHOySeMMIirK7MnQNmNJ_SXeKM8"
                     ],
                     "chefName": " ",
                     "dishName": "IDLI 3 PCS",
@@ -2899,7 +2814,7 @@
                 {
                     "dishId": "008",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1RGiA-pSchgGCKZsfFian0AvL9du93xS6"
                     ],
                     "chefName": " ",
                     "dishName": "POHA 200",
@@ -2927,7 +2842,7 @@
                 {
                     "dishId": "009",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1CmS8yv__IU4PXoCY7Kg2uumwxdQ0H0_7"
                     ],
                     "chefName": " ",
                     "dishName": "SEWAIYAN UPMA 200",
@@ -2955,7 +2870,7 @@
                 {
                     "dishId": "010",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=14s-_nP6vLTTHH1p-yMHtNfcTtQw-RAcs"
                     ],
                     "chefName": " ",
                     "dishName": "UPMA 200",
@@ -2983,7 +2898,7 @@
                 {
                     "dishId": "011",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1R1Yk0Dj-E9FzjMEjm8Gzzw8pf2PQpPd5"
                     ],
                     "chefName": " ",
                     "dishName": "LEMON RICE 250",
@@ -3011,7 +2926,7 @@
                 {
                     "dishId": "012",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1C963XR5aPN-QA13i20WZ99icWgxcipsc"
                     ],
                     "chefName": " ",
                     "dishName": "SET DOSA [3X5] 150",
@@ -3039,7 +2954,7 @@
                 {
                     "dishId": "013",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1iUopk9AQqJw6i8kIvTSQ5CtrvzN2d_sV"
                     ],
                     "chefName": " ",
                     "dishName": "VEG SANDWICH 93",
@@ -3067,7 +2982,7 @@
                 {
                     "dishId": "014",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1PPVA7Eygjyp-hZQ8foU7LimNJw1pFS0r"
                     ],
                     "chefName": " ",
                     "dishName": "METHI THEPLA 150",
@@ -3095,7 +3010,7 @@
                 {
                     "dishId": "015",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1LxershnFf5IgnZa4Rq9Y9PsEMrae901_"
                     ],
                     "chefName": " ",
                     "dishName": "SABUDANA KHICHDI 200",
@@ -3123,7 +3038,7 @@
                 {
                     "dishId": "016",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1UQdPM6YFAqnTHOHebjQQmAXhT36w7S_S"
                     ],
                     "chefName": " ",
                     "dishName": "TAWA PAROTHA 2PCS",
@@ -3151,7 +3066,7 @@
                 {
                     "dishId": "017",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1lR3jZwmvfxLU5ERwJxtfIw72G0KLd3IF"
                     ],
                     "chefName": " ",
                     "dishName": "ALOO PARATHA 2PCS",
@@ -3179,7 +3094,7 @@
                 {
                     "dishId": "018",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1RnJowGa_rGDweotggArL5x1ylEfbZfow"
                     ],
                     "chefName": " ",
                     "dishName": "TAMOTO RICE 250",
@@ -3207,7 +3122,7 @@
                 {
                     "dishId": "019",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1kfDYF37PdRngH9grexZtTm6SXfCX_m_G"
                     ],
                     "chefName": " ",
                     "dishName": "BREAKFAST QUEADILLA 170",
@@ -3235,7 +3150,7 @@
                 {
                     "dishId": "020",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=145sTF2pnljcN8WHTqYGwYGoYSUqAkbu7"
                     ],
                     "chefName": " ",
                     "dishName": "UTTAPAM(3X50) 150",
@@ -3263,7 +3178,7 @@
                 {
                     "dishId": "021",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1PsXbwAKS6jXQ-ElxfEP8yXrsGcHvgK_9"
                     ],
                     "chefName": " ",
                     "dishName": "PULIYOGARE RICE 200",
@@ -3291,7 +3206,7 @@
                 {
                     "dishId": "022",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1xI7AobUAAULi1QhqSageAzn8CuHckw53"
                     ],
                     "chefName": " ",
                     "dishName": "VEGETABLE RAVA IDLI 3PCS 150",
@@ -3320,223 +3235,19 @@
         },
         {
             "id": "0009",
-            "categoryTitle": "HEALTHY MENU",
+            "categoryTitle": "Lunch Specials ",
             "categorySubTitle": "",
             "categoryDescription": "",
             "categoryImg": "",
             "menuDetails": [{
                     "dishId": "001",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
-                    ],
-                    "chefName": " ",
-                    "dishName": "SUNDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
-                    "dishSubName": " ",
-                    "saleAmount": 100,
-                    "dishDescription": "Breakfast : Brunch\nSnack : 1/4 Cup DRIED FRUITS\nLunch : Rajma(Boil Make Extra For Tuesday Burrito Bowl ), Chawal , Dahi, Kachumber Salad\nDinner: Paneer Kofta, Arbi ki Sabzi(Make Extra For Wednesday)\nSide 1: Salad\nSide 2: Chapati / Rice",
-                    "saleKgMg": "",
-                    "calories": 0,
-                    "protein": 0,
-                    "fat": 0,
-                    "carbs": 0,
-                    "fibre": 0,
-                    "sugar": 0,
-                    "Breakfast": true,
-                    "Lunch": true,
-                    "Dinner": true,
-                    "Snacks": true,
-                    "suitableFor": [
-                        "DIABETIC PATIENTS",
-                        "PREGNANT WOMEN",
-                        "HEART PATIENTS",
-                        "GENERAL"
-                    ]
-                },
-                {
-                    "dishId": "002",
-                    "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
-                    ],
-                    "chefName": " ",
-                    "dishName": "MONDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
-                    "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Breakfast : Boild Egg Sandwich ,Fresh Juice / Tea /Coffee\nSnack : 1/4 Cup DRIED FRUITS\nLunch : Thai Noodle Salad(Lunch Box Friendly)\nDinner: Vegetable Pulao(Make Extra for Thursday)\nSide 1: BeetRoot Raita\nSide 2: Green Salad",
-                    "saleKgMg": "",
-                    "calories": 0,
-                    "protein": 0,
-                    "fat": 0,
-                    "carbs": 0,
-                    "fibre": 0,
-                    "sugar": 0,
-                    "Breakfast": true,
-                    "Lunch": true,
-                    "Dinner": true,
-                    "Snacks": true,
-                    "suitableFor": [
-                        "DIABETIC PATIENTS",
-                        "PREGNANT WOMEN",
-                        "HEART PATIENTS",
-                        "GENERAL"
-                    ]
-                },
-                {
-                    "dishId": "003",
-                    "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
-                    ],
-                    "chefName": " ",
-                    "dishName": "TUESDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
-                    "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Breakfast : Vegetable Poha(20 Minutes), 1/2 Apple, 1/2 Cub Dahi \nSnack : 1/4 Cup DRIED FRUITS\nLunch : Burrito Bowl (pack Great At Home)\nDinner: Moonga Dal Tadka(Make Extra For Wednesday) phulka / Roti / Parota\nSide 1: Khatte Aloo(Make Extra For Thursday Breakfast) \nSide 2: Green Salad",
-                    "saleKgMg": "",
-                    "calories": 0,
-                    "protein": 0,
-                    "fat": 0,
-                    "carbs": 0,
-                    "fibre": 0,
-                    "sugar": 0,
-                    "Breakfast": true,
-                    "Lunch": true,
-                    "Dinner": true,
-                    "Snacks": true,
-                    "suitableFor": [
-                        "DIABETIC PATIENTS",
-                        "PREGNANT WOMEN",
-                        "HEART PATIENTS",
-                        "GENERAL"
-                    ]
-                },
-                {
-                    "dishId": "004",
-                    "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
-                    ],
-                    "chefName": " ",
-                    "dishName": "WEDNESDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
-                    "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Breakfast : Caprese SandWich, Pear / Kiwi \nSnack : 1/4 Cup DRIED FRUITS\nLunch : Moonga Dal Tadka, Arbi Ki Sabzi, Tadke Wali Sabzi , Chapati / Whole Wheat Bread \nDinner: Gujrathi Khatti Dal (Make Extra For Friday Red Rice)\nSide 1: Baingan Bharta \nSide 2: Dahi\nDessert: Green Salad",
-                    "saleKgMg": "",
-                    "calories": 0,
-                    "protein": 0,
-                    "fat": 0,
-                    "carbs": 0,
-                    "fibre": 0,
-                    "sugar": 0,
-                    "Breakfast": true,
-                    "Lunch": true,
-                    "Dinner": true,
-                    "Snacks": true,
-                    "suitableFor": [
-                        "DIABETIC PATIENTS",
-                        "PREGNANT WOMEN",
-                        "HEART PATIENTS",
-                        "GENERAL"
-                    ]
-                },
-                {
-                    "dishId": "005",
-                    "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
-                    ],
-                    "chefName": " ",
-                    "dishName": "THURSDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
-                    "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Breakfast : Mumbai Toast With Lift Over Vegetables , Masala Chai \nSnack : 1/4 Cup DRIED FRUITS\nLunch : Vegtable Pulao\nDinner: Vegetable Biryani  / Chicken Biryani , Boondi Raita  \nSide 1: Papad \nDessert: Green Salad",
-                    "saleKgMg": "",
-                    "calories": 0,
-                    "protein": 0,
-                    "fat": 0,
-                    "carbs": 0,
-                    "fibre": 0,
-                    "sugar": 0,
-                    "Breakfast": true,
-                    "Lunch": true,
-                    "Dinner": true,
-                    "Snacks": true,
-                    "suitableFor": [
-                        "DIABETIC PATIENTS",
-                        "PREGNANT WOMEN",
-                        "HEART PATIENTS",
-                        "GENERAL"
-                    ]
-                },
-                {
-                    "dishId": "006",
-                    "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
-                    ],
-                    "chefName": " ",
-                    "dishName": "FRIDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
-                    "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Breakfast : Granola And Fruit Parfait\nSnack : 1/4 Cup DRIED FRUITS\nLunch : Gujarati Khatti Dal , Karele Ki Sabzi \nDinner: Sabut Masoor Dal , Aloo Gobhi Achari  \nSide 1: Chapati / Rice",
-                    "saleKgMg": "",
-                    "calories": 0,
-                    "protein": 0,
-                    "fat": 0,
-                    "carbs": 0,
-                    "fibre": 0,
-                    "sugar": 0,
-                    "Breakfast": true,
-                    "Lunch": true,
-                    "Dinner": true,
-                    "Snacks": true,
-                    "suitableFor": [
-                        "DIABETIC PATIENTS",
-                        "PREGNANT WOMEN",
-                        "HEART PATIENTS",
-                        "GENERAL"
-                    ]
-                },
-                {
-                    "dishId": "007",
-                    "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
-                    ],
-                    "chefName": " ",
-                    "dishName": "SATURDAY (SINGLE : ₹ 1000 per week / ₹ 142 per day , COUPLE : ₹ 1800 per week / ₹ 128 per day , Family : ₹ 3200 per week / ₹ 114 per day )",
-                    "dishSubName": "",
-                    "saleAmount": 100,
-                    "dishDescription": "Breakfast : Paratha / Sabzi \nSnack : 1/4 Cup DRIED FRUITS\nLunch : Egg Curry , Malabar Parota",
-                    "saleKgMg": "",
-                    "calories": 0,
-                    "protein": 0,
-                    "fat": 0,
-                    "carbs": 0,
-                    "fibre": 0,
-                    "sugar": 0,
-                    "Breakfast": true,
-                    "Lunch": true,
-                    "Dinner": true,
-                    "Snacks": true,
-                    "suitableFor": [
-                        "DIABETIC PATIENTS",
-                        "PREGNANT WOMEN",
-                        "HEART PATIENTS",
-                        "GENERAL"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "0010",
-            "categoryTitle": "Lunch Specials ( ₹ 175 Veg /  ₹ 200 Non-veg)",
-            "categorySubTitle": "",
-            "categoryDescription": "",
-            "categoryImg": "",
-            "menuDetails": [{
-                    "dishId": "001",
-                    "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1KS5zhXBwtquxqpLpYMCiIAt1Q-cFzo-S"
                     ],
                     "chefName": " ",
                     "dishName": "ALOO RASSEDAR",
                     "dishSubName": " ",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3559,12 +3270,12 @@
                 {
                     "dishId": "002",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1m6kJtSVAeRXlt5BjtVUJKA8RPAdiVeXo"
                     ],
                     "chefName": " ",
                     "dishName": "BAIGAN KA SALAN",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3587,12 +3298,12 @@
                 {
                     "dishId": "003",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        " "
                     ],
                     "chefName": " ",
                     "dishName": "TURAI GREEN PEA MASALA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3615,12 +3326,12 @@
                 {
                     "dishId": "004",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=18UrTKmxv2g_dzqHbu7o5cLcvhIYhYz42"
                     ],
                     "chefName": " ",
                     "dishName": "KALA CHANA MASALA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3643,12 +3354,12 @@
                 {
                     "dishId": "005",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1wD2KvH5CuCgpPNDgJ-1Nx6EuW2jF337F"
                     ],
                     "chefName": " ",
                     "dishName": "DUM ALOO KASHMIR!",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3671,12 +3382,12 @@
                 {
                     "dishId": "006",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        " "
                     ],
                     "chefName": " ",
                     "dishName": "SUEZ MILONI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3699,12 +3410,12 @@
                 {
                     "dishId": "007",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1qvnvf6HFi5DoHC9VaUyQAHv_NtQTkXwu"
                     ],
                     "chefName": " ",
                     "dishName": "MATAR KI NIMONA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3727,12 +3438,12 @@
                 {
                     "dishId": "008",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1NvMZLOsr2kE8lb3OV0PsH7OPRIzD1ong"
                     ],
                     "chefName": " ",
                     "dishName": "SINDHI CURRY",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3755,12 +3466,12 @@
                 {
                     "dishId": "009",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1EAImmBUZE6-4QiFrkJncPtPL5GGK3y4v"
                     ],
                     "chefName": " ",
-                    "dishName": "SUEZ DIWANI NANDI",
+                    "dishName": "SUBZ DIWANI NANDI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3783,12 +3494,12 @@
                 {
                     "dishId": "010",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        " "
                     ],
                     "chefName": " ",
                     "dishName": "ALOO SOABEAN",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3811,12 +3522,12 @@
                 {
                     "dishId": "011",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        " "
                     ],
                     "chefName": " ",
                     "dishName": "MIX VEG POSTO",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3839,12 +3550,12 @@
                 {
                     "dishId": "012",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        " "
                     ],
                     "chefName": " ",
                     "dishName": "SURAN MASALA CURRY",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3867,12 +3578,12 @@
                 {
                     "dishId": "013",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1H19ej63svYzYmgEQpL-2MAqTT3aQz6D4"
                     ],
                     "chefName": " ",
                     "dishName": "AVIAL",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3895,12 +3606,12 @@
                 {
                     "dishId": "014",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1_PuPcq7YvcU51VN5LyRDqk_-G5iUAUNh"
                     ],
                     "chefName": " ",
-                    "dishName": "CHILLI PANEER / CHICKEN",
+                    "dishName": "CHILLI PANEER",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3923,12 +3634,12 @@
                 {
                     "dishId": "015",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1hrmI01RqeMyFh5szRm-suQvQ8Ike6YVK "
                     ],
                     "chefName": " ",
-                    "dishName": "DHABA CHICKEN / DHABA PANEER",
+                    "dishName": "CHILLI CHICKEN",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 200,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3951,12 +3662,12 @@
                 {
                     "dishId": "016",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1NEGXbkm3NYVuSolxY_d11zaxKHep7JI6 "
                     ],
                     "chefName": " ",
-                    "dishName": "MURGH TARI WALA / MATAR PANEER",
+                    "dishName": "DHABA PANEER",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -3979,12 +3690,12 @@
                 {
                     "dishId": "017",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1bSaLuzV_2GpVI7HlPMBV5mdA9p09V4zq"
                     ],
                     "chefName": " ",
-                    "dishName": "PALAK MURGH / LAHSUNI METHI PANEER",
+                    "dishName": "DHABA CHICKEN",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 200,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4007,12 +3718,12 @@
                 {
                     "dishId": "018",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1Kbvk1BeTuiyHtXsHLUYz0ce_Cb9eVi3x"
                     ],
                     "chefName": " ",
-                    "dishName": "DAL AMRITSARI",
+                    "dishName": "MURGH TARI WALA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 200,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4035,12 +3746,12 @@
                 {
                     "dishId": "019",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1QXo4AIqNzHSN0A_qAKjFzYy8FpENRMXx "
                     ],
                     "chefName": " ",
-                    "dishName": "RAJAMA RASILA",
+                    "dishName": "MATAR PANEER",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4063,12 +3774,12 @@
                 {
                     "dishId": "020",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1pQUQfa7N7Rz2jIR0HPHkkjvnfkVq2lmE"
                     ],
                     "chefName": " ",
-                    "dishName": "LOBIA DAL",
+                    "dishName": "PALAK MURGH ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 200,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4091,12 +3802,12 @@
                 {
                     "dishId": "021",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1TRI3Jk4KtidCu_Cem9xOIpjdyIpb9KFQ"
                     ],
                     "chefName": " ",
-                    "dishName": "SAMBHAR ",
+                    "dishName": "LAHSUNI METHI PANEER",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4119,12 +3830,12 @@
                 {
                     "dishId": "022",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1s2kcLbwP02SUjiHIqzon1w__d3TqJI0a"
                     ],
                     "chefName": " ",
-                    "dishName": "DAL PALAK",
+                    "dishName": "DAL AMRITSARI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4147,12 +3858,12 @@
                 {
                     "dishId": "023",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1PImRvrOQ2d37FydGLzVcrsSkViHDKqmT"
                     ],
                     "chefName": " ",
-                    "dishName": "GHAR KI DAL",
+                    "dishName": "RAJAMA RASILA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4175,12 +3886,12 @@
                 {
                     "dishId": "024",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1AOn8HlVphPoXcYO3Vo_HQHx9kIInNxSf"
                     ],
                     "chefName": " ",
-                    "dishName": "DAL PANCHMEL",
+                    "dishName": "LOBIA DAL",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4203,12 +3914,12 @@
                 {
                     "dishId": "025",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1azlmDy334DUqDrbkEj_0qT0jJ_3GQKof"
                     ],
                     "chefName": " ",
-                    "dishName": "DALMA",
+                    "dishName": "SAMBHAR ",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4231,12 +3942,12 @@
                 {
                     "dishId": "026",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1-9WFB-lu7ku3g1CMqj6QdyzAVO-KPX9e"
                     ],
                     "chefName": " ",
-                    "dishName": "WATANA KORMA",
+                    "dishName": "DAL PALAK",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4259,12 +3970,12 @@
                 {
                     "dishId": "027",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1ZUSxkjSw76uid1iMKdCoIhTpR_7P2fpk"
                     ],
                     "chefName": " ",
-                    "dishName": "DAL MILONI",
+                    "dishName": "GHAR KI DAL",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4287,12 +3998,12 @@
                 {
                     "dishId": "028",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=10y6cDPcUYv7E9uUo79zrmH0_v7is1wDh"
                     ],
                     "chefName": " ",
-                    "dishName": "LANGAR WALT DAL (SPLIT URAD DAL)",
+                    "dishName": "DAL PANCHMEL",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4315,12 +4026,12 @@
                 {
                     "dishId": "029",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1MJ1fiKzJz5n4a06cku3t6elAHd6fMY4f"
                     ],
                     "chefName": " ",
-                    "dishName": "TIKRI PAKWAN",
+                    "dishName": "DALMA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4343,12 +4054,12 @@
                 {
                     "dishId": "030",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        ""
                     ],
                     "chefName": " ",
-                    "dishName": "TOMATO PAPU",
+                    "dishName": "WATANA KORMA",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4371,12 +4082,12 @@
                 {
                     "dishId": "031",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1tRnyRZT0R3stFE0l3TkBorSAdE0VB4EU"
                     ],
                     "chefName": " ",
-                    "dishName": "MIX VEGETABLE SOYA GINGER SAUCE",
+                    "dishName": "DAL MILONI",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4399,12 +4110,12 @@
                 {
                     "dishId": "032",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=14eAH1v9C2gvglR8gl_l7l834fEqSMev_"
                     ],
                     "chefName": " ",
-                    "dishName": "LAUKI CHANA DAL",
+                    "dishName": "LANGAR WALT DAL (SPLIT URAD DAL)",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4427,12 +4138,12 @@
                 {
                     "dishId": "033",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        " "
                     ],
                     "chefName": " ",
-                    "dishName": "PUNJABI CHOLEY MASALA",
+                    "dishName": "TIKRI PAKWAN",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
                     "saleKgMg": "",
                     "calories": 0,
@@ -4455,13 +4166,217 @@
                 {
                     "dishId": "034",
                     "dishImage": [
-                        "https://foodyhivestorage.blob.core.windows.net/assets/dishimages/thumbnails/Veg Pulao.jpg"
+                        "https://drive.google.com/thumbnail?id=1-6tMTkQO3ZODCpxYceNnXVxP4YSR7jtv"
+                    ],
+                    "chefName": " ",
+                    "dishName": "TOMATO PAPU",
+                    "dishSubName": "",
+                    "saleAmount": 175,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "035",
+                    "dishImage": [
+                        "https://drive.google.com/thumbnail?id=1sA4tnKhuorfkG_vMwK2AQrU6b35XsmcB"
+                    ],
+                    "chefName": " ",
+                    "dishName": "MIX VEGETABLE SOYA GINGER SAUCE",
+                    "dishSubName": "",
+                    "saleAmount": 175,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "036",
+                    "dishImage": [
+                        "https://drive.google.com/thumbnail?id=1CpzdQ1A4N2x01gNEfa012_r34LGdGDtd"
+                    ],
+                    "chefName": " ",
+                    "dishName": "LAUKI CHANA DAL",
+                    "dishSubName": "",
+                    "saleAmount": 175,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "037",
+                    "dishImage": [
+                        "https://drive.google.com/thumbnail?id=1rNID7heA800ktuP0q7o3rAgr8L89P5-w"
+                    ],
+                    "chefName": " ",
+                    "dishName": "PUNJABI CHOLEY MASALA",
+                    "dishSubName": "",
+                    "saleAmount": 175,
+                    "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "038",
+                    "dishImage": [
+                        "https://drive.google.com/thumbnail?id=1i64potYxX88NATvGTzWuW6lHUt4wxjXj"
                     ],
                     "chefName": " ",
                     "dishName": "GATTA CURRY",
                     "dishSubName": "",
-                    "saleAmount": 100,
+                    "saleAmount": 175,
                     "dishDescription": "",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0010",
+            "categoryTitle": "HEALTHY MENU",
+            "categorySubTitle": "",
+            "categoryDescription": "",
+            "categoryImg": "",
+            "menuDetails": [{
+                    "dishId": "001",
+                    "dishImage": [
+                        "https://drive.google.com/thumbnail?id=1sMdxKjoagRLsYS7Lwl7FOQ5EXEBtPfo7"
+                    ],
+                    "chefName": " ",
+                    "dishName": "SINGLE HEALTHY MENU",
+                    "dishSubName": " ",
+                    "saleAmount": 1000,
+                    "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "002",
+                    "dishImage": [
+                        "https://drive.google.com/thumbnail?id=1fGr0rYb0QPSVr1G1vXXrvx2GTOEUag0s"
+                    ],
+                    "chefName": " ",
+                    "dishName": "COUPLES HEALTHY MENU",
+                    "dishSubName": " ",
+                    "saleAmount": 1800,
+                    "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
+                    "saleKgMg": "",
+                    "calories": 0,
+                    "protein": 0,
+                    "fat": 0,
+                    "carbs": 0,
+                    "fibre": 0,
+                    "sugar": 0,
+                    "Breakfast": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Snacks": true,
+                    "suitableFor": [
+                        "DIABETIC PATIENTS",
+                        "PREGNANT WOMEN",
+                        "HEART PATIENTS",
+                        "GENERAL"
+                    ]
+                },
+                {
+                    "dishId": "003",
+                    "dishImage": [
+                        "https://drive.google.com/thumbnail?id=1rIEiV0pwwN_v7KKINDY8B5FtsXaaSooJ"
+                    ],
+                    "chefName": " ",
+                    "dishName": "FAMILIES HEALTHY MENU",
+                    "dishSubName": " ",
+                    "saleAmount": 3200,
+                    "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
                     "saleKgMg": "",
                     "calories": 0,
                     "protein": 0,

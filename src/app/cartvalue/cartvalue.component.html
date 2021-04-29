@@ -1,5 +1,5 @@
 <div class="d-flex">
-    <div *ngIf="token" (click)="gotorequestlist()" [ngClass]="{'selected':request}" class="foodtype">Request List</div>
+    <div *ngIf="token" (click)="gotorequestlist()" [ngClass]="{'selected':request}" class="foodtype mover">Request List</div>
     <div *ngIf="token" title="Schedule List" class="list-group-item list-group-item-action" (click)="goTOschedule()" style="    width: 50px;
     height: 30px;
     cursor: pointer;
@@ -11,8 +11,8 @@
         <b *ngIf="schedulData ">{{this.schedulData.length}} </b>
         <b *ngIf="!schedulData ">0 </b></div>
 
-    <div *ngIf="token" (click)="logout()" class="foodtype">LogOut</div>
-    <div *ngIf="!token" (click)="logout()" class="foodtype">LogIn</div>
+    <div *ngIf="token" (click)="logout()" class="foodtype mover">LogOut</div>
+    <div *ngIf="!token" (click)="logout()" class="foodtype mover">LogIn</div>
 
 </div>
 
@@ -41,6 +41,11 @@
     }
     
     .selected:hover {
+        background-color: #fd3601 !important;
+        color: white;
+    }
+    
+    .mover:hover {
         background-color: #fd3601 !important;
         color: white;
     }

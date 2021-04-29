@@ -37,12 +37,12 @@
                                         <div class="col-lg-8 d-flex flex-row align-items-center flex-md-column" data-toggle="modal" [attr.data-target]="
                         '#detail-view-' + menuItem.uniqueDishId
                       ">
-                                            <figure style="margin: 2px">
+                                            <figure style="margin: 2px;width: 70px; height: 70px;background-image: url('img/lazy-placeholder-100-100-white.png');">
                                                 <!--<a href={{menuItem.dishImage[0]}} title="Photo title">
                   <img style="width: 70px; height: 70px; " class="img-fluid img-thumbnail" src={{menuItem.dishImage[0]}}
                       alt="thumb" class="lazy">
               </a>-->
-                                                <img style="width: 70px; height: 70px" class="img-fluid img-thumbnail" src="{{ menuItem.dishImage[0] }}" alt="thumb" class="lazy" />
+                                                <img style="width: 70px; height: 70px" class="img-fluid img-thumbnail" src="{{ menuItem.dishImage[0] }}" class="lazy" />
                                             </figure>
 
                                             <div class="flex-md-column" style="padding: 5px 5px 5px 10px">
@@ -54,12 +54,12 @@
                                                 </p>
                                             </div>
                                         </div>
-                                        <div class="col-lg-2 flex-md-column">
+                                        <div class="col-lg-2 flex-md-column" style="align-self: center;">
                                             <h4 style="font-size: 13px">
                                                 {{ menuItem.saleAmount | priceview }}
                                             </h4>
                                         </div>
-                                        <div class="col-lg-2 flex-md-column" style="text-align: center">
+                                        <div class="col-lg-2 flex-md-column" style="text-align: center;align-self: center;">
                                             <i class="icon_minus_alt2" (click)="handleQuantity(1, menuItem.uniqueDishId)" style="font-size: 16px; color: #e54750"></i>
                                             <!-- &nbsp; -->
                                             <!-- *ngFor="let item of loclobj2.menuItemSummaries"

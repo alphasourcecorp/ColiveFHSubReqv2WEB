@@ -5,14 +5,14 @@
         align-items: center;">
             <a href="https://www.colive.com/" target="_blank" style="cursor: pointer;"><img height="50px" src="img/images/logo-colive.png"></a>
 
-            <a class="list-group-item list-group-item-action" (click)="openNav()"><img src="img/menuicon.png" alt="" style="width:30px;height:30px;cursor: pointer;margin: 0px 10px;"></a>
+            <a class="list-group-item list-group-item-action " (click)="openNav()"><img src="img/menuicon.png" alt="" style="width:30px;height:30px;cursor: pointer;margin: 0px 10px;"></a>
             <!---- <li><a class="list-group-item list-group-item-action" onclick="openNav()">MENU</a></li>-->
             <!--<li><a class="list-group-item list-group-item-action" href="#">WhatsApp: +91 8147189500</a></li>-->
-            <li><a class="list-group-item list-group-item-action" [ngClass]="{'selected':home}" style="cursor: pointer;" (click)="openhome()">Home</a></li>
+            <li><a class="list-group-item list-group-item-action mover" [ngClass]="{'selected':home}" style="cursor: pointer;" (click)="openhome()">Home</a></li>
 
-            <li><a class="list-group-item list-group-item-action" [ngClass]="{'selected':about}" style="cursor: pointer;" (click)="openabout()">About Us</a></li>
-            <li><a class="list-group-item list-group-item-action" [ngClass]="{'selected':meal}" style="cursor: pointer;" (click)="openmeal()">Subscribe Meals</a></li>
-            <li><a class="list-group-item list-group-item-action" target="_blank" href="https://api.whatsapp.com/send?phone=918147189500">WhatsApp: +91 8147189500</a></li>
+            <li><a class="list-group-item list-group-item-action mover" [ngClass]="{'selected':about}" style="cursor: pointer;" (click)="openabout()">About Us</a></li>
+            <li><a class="list-group-item list-group-item-action mover" [ngClass]="{'selected':meal}" style="cursor: pointer;" (click)="openmeal()">Subscribe Meals</a></li>
+            <li><a class="list-group-item list-group-item-action mover" target="_blank" href="https://api.whatsapp.com/send?phone=918147189500">WhatsApp: +91 8147189500</a></li>
         </ul>
         <app-cartvalue [request]="request" style="float: right;"></app-cartvalue>
     </div>
@@ -138,6 +138,11 @@
     }
     
     .selected:hover {
+        background-color: #fd3601 !important;
+        color: white;
+    }
+    
+    .mover:hover {
         background-color: #fd3601 !important;
         color: white;
     }
