@@ -8,6 +8,7 @@ import { AddcartService } from '../addcart.service';
   styleUrls: ['./requestlist.component.css']
 })
 export class RequestlistComponent implements OnInit {
+  request1=true;
   requestList;
   currentDate;
   yymmdd;
@@ -22,6 +23,8 @@ export class RequestlistComponent implements OnInit {
   constructor(public addcart: AddcartService,private router: Router){ }
 
   ngOnInit(): void {
+    let token = sessionStorage.getItem('token');
+    if(token){
     this.addcart.Requestadmindata().subscribe((Response) => {
    
       if (Response.isSuccess==true) {
@@ -36,7 +39,10 @@ export class RequestlistComponent implements OnInit {
 } else {
           throw new Error(Response.errorMessage);
       }
-    });
+    });}
+    else{
+      this.router.navigate(["login"]);
+    }
   }
   goTorequestView(str){
     sessionStorage.setItem("requestid", str);

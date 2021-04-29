@@ -1,9 +1,10 @@
-<app-header></app-header>
+<!-- <app-header></app-header>
 <app-cartvalue style="position: absolute;
 top: 5px;
 right: 80px;
-z-index: 99999;" class="hidemobile"></app-cartvalue>
-
+z-index: 99999;" class="hidemobile"></app-cartvalue> -->
+<app-navigation [request]="request1"></app-navigation>
+<div style="padding-top: 70px;"></div>
 <main>
 
     <div class="d-flex headselection">
@@ -127,17 +128,17 @@ z-index: 99999;" class="hidemobile"></app-cartvalue>
                             </div>
                             <div class="col-3 ">
                                 <div *ngIf="item.status=='Rejected'" class="col" style="text-align: center;margin: 5px;padding: 8px; 
-                        background-color: #b82815e3;border-radius: 4px;color: white;width: 200px;" (click)="goTorequestView(item.requestId)">
+                        background-color: #b82815e3;border-radius: 4px;color: white;width: 200px;cursor: pointer;" (click)="goTorequestView(item.requestId)">
                                     view details >>
 
                                 </div>
                                 <div *ngIf="item.status=='Request'" class="col" style="text-align: center;margin: 5px;padding: 8px; 
-                        background-color: #c7930ffa;border-radius: 4px;color: white;width: 200px;" (click)="goTorequestView(item.requestId)">
+                        background-color: #c7930ffa;border-radius: 4px;color: white;width: 200px;cursor: pointer;" (click)="goTorequestView(item.requestId)">
                                     view details >>
 
                                 </div>
                                 <div *ngIf="item.status=='Approved' || item.status=='approved' " class="col" style="text-align: center;margin: 5px;padding: 8px; 
-                        background-color: #3da714d0;border-radius: 4px;color: white;width: 200px;" (click)="goTorequestView(item.requestId)">
+                        background-color: #3da714d0;border-radius: 4px;color: white;width: 200px;cursor: pointer;" (click)="goTorequestView(item.requestId)">
                                     view details >>
 
                                 </div>

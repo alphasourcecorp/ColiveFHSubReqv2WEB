@@ -1,4 +1,4 @@
-import { Component, OnChanges, OnInit } from '@angular/core';
+import { Component, Input, OnChanges, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { environment } from 'src/environments/environment';
 import { AddcartService } from '../addcart.service';
@@ -11,8 +11,11 @@ import { AddcartService } from '../addcart.service';
 export class CartvalueComponent implements OnChanges, OnInit {
   scheduleListAPI;
   schedulData = [];
+  token;
+  @Input() public request;
   constructor(private router: Router, public addCart: AddcartService) {
     this.scheduleListAPI = environment.ScheduleListUrl;
+    this.token = sessionStorage.getItem('token');
   }
   ngOnChanges() {
     this.callsheduleAPI();

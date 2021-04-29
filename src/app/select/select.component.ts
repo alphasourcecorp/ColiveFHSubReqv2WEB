@@ -7,7 +7,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./select.component.css']
 })
 export class SelectComponent implements OnInit {
-
+home=true;
 
   constructor(private router: Router) { }
 

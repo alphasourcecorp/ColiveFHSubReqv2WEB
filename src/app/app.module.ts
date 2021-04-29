@@ -30,6 +30,7 @@ import { RequestlistComponent } from './requestlist/requestlist.component';
 import { RequestviewComponent } from './requestview/requestview.component';
 import { AdminrequestviewComponent } from './adminrequestview/adminrequestview.component';
 import { SignupComponent } from './signup/signup.component';
+import { AboutusComponent } from './aboutus/aboutus.component';
 
 
 
@@ -56,7 +57,8 @@ import { SignupComponent } from './signup/signup.component';
     RequestlistComponent,
     RequestviewComponent,
     AdminrequestviewComponent,
-    SignupComponent
+    SignupComponent,
+    AboutusComponent
   ],
   imports: [
     BrowserModule,

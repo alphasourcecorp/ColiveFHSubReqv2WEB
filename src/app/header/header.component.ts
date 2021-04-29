@@ -31,5 +31,17 @@ export class HeaderComponent implements OnInit {
 
    
   }
+  openabout() {
+    this.router.navigate(["aboutus"]);
+  }
+  openNav() {
+    document.getElementById("mySidenav").style.width = "350px";
+  }
+   openmeal() {
+    this.router.navigate(["subscribemeals"]);
+  }
+  openhome() {
+    this.router.navigate(["home"]);
+  }
 
 }

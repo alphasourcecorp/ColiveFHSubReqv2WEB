@@ -1,10 +1,9 @@
-<app-header></app-header>
-<app-cartvalue style="position: absolute;
-top: 5px;
-right: 80px;
-z-index: 99999;" class="hidemobile"></app-cartvalue>
+<app-navigation></app-navigation>
+<div style="padding-top: 70px;"></div>
 <main class="bg_gray">
-
+    <div class="container mt-1">
+        <h5>Schedule List</h5>
+    </div>
     <div class="container" style="padding-top: 10px;
     padding-bottom: 10px;" *ngFor="let data of schedulData let i=index">
         <div class="row justify-content-center">

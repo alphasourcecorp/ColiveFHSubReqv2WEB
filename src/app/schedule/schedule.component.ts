@@ -265,7 +265,7 @@ export class ScheduleComponent implements OnInit {
   }
 
   goTohome() {
-    this.router.navigate(["home"]);
+    this.router.navigate(["subscribemeals"]);
     sessionStorage.setItem('value', JSON.stringify(this.value));
  
   }
@@ -504,7 +504,7 @@ export class ScheduleComponent implements OnInit {
         if (Response.isSuccess==true) {
           sessionStorage.removeItem('menuitemselection');
           sessionStorage.removeItem('value');
-          this.router.navigate(["home"]);
+          this.router.navigate(["subscribemeals"]);
                  } else {
                    throw new Error(Response.errorMessage);
         }

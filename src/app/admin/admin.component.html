@@ -2,7 +2,7 @@
 <nav class="secondary_nav">
     <div class="container">
         <ul id="secondary_nav">
-            <img src="img/logo.png" width="152" height="30" alt="" class="hidemobilemenu">
+            <img src="img/stayabode.png" width="152" height="30" alt="" class="hidemobilemenu">
 
             <a class="list-group-item list-group-item-action" (click)="openNav()"><img src="img/menuicon.png" alt="" style="width:30px;height:30px;cursor: pointer;margin: 0px 10px;"></a>
             <!---- <li><a class="list-group-item list-group-item-action" onclick="openNav()">MENU</a></li>-->
@@ -14,7 +14,9 @@
     <span></span>
 </nav>
 <div id="mySidenavAdmin" class="sidenav">
-    <a href="index.html"><img src="img/logo-white.png" width="162" height="35" alt="" /></a>
+    <!-- <a href="index.html"><img src="img/logo-white.png" width="162" height="35" alt="" /></a> -->
+    <a style="color: white;font-weight: 500;
+    font-size: 35px;">StayAbode</a>
     <a href="javascript:void(0)" class="closebtn" (click)="closeNav()">&times;</a>
     <input (input)="searchcompany()" [(ngModel)]="query" class="form-control" type="text" placeholder="Search" class="form-control" style="width: 100%;">
     <a (click)="menuclick(company)" style="cursor: pointer;" *ngFor="let company of menuDataList; ">

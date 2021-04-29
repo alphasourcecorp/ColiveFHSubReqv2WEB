@@ -1,25 +1,144 @@
 <!--<nav class="secondary_nav" style="position: fixed;top: 0;z-index:6000">-->
 <nav class="secondary_nav " style="position: fixed;top: 0;z-index:6000">
-    <div class="container">
-        <ul id="secondary_nav">
-            <img src="img/logo.png" width="152" height="30" alt="" class="hidemobilemenu">
+    <div class="container " style="display: flex;    justify-content: space-between;">
+        <ul id="secondary_nav" style="display: flex;
+        align-items: center;">
+            <a href="https://www.colive.com/" target="_blank" style="cursor: pointer;"><img height="50px" src="img/images/logo-colive.png"></a>
 
             <a class="list-group-item list-group-item-action" (click)="openNav()"><img src="img/menuicon.png" alt="" style="width:30px;height:30px;cursor: pointer;margin: 0px 10px;"></a>
             <!---- <li><a class="list-group-item list-group-item-action" onclick="openNav()">MENU</a></li>-->
             <!--<li><a class="list-group-item list-group-item-action" href="#">WhatsApp: +91 8147189500</a></li>-->
+            <li><a class="list-group-item list-group-item-action" [ngClass]="{'selected':home}" style="cursor: pointer;" (click)="openhome()">Home</a></li>
+
+            <li><a class="list-group-item list-group-item-action" [ngClass]="{'selected':about}" style="cursor: pointer;" (click)="openabout()">About Us</a></li>
+            <li><a class="list-group-item list-group-item-action" [ngClass]="{'selected':meal}" style="cursor: pointer;" (click)="openmeal()">Subscribe Meals</a></li>
             <li><a class="list-group-item list-group-item-action" target="_blank" href="https://api.whatsapp.com/send?phone=918147189500">WhatsApp: +91 8147189500</a></li>
-            <app-cartvalue style="float: right;"></app-cartvalue>
-            <span style="clear: both;"></span>
         </ul>
+        <app-cartvalue [request]="request" style="float: right;"></app-cartvalue>
     </div>
     <span></span>
 </nav>
 <!-- /secondary_nav -->
+<div id="mySidenav" class="sidenav">
+    <!-- <a><img src="img/logo-white.png" width="162" height="35" alt="" /></a> -->
+    <a style="color: white;font-weight: 500;
+    font-size: 35px; font-family: sans-serif;letter-spacing: 1px;">StayAbode</a>
+    <a href="javascript:void(0)" class="closebtn" (click)="closeNav()">&times;</a>
+    <div class="container my-2" style="width: auto;color: white;">
+        <div class="my-2">
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="breakfast"
+                (change)="onCheckboxChangeBreakfast()"  class="m-1" type="checkbox" value="">Breakfast</label>
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="lunch"
+                (change)="onCheckboxChangelunch()" class="m-1"type="checkbox" value="">Lunch</label>
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="dinner"
+                (change)="onCheckboxChangeDinner()"class="m-1" type="checkbox" value="">Dinner</label>
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="snacks"
+                (change)="onCheckboxChangesnacks()" class="m-1" type="checkbox" value="">Snacks</label>
+        </div>
+        <input (input)="search()" [(ngModel)]="query" class="form-control" type="text" placeholder="Search" class="form-control" style="width: 100%;">
+    </div>
 
+    <a (click)="closeNav()" [routerLink]="['/subscribemeals']" [fragment]="'section-def-' + menuCategoryInfo.id" *ngFor="let menuCategoryInfo of newsub; let count = index">
+    {{ menuCategoryInfo.categoryName }} ({{ menuCategoryInfo.noOfDishes }})
+  </a>
+</div>
 <style>
     @media only screen and (max-width: 600px) {
         .hidemobilemenu {
             display: none;
         }
+    }
+    
+    @media screen and (max-width: 600px) {
+        .hidemobile {
+            visibility: hidden;
+            display: none;
+        }
+    }
+    
+    .padng {
+        margin: 0px 0px 0px 0px;
+    }
+    
+    .m_detail {
+        margin-top: 45px;
+        margin-bottom: 60px;
+    }
+    
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+    
+    .sidenav {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1000000;
+        top: 0;
+        left: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 20px;
+    }
+    
+    .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 16px;
+        color: #f1f1f1;
+        display: block;
+        transition: 0.3s;
+    }
+    
+    .sidenav a:hover {
+        color: #f1f1f1;
+    }
+    
+    .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 10px;
+        font-size: 35px;
+        margin-left: 50px;
+    }
+    
+    #main {
+        transition: margin-left 0.5s;
+        padding: 0px;
+    }
+    
+    .table.cart-list td .dropdown-options {
+        text-align: center;
+    }
+    
+    @media screen and (max-height: 450px) {
+        .sidenav {
+            padding-top: 15px;
+        }
+        .sidenav a {
+            font-size: 16px;
+        }
+    }
+    
+    .secondary_nav {
+        padding: 10px 0;
+    }
+    
+    .modal-header {
+        display: -ms-flexbox;
+        display: block;
+    }
+    
+    .selected {
+        background-color: #fd3601 !important;
+        color: white;
+    }
+    
+    .selected:hover {
+        background-color: #fd3601 !important;
+        color: white;
     }
 </style>

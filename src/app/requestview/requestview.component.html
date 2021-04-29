@@ -1,10 +1,14 @@
 <!-- details of all request -->
-<app-header></app-header>
+<app-navigation></app-navigation>
+<div style="padding-top: 70px;"></div>
+
 <div class="list-group" *ngIf="request">
+
     <div class="list-group-item">
         <div class="container" style="padding-top: 10px; padding-bottom: 10px">
             <div class="row justify-content-center">
                 <div class="col-xl-12">
+                    <h5>Request View</h5>
                     <div class="row box_order_form" style="margin-bottom: 0px !important;padding: 10px;">
                         <div class="col d-flex" style="align-self: center">
                             <span><img src="img/schedule/companyadmin.png" alt="thumb" class="lazy"
@@ -265,10 +269,6 @@
         </div>
     </div>
 </main>
-<app-cartvalue style="position: absolute;
-top: 5px !important;
-right: 80px;
-z-index: 99999;" class="hidemobile"></app-cartvalue>
 <style>
     /* The container */
     

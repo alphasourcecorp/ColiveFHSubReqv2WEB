@@ -16,10 +16,11 @@ img[src*="img/logo.png"] {
     width: auto;
 }
 
-header.header_in,
+
+/* header.header_in,
 .secondary_nav {
-    padding: 1px 0 !important;
-}
+    /* padding: 1px 0 !important; 
+} */
 
 body {
     position: relative !important;

@@ -125,6 +125,16 @@ export class HomeComponent implements OnInit {
     document.getElementById("mySidenav").style.width = "0";
   }
 
+  openNav() {
+    document.getElementById("mySidenav").style.width = "350px";
+  }
+  // openHome() {
+  //   this.router.navigate(["home"]);
+  // }
+  openabout() {
+    this.router.navigate(["aboutus"]);
+  }
+
 
   handleQuantity(units: number, x: any) {
     var y = this.value[x];
@@ -174,10 +184,10 @@ export class HomeComponent implements OnInit {
  
   }
   ngOnInit(): void {
-  
+
     let token = sessionStorage.getItem('token');
     if (token) {
-      window.scrollTo(0, 0);
+      // window.scrollTo(0, 0);
       this.select = JSON.parse(sessionStorage.getItem('menuitemselection'));
       let sValue = JSON.parse(sessionStorage.getItem('value'));
 
@@ -185,7 +195,6 @@ export class HomeComponent implements OnInit {
           for (const key in sValue) {
           if (Object.prototype.hasOwnProperty.call(sValue, key)) {
             this.value[key] = sValue[key];
-
           }
         }
       }

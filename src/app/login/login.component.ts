@@ -43,7 +43,9 @@ export class LoginComponent implements OnInit {
     }
 
   }
-
+  openabout() {
+    this.router.navigate(["aboutus"]);
+  }
   onblurfn(g: any) {
     if (g == 1 &&   this.companyCode == "") {
       this.Validationerrorcode = "*";
@@ -79,7 +81,7 @@ export class LoginComponent implements OnInit {
             if (this.Response.data[0].isAdmin == false) {
               sessionStorage.setItem('user', JSON.stringify(this.Response.data[0]));
 
-              this.router.navigate(["home"]);
+              this.router.navigate(["subscribemeals"]);
             } else {
               sessionStorage.setItem('user', JSON.stringify(this.Response.data[0]));
               this.router.navigate(["admin"]);
