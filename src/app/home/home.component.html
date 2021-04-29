@@ -1,12 +1,11 @@
-<app-navigation [meal]="true">
-</app-navigation>
-<div style="padding-top:70px;"></div>
+<app-navigation [meal]="true"> </app-navigation>
+<div style="padding-top: 70px"></div>
 <app-hero-main></app-hero-main>
 <div class="container m_detail summary-content">
     <div class="row">
         <div class="col-lg-8">
             <div *ngFor="let item of mainsub; let count = index">
-                <section *ngIf="item.menuDetails.length>0" id="{{ 'section-def-' + item.id }}" style="padding-top: 65px">
+                <section *ngIf="item.menuDetails.length > 0" id="{{ 'section-def-' + item.id }}" style="padding-top: 65px">
                     <h4 style="font-size: 18px; font-weight: bold">
                         {{ item.categoryTitle }}
                         <span *ngIf="item.categorySubTitle">
@@ -37,7 +36,12 @@
                                         <div class="col-lg-8 d-flex flex-row align-items-center flex-md-column" data-toggle="modal" [attr.data-target]="
                         '#detail-view-' + menuItem.uniqueDishId
                       ">
-                                            <figure style="margin: 2px;width: 70px; height: 70px;background-image: url('img/lazy-placeholder-100-100-white.png');">
+                                            <figure style="
+                          margin: 2px;
+                          width: 70px;
+                          height: 70px;
+                          background-image: url('img/lazy-placeholder-100-100-white.png');
+                        ">
                                                 <!--<a href={{menuItem.dishImage[0]}} title="Photo title">
                   <img style="width: 70px; height: 70px; " class="img-fluid img-thumbnail" src={{menuItem.dishImage[0]}}
                       alt="thumb" class="lazy">
@@ -54,12 +58,12 @@
                                                 </p>
                                             </div>
                                         </div>
-                                        <div class="col-lg-2 flex-md-column" style="align-self: center;">
+                                        <div class="col-lg-2 flex-md-column" style="align-self: center">
                                             <h4 style="font-size: 13px">
                                                 {{ menuItem.saleAmount | priceview }}
                                             </h4>
                                         </div>
-                                        <div class="col-lg-2 flex-md-column" style="text-align: center;align-self: center;">
+                                        <div class="col-lg-2 flex-md-column" style="text-align: center; align-self: center">
                                             <i class="icon_minus_alt2" (click)="handleQuantity(1, menuItem.uniqueDishId)" style="font-size: 16px; color: #e54750"></i>
                                             <!-- &nbsp; -->
                                             <!-- *ngFor="let item of loclobj2.menuItemSummaries"
@@ -112,60 +116,67 @@
                                                                                     <label>
                                             {{ menuItem.dishDescription }}
                                           </label>
-                                                                                    <label style="
+                                                                                    <!-- <label
+                                            style="
                                               size: 14px;
                                               font-weight: bold;
                                               padding-top: 10px;
-                                            ">
+                                            "
+                                          >
                                             NUTRITION DETAILS
                                           </label>
 
-                                                                                    <br />
+                                          <br />
 
-                                                                                    <label style="
+                                          <label
+                                            style="
                                               size: 12px;
                                               padding-left: 25px;
-                                            ">
+                                            "
+                                          >
                                             <span
                                               >PROTEIN :
-                                              {{ menuItem.protein }} %</span
+                                              {{ menuItem.protein }}
+                                              %</span
                                             >
                                             <br />
 
-                                            <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                           
                                             <span
                                               >CALORIES :
                                               {{ menuItem.calories }}
                                             </span>
                                             <br />
 
-                                            <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
                                             <span
                                               >CARBS :
-                                              {{ menuItem.carbs }} %</span
+                                              {{ menuItem.carbs }}
+                                              %</span
                                             >
                                             <br />
-                                            <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                        
 
                                             <span
                                               >SUGAR :
-                                              {{ menuItem.sugar }} %</span
+                                              {{ menuItem.sugar }}
+                                              %</span
                                             >
-                                            <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                        
                                             <br />
 
                                             <span
                                               >FAT : {{ menuItem.fat }} %</span
                                             >
-                                            <!-- <span style="color:#e54750;padding-left:10px">|</span> -->
+                                   
                                             <br />
 
                                             <span
                                               >FIBER :
-                                              {{ menuItem.fiber }} %</span
+                                              {{ menuItem.fiber }}
+                                              %</span
                                             >
                                             <br />
-                                          </label>
+                                          </label> -->
                                                                                     <br />
                                                                                 </div>
                                                                             </div>
@@ -211,7 +222,6 @@
             <!-- Content goes here -->
             <app-summary [menuItemSummaries]="menuSelections"></app-summary>
         </div>
-
     </div>
     <!-- /row -->
     <div class="btn_reserve_fixed" style="text-align: center">
