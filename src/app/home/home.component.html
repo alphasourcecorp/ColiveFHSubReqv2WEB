@@ -1,7 +1,7 @@
 <app-navigation [meal]="true"> </app-navigation>
 <div style="padding-top: 70px"></div>
 <app-hero-main></app-hero-main>
-<div class="container m_detail summary-content">
+<div class="container  m_detail summary-content">
     <div class="row">
         <div class="col-lg-8">
             <div *ngFor="let item of mainsub; let count = index">
@@ -17,7 +17,7 @@
                     </p>
 
                     <div class="table_wrapper">
-                        <div class="container">
+                        <div class="container pd">
                             <div class="row d-flex justify-content-between hidemobile">
                                 <div class="col-sm-8">
                                     <h4 style="font-size: 14px">Dish Name</h4>
@@ -31,9 +31,9 @@
                             </div>
                             <div class="row" *ngFor="let menuItem of item.menuDetails">
                                 <!-- <div *ngIf="!menuItem[mealtype]">No dish Available in this Category for {{mealtype}}</div> -->
-                                <div *ngIf="menuItem[mealtype]" class="container">
+                                <div *ngIf="menuItem[mealtype]" class="container pd">
                                     <div class="row img-thumbnail" style="padding: 10px; margin: 10px">
-                                        <div class="col-lg-8 d-flex flex-row align-items-center flex-md-column" data-toggle="modal" [attr.data-target]="
+                                        <div class="col-lg-8 pd d-flex flex-row align-items-center flex-md-column" data-toggle="modal" [attr.data-target]="
                         '#detail-view-' + menuItem.uniqueDishId
                       ">
                                             <figure style="
@@ -58,12 +58,12 @@
                                                 </p>
                                             </div>
                                         </div>
-                                        <div class="col-lg-2 flex-md-column" style="align-self: center">
+                                        <div class="col-lg-2 col-6 flex-md-column" style="align-self: center">
                                             <h4 style="font-size: 13px">
                                                 {{ menuItem.saleAmount | priceview }}
                                             </h4>
                                         </div>
-                                        <div class="col-lg-2 flex-md-column" style="text-align: center; align-self: center">
+                                        <div class="col-lg-2 col-6 flex-md-column" style="text-align: center; align-self: center">
                                             <i class="icon_minus_alt2" (click)="handleQuantity(1, menuItem.uniqueDishId)" style="font-size: 16px; color: #e54750"></i>
                                             <!-- &nbsp; -->
                                             <!-- *ngFor="let item of loclobj2.menuItemSummaries"
@@ -237,7 +237,10 @@
             display: none !important;
         }
         .pdtop {
-            padding-top: 10px;
+            padding-top: 10px !important;
+        }
+        .pd {
+            padding: 0 !important;
         }
     }
     
