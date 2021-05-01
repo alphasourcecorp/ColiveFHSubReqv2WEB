@@ -221,6 +221,9 @@ this.newsub = this.newsub.filter(res => {
   return res.categoryName.toLowerCase().includes(this.query.toLowerCase()) 
 })
   }
+  itemsummary(){
+    this.router.navigate(["schedule"]);
+  }
   onCheckboxChangeBreakfast(){
     if(this.breakfast==true){
     this.lunch=false;

@@ -1,4 +1,4 @@
-<div class="d-flex">
+<div class="d-flex hidemobilemenu">
     <div *ngIf="token" (click)="gotorequestlist()" [ngClass]="{'selected':request}" class="foodtype mover">Request List</div>
     <div *ngIf="token" title="Schedule List" class="list-group-item list-group-item-action" (click)="goTOschedule()" style="    width: 50px;
     height: 30px;
@@ -8,12 +8,19 @@
     text-align: center;
     padding-left: 10px;
     margin: 10px 0px;">
-        <b *ngIf="schedulData ">{{this.schedulData.length}} </b>
+        <b *ngIf="schedulData">{{this.schedulData.length}} </b>
         <b *ngIf="!schedulData ">0 </b></div>
 
     <div *ngIf="token" (click)="logout()" class="foodtype mover">LogOut</div>
     <div *ngIf="!token" (click)="logout()" class="foodtype mover">LogIn</div>
 
+</div>
+<div class="showmobile" style="display: none;">
+    <hr class="p-0 m-0">
+    <li *ngIf="token" (click)="gotorequestlist()" [ngClass]="{'selected':request}">Request List</li>
+    <li *ngIf="token" (click)="goTOschedule()" [ngClass]="{'selected':schedule}">Schedules({{this.schedulData.length}})</li>
+    <li *ngIf="token" (click)="logout()" class="">LogOut</li>
+    <li *ngIf="!token" (click)="logout()" class="">LogIn</li>
 </div>
 
 
@@ -48,5 +55,15 @@
     .mover:hover {
         background-color: #fd3601 !important;
         color: white;
+    }
+    
+    @media only screen and (max-width: 900px) {
+        .hidemobilemenu {
+            display: none !important;
+        }
+        .showmobile {
+            display: block !important;
+            float: none !important;
+        }
     }
 </style>

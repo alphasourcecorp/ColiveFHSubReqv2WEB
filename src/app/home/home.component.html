@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-lg-8">
             <div *ngFor="let item of mainsub; let count = index">
-                <section *ngIf="item.menuDetails.length > 0" id="{{ 'section-def-' + item.id }}" style="padding-top: 65px">
+                <section *ngIf="item.menuDetails.length > 0" id="{{ 'section-def-' + item.id }}" class="pdtop">
                     <h4 style="font-size: 18px; font-weight: bold">
                         {{ item.categoryTitle }}
                         <span *ngIf="item.categorySubTitle">
@@ -225,7 +225,7 @@
     </div>
     <!-- /row -->
     <div class="btn_reserve_fixed" style="text-align: center">
-        <a class="btn_1 gradient" style="width: 250px">View Basket</a>
+        <a (click)="itemsummary()" class="btn_1 gradient" style="width: 250px">Schedule Now</a>
     </div>
 </div>
 
@@ -234,8 +234,15 @@
     @media screen and (max-width: 600px) {
         .hidemobile {
             visibility: hidden;
-            display: none;
+            display: none !important;
         }
+        .pdtop {
+            padding-top: 10px;
+        }
+    }
+    
+    .pdtop {
+        padding-top: 65px;
     }
     
     .padng {

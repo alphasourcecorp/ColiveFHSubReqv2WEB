@@ -5,17 +5,23 @@
 
     </div>
     <div class="rightsplit">
-        <div class="">
-            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <div class="row">
+            <!-- <table width="100%" cellspacing="0" cellpadding="0" border="0">
                 <tr>
-                    <td style="text-align:left;" width="50%">
-                        <a target="_blank" href="https://www.colive.com/"><img height="70px" class="wow fadeInDown" src="img/images/logo-colive.png" alt="Colive" /></a>
+                    <td style="text-align:left;width: 50%;">
+                        <a target="_blank" href="https://www.stayabode.com/"><img class="wow fadeInDown" src="img/images/stayabode.png" alt="Foodyhive" /></a>
                     </td>
-                    <td style="text-align:right;" width="50%">
+                    <td style="text-align:right;width: 50%;">
                         <a target="_blank" href="https://subscriptions.foodyhive.com/"><img class="wow fadeInDown" src="img/images/logo-foodyhive.png" alt="Foodyhive" /></a>
                     </td>
                 </tr>
-            </table>
+            </table> -->
+            <div class="col-md" style="text-align: center;">
+                <a target="_blank" href="https://www.colive.com/"><img height="70px" class="wow fadeInDown" src="img/images/logo-colive.png" alt="Colive" /></a>
+            </div>
+            <div class="col-md" style="text-align: center;">
+                <a target="_blank" href="https://subscriptions.foodyhive.com/"><img class="wow fadeInDown" src="img/images/logo-foodyhive.png" alt="Foodyhive" /></a>
+            </div>
         </div>
         <div class="intro intro-app">
             <div class="intro-text">
@@ -39,8 +45,8 @@
                                 <p class="wow fadeInDown">Ramkumar J Damodaran<br>Managing Director | Foodyhive</p>
                             </td>
                             <td style="text-align:right;" width="50%">
-                                <img class="wow fadeInDown" src="img/images/foundercolive.png" style="border: 1px solid #CCCCCC;" />
-                                <p class="wow fadeInDown">Suresh Rangarajan<br>Founder & CEO | Colive</p>
+                                <img class="wow fadeInDown" src="img/images/safh.jpg" style="border: 1px solid #CCCCCC;" />
+                                <p class="wow fadeInDown">Jitendra Jagadev<br>Founder & CEO | StayAbode</p>
                             </td>
                         </tr>
                     </table>
@@ -76,5 +82,33 @@
     .rightsplit {
         width: 50%;
         padding: 0 50px 0 50px;
+    }
+    
+    @media only screen and (max-width: 900px) {
+        .split-home {
+            display: block !important;
+            padding-top: 50px !important;
+        }
+        .leftsplit {
+            width: 100% !important;
+            height: 400px !important;
+        }
+        .rightsplit {
+            width: 100% !important;
+            padding: 0px 20px 0 20px !important;
+        }
+        .rightsplit>div td {
+            text-align: center !important;
+        }
+        .rightsplit>div td a img {
+            height: 65px;
+        }
+    }
+    
+    @media only screen and (max-width: 580px) {
+        .afooter ul {
+            display: block;
+            width: 100%;
+        }
     }
 </style>

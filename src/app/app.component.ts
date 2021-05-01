@@ -57,6 +57,6 @@ export class AppComponent implements OnInit {
     scrollContainer.scrollTop = 0;
   }
   toTop(){
-    window.scrollTo(0,330);
+    window.scrollTo(0,0);
   }
 }

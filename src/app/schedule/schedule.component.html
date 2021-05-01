@@ -13,7 +13,7 @@
                     <!-- /head -->
                     <div class="main">
                         <div class="table_wrapper">
-                            <div class="row">
+                            <div class="row hidemobile">
                                 <div class="col-sm-7">
                                     <h4 style="font-size: 14px; text-align: left">Dish Name</h4>
                                 </div>
@@ -384,6 +384,16 @@
 </div>
 
 <style>
+    @media screen and (max-width: 600px) {
+        .hidemobile {
+            visibility: hidden;
+            display: none !important;
+        }
+        .pdtop {
+            padding-top: 10px;
+        }
+    }
+    
     .container1 {
         display: block;
         position: relative;

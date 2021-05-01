@@ -1,21 +1,165 @@
-<nav class="secondary_nav " style="position: fixed;top: 0;z-index:6000">
-    <div class="container ">
+<!--<nav class="secondary_nav" style="position: fixed;top: 0;z-index:6000">-->
+<nav class="secondary_nav hidemobilemenu " style="position: fixed;top: 0;z-index:6000">
+    <div class="container " style="display: flex;    justify-content: space-between;">
         <ul id="secondary_nav" style="display: flex;
-        align-items: center;">
+            align-items: center;">
             <a href="https://www.colive.com/" target="_blank" style="cursor: pointer;"><img height="50px" src="img/images/logo-colive.png"></a>
+
+            <!---- <li><a class="list-group-item list-group-item-action" onclick="openNav()">MENU</a></li>-->
+            <!--<li><a class="list-group-item list-group-item-action" href="#">WhatsApp: +91 8147189500</a></li>-->
             <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openhome()">Home</a></li>
+
             <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openabout()">About Us</a></li>
             <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openmeal()">Subscribe Meals</a></li>
-
-            <li><a class="list-group-item list-group-item-action" target="_blank" href="https://api.whatsapp.com/send?phone=918147189500">WhatsApp: +91 8147189500</a></li>
-
-            <span style="clear: both;"></span>
+            <li><a class="list-group-item list-group-item-action mover" target="_blank" href="https://api.whatsapp.com/send?phone=918147189500">WhatsApp: +91 8147189500</a></li>
         </ul>
+
     </div>
     <span></span>
 </nav>
+<nav class="secondary_nav showmobile" style="position: fixed;top: 0;z-index:6000;display: none;">
+    <div class="container " style="display: flex;    justify-content: space-between;">
+        <ul id="secondary_nav" style="display: flex;
+            align-items: center;">
+            <a href="https://www.colive.com/" target="_blank" style="cursor: pointer;"><img height="40px" src="img/images/logo-colive.png"></a>
+
+            <!-- <li><a class="list-group-item list-group-item-action" onclick="openNav()">MENU</a></li> -->
+            <!--<li><a class="list-group-item list-group-item-action" href="#">WhatsApp: +91 8147189500</a></li>-->
+            <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openhome()">Home</a></li>
+
+            <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openabout()">About Us</a></li>
+            <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openmeal()">Subscribe Meals</a></li>
+
+            <a class="list-group-item list-group-item-action " target="_blank" href="https://api.whatsapp.com/send?phone=918147189500"><img style="height: 30px;" src="img/images/whts.png"></a>
+
+        </ul>
+        <!-- <app-cartvalue [request]="request" style="float: right;"></app-cartvalue> -->
+        <div class="show">
+            <a class="" data-toggle="dropdown" aria-haspopup="true">
+                <img style="height: 40px;
+                    padding: 5px;" src="img/images/dots.png">
+            </a>
+
+            <div class="dropdown-menu" style="text-align: center;">
+                <li><a class=" " style="cursor: pointer;" (click)="openhome()">Home</a></li>
+                <li><a class="  " style="cursor: pointer;" (click)="openabout()">About Us</a></li>
+                <li><a class=" " style="cursor: pointer;" (click)="openmeal()">Subscribe Meals</a></li>
+            </div>
+        </div>
+    </div>
+    <span></span>
+</nav>
+<!-- /secondary_nav -->
 
 <style>
+    @media only screen and (max-width: 900px) {
+        .hidemobilemenu {
+            display: none;
+        }
+        .showmobile {
+            display: block !important;
+        }
+        .sidenav a {
+            font-size: 16px !important;
+        }
+        .selected {
+            display: block !important;
+        }
+        .mover {
+            display: none;
+        }
+    }
+    
+    @media screen and (max-width: 600px) {
+        .hidemobile {
+            visibility: hidden;
+            display: none;
+        }
+    }
+    
+    .padng {
+        margin: 0px 0px 0px 0px;
+    }
+    
+    .m_detail {
+        margin-top: 45px;
+        margin-bottom: 60px;
+    }
+    
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+    
+    .sidenav {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1000000;
+        top: 0;
+        left: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 20px;
+    }
+    
+    .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 20px;
+        color: #f1f1f1;
+        display: block;
+        transition: 0.3s;
+    }
+    
+    .sidenav a:hover {
+        color: #f1f1f1;
+    }
+    
+    .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 10px;
+        font-size: 35px;
+        margin-left: 50px;
+    }
+    
+    #main {
+        transition: margin-left 0.5s;
+        padding: 0px;
+    }
+    
+    .table.cart-list td .dropdown-options {
+        text-align: center;
+    }
+    
+    @media screen and (max-height: 450px) {
+        .sidenav {
+            padding-top: 15px;
+        }
+    }
+    
+    .secondary_nav {
+        padding: 10px 0;
+    }
+    
+    .modal-header {
+        display: -ms-flexbox;
+        display: block;
+    }
+    
+    .selected {
+        background-color: #fd3601 !important;
+        color: white;
+    }
+    
+    .selected:hover {
+        background-color: #fd3601 !important;
+        color: white;
+    }
+    
     .mover:hover {
         background-color: #fd3601 !important;
         color: white;

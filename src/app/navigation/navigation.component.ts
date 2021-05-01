@@ -15,6 +15,7 @@ export class NavigationComponent implements OnInit {
   @Input() public about;
  
   @Input() public request;
+  @Input() public schedule;
 
   public menu;
   public value: any;

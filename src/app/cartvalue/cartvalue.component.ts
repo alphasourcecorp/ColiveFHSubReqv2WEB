@@ -13,6 +13,7 @@ export class CartvalueComponent implements OnChanges, OnInit {
   schedulData = [];
   token;
   @Input() public request;
+  @Input() public schedule;
   constructor(private router: Router, public addCart: AddcartService) {
     this.scheduleListAPI = environment.ScheduleListUrl;
     this.token = sessionStorage.getItem('token');
