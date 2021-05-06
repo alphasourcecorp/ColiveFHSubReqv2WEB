@@ -18,7 +18,8 @@ export const environment = {
   DeleterequestlistUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/SubscriptionRequest/DeleteRequest",
   UpdateRequestStatusUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/SubscriptionRequest/UpdateRequestStatus",
   AddnewCompanyUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/CompanySignUp/RegisterNewCompany",
-  GetallCompanyUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/CompanySignUp"
+  GetallCompanyUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/CompanySignUp",
+  ChangePasswordUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/CompanySignUp/ChangeCompanyPassword"
 };
 /*
  * For easier debugging in development mode, you can import the following file
