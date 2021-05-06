@@ -1,0 +1,117 @@
+<nav class="secondary_nav hidemobile" style="position: fixed;top: 0;z-index:6000">
+    <div class="container " style="display: flex;    justify-content: space-between;">
+        <ul id="secondary_nav" style="display: flex;
+        align-items: center;">
+            <a href="https://www.colive.com/" target="_blank" style="cursor: pointer;"><img height="50px" src="img/images/logo-colive.png"></a>
+
+            <!---- <li><a class="list-group-item list-group-item-action" onclick="openNav()">MENU</a></li>-->
+            <!--<li><a class="list-group-item list-group-item-action" href="#">WhatsApp: +91 8147189500</a></li>-->
+
+        </ul>
+
+        <div class="d-flex signup">
+            <div (click)="signup()" style="    width: 40px;
+    height: 35px;
+    cursor: pointer;
+    background-image: url(img/schedule/useradmin.png);
+    background-size: 100% 100%;
+    text-align: center;
+    margin: 5px 5px;align-self: center;
+    ">
+            </div>
+            <div (click)="logout()" class="foodtype mover">LogOut</div>
+        </div>
+    </div>
+    <span></span>
+</nav>
+<div style="padding-top:70px"></div>
+<div class="showmobile" style="padding-top:10px"></div>
+<nav class="secondary_nav showmobile" style="position: fixed;top: 0;z-index:6000">
+    <div class="" style="display: flex;    justify-content: space-between;">
+        <ul id="secondary_nav" style="display: flex;
+        align-items: center;">
+
+            <a href="https://www.colive.com/" target="_blank" style="cursor: pointer;"><img height="50px" src="img/images/logo-colive.png"></a>
+
+            <!---- <li><a class="list-group-item list-group-item-action" onclick="openNav()">MENU</a></li>-->
+            <!--<li><a class="list-group-item list-group-item-action" href="#">WhatsApp: +91 8147189500</a></li>-->
+
+        </ul>
+
+        <div class="d-flex signup">
+            <div (click)="signup()" style="    width: 45px;
+    height: 40px;
+    cursor: pointer;
+    background-image: url(img/schedule/useradmin.png);
+    background-size: 100% 100%;
+    text-align: center;
+    margin: 5px 5px;
+    align-self: center;">
+            </div>
+            <div (click)="logout()" class="foodtypem">LogOut</div>
+        </div>
+    </div>
+    <span></span>
+</nav>
+
+
+
+<style>
+    .headselection {
+        margin: 2px;
+        padding: 10px;
+    }
+    
+    .selected {
+        background-color: #fd3601 !important;
+        color: white;
+    }
+    
+    .foodtype {
+        color: #444;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        border-radius: 10px;
+        background-color: black;
+        background-color: rgba(0, 0, 0, 0.05);
+        cursor: pointer;
+        text-align: center;
+        margin: 5px 15px;
+        align-self: center;
+        padding: 6px;
+    }
+    
+    .foodtypem {
+        color: #444;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        border-radius: 10px;
+        background-color: black;
+        background-color: rgba(0, 0, 0, 0.05);
+        cursor: pointer;
+        text-align: center;
+        margin: 0px 5px;
+        align-self: center;
+        padding: 6px;
+    }
+    
+    .signup {
+        float: right;
+    }
+    
+    .showmobile {
+        display: none;
+    }
+    
+    @media screen and (max-width: 991px) {
+        .hidemobile {
+            visibility: hidden;
+            display: none !important;
+        }
+        .showmobile {
+            display: block !important;
+        }
+    }
+</style>

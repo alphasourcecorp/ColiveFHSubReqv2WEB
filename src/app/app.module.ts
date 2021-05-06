@@ -31,7 +31,10 @@ import { RequestviewComponent } from './requestview/requestview.component';
 import { AdminrequestviewComponent } from './adminrequestview/adminrequestview.component';
 import { SignupComponent } from './signup/signup.component';
 import { AboutusComponent } from './aboutus/aboutus.component';
-
+import { NavadminComponent } from './navadmin/navadmin.component';
+import { AdminheaderComponent } from './adminheader/adminheader.component';
+import { UsersignupComponent } from './usersignup/usersignup.component';
+import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/compiler/src/core';
 
 
 @NgModule({
@@ -58,7 +61,10 @@ import { AboutusComponent } from './aboutus/aboutus.component';
     RequestviewComponent,
     AdminrequestviewComponent,
     SignupComponent,
-    AboutusComponent
+    AboutusComponent,
+    NavadminComponent,
+    AdminheaderComponent,
+    UsersignupComponent
   ],
   imports: [
     BrowserModule,
@@ -73,5 +79,6 @@ import { AboutusComponent } from './aboutus/aboutus.component';
   ],
   providers: [DatePipe],
   bootstrap: [AppComponent]
+
 })
 export class AppModule { }

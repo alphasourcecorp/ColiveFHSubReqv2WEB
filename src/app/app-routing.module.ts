@@ -13,6 +13,7 @@ import { ScheduleComponent } from './schedule/schedule.component';
 import { SchedulelistComponent } from './schedulelist/schedulelist.component';
 import { SelectComponent } from './select/select.component';
 import { SignupComponent } from './signup/signup.component';
+import { UsersignupComponent } from './usersignup/usersignup.component';
 
 
 const routes: Routes = [
@@ -30,6 +31,7 @@ const routes: Routes = [
   { path: "admin", component: AdminComponent },
   { path:"adminrequestview",component:AdminrequestviewComponent},
   { path: "signup", component: SignupComponent },
+  { path: "usersignup", component: UsersignupComponent },
   { path: "aboutus", component: AboutusComponent },
   { path: "home", component: SelectComponent },
   { path: '**', redirectTo: '', pathMatch: 'full' },

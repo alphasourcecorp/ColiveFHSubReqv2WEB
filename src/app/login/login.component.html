@@ -37,6 +37,10 @@
                 LOGIN
               </a>
                         </div>
+                        <div class=" px-4 text-right">
+                            <a (click)="signup()" style="cursor: pointer;color: #f2006c;
+                            font-size: 18px;">Sign Up</a>
+                        </div>
 
                     </div>
                 </div>
@@ -48,3 +52,84 @@
     </div>
     <!-- /container -->
 </main>
+<div id="confirmsignup" style="background-color: #00000075;">
+    <main class="">
+        <div class="container margin_60_40">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="box_order_form">
+                        <div class="head text-center">
+                            <h3>Reset Password</h3>
+                        </div>
+                        <!-- /head -->
+                        <div class="form-group px-4 pt-2">
+                            <label>New Password*
+                                
+                            </label>
+                            <input class="form-control" onpaste="return false" [(ngModel)]="newPassword" placeholder="New Password" (focus)="onfocusfn(3)" (blur)="onblurfn(3)" />
+                        </div>
+
+                        <div class="form-group px-4">
+                            <label>Confirm Password*
+                                
+                            </label>
+                            <input class="form-control" type="password" onpaste="return false" [(ngModel)]="confirmPassword" placeholder="Confirm Password" (focus)="onfocusfn(4)" (blur)="onblurfn(4)" />
+
+                        </div>
+                        <div class="alert text-center">{{Validationerrornew}}</div>
+                        <div class="d-flex px-3">
+                            <a (click)="validatezip()" class="btn_1 gradient full-width" style="font-size: 12px;margin: 2px;">Change Password</a>
+
+                        </div>
+                        <div class="p-3">
+                            <b>Note* </b> : Password should contain only Numbers of 6 digits, Ex:345678
+                        </div>
+                        <div class="text-right p-2"> <a (click)="Closepassword()" style="cursor: pointer;"><b>Close</b></a></div>
+                    </div>
+                    <!-- /box_booking -->
+                </div>
+                <!-- /col -->
+            </div>
+            <!-- /row -->
+        </div>
+        <!-- /container -->
+    </main>
+
+</div>
+
+<style>
+    #confirmsignup {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 9999999;
+    }
+    
+    .toster {
+        color: #0f8d2c;
+        background-color: #d4edda;
+        border-color: #c3e6cb;
+        position: fixed;
+        padding: .75rem 1.25rem;
+        margin-bottom: 1rem;
+        border: 1px solid transparent;
+        border-radius: .25rem;
+        right: 0;
+        bottom: 0;
+        z-index: 9999999;
+        width: 300px;
+    }
+    
+    .closetost {
+        float: right;
+        font-size: 1.5rem;
+        font-weight: 700;
+        line-height: 1;
+        color: #000;
+        text-shadow: 0 1px 0 #fff;
+        opacity: .5;
+    }
+</style>

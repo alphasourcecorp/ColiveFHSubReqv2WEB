@@ -59,4 +59,10 @@ export class AppComponent implements OnInit {
   toTop(){
     window.scrollTo(0,0);
   }
+  Closetoast1(){
+    document.getElementById("toster").style.display = "none";
+  }
+  Closetoast2(){
+    document.getElementById("tostersignup").style.display = "none";
+  }
 }

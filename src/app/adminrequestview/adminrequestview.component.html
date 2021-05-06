@@ -1,31 +1,30 @@
 <!-- details of all request -->
-<app-header></app-header>
-<div (click)="gotorequestlist()" class="requestlist">
-</div>
+<app-adminheader></app-adminheader>
+
 <div class="list-group" *ngIf="request">
     <div class="list-group-item">
         <div class="container" style="padding-top: 10px; padding-bottom: 10px">
             <div class="row justify-content-center">
                 <div class="col-xl-12">
                     <div class="row box_order_form" style="margin-bottom: 0px !important;padding: 10px;">
-                        <div class="col d-flex" style="align-self: center">
-                            <span><img src="img/schedule/companyadmin.png" alt="thumb" class="lazy"
+                        <div class="col-md-3 d-flex" style="align-self: center">
+                            <span><img src="img/schedule/useradmin.png" alt="thumb" class="lazy"
                                     style="width: 35px; height: 35px; padding: 5px" /></span>
-                            <span style="align-self: center">{{ request.companyName }}</span>
+                            <span style="align-self: center">{{ request.subscriberName }}</span>
                         </div>
-                        <div class="col d-flex" style="align-self: center">
+                        <div class="col-md-3 d-flex" style="align-self: center">
                             <span>
                                 <img src="img/schedule/emailadmin.png" alt="thumb" class="lazy"
                                     style="width: 35px; height: 35px; padding: 5px" /></span>
                             <span style="align-self: center">{{ request.emailId }} </span>
                         </div>
-                        <div class="col d-flex" style="align-self: center">
+                        <div class="col-md-3 d-flex" style="align-self: center">
                             <span>
                                 <img src="img/schedule/calladmin.png" alt="thumb" class="lazy"
                                     style="width: 35px; height: 35px; padding: 5px" /></span>
                             <span style="align-self: center">{{ request.phoneNumber }}</span>
                         </div>
-                        <div class="col d-flex" style="align-self: center">
+                        <div class="col-md-3 d-flex" style="align-self: center">
                             <span *ngIf="request.status=='Request'">
                                 <img src="img/schedule/status_request.png" alt="thumb" class="lazy"
                                     style="width: 35px; height: 35px; padding: 5px" /></span>

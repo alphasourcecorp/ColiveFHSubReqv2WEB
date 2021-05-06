@@ -18,7 +18,7 @@
           "dishName": "SINGLE - Weekly Specials",
           "dishSubName": "",
           "saleAmount": 800,
-          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
+          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian - general,\nSouth Indian - general,\nGujarathi,\nRajasthani,\nBengali,\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
           "saleKgMg": " ",
           "calories": 0,
           "protein": 0,
@@ -46,7 +46,7 @@
           "dishName": "COUPLES - Weekly Specials",
           "dishSubName": "",
           "saleAmount": 1400,
-          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
+          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian - general,\nSouth Indian - general,\nGujarathi,\nRajasthani,\nBengali,\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
           "saleKgMg": " ",
           "calories": 0,
           "protein": 0,
@@ -74,7 +74,7 @@
           "dishName": "FAMILIES - Weekly Specials",
           "dishSubName": "",
           "saleAmount": 2200,
-          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
+          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian - general,\nSouth Indian - general,\nGujarathi,\nRajasthani,\nBengali,\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
           "saleKgMg": " ",
           "calories": 0,
           "protein": 0,
@@ -2446,7 +2446,7 @@
         {
           "dishId": "015",
           "dishImage": [
-            " "
+            "https://drive.google.com/thumbnail?id=1-LKTIM77HOFC6LWhnAjE4ghCW3_1-ISs "
           ],
           "chefName": " ",
           "dishName": "BANANA BEANS PORIYAL WRAP",
@@ -2710,7 +2710,7 @@
             "https://drive.google.com/thumbnail?id=1dMfwqeqXnX1UGTQu6j1bFdq3sWGbPPIS"
           ],
           "chefName": " ",
-          "dishName": "BISI BELE BATh",
+          "dishName": "BISI BELE BATH",
           "dishSubName": "TAMOTO CHUTNEY",
           "saleAmount": 50,
           "dishDescription": "Bisibele bathis a popular dish made with rice,lentils,mix veggeies and a special spice powder. ",
@@ -3304,7 +3304,7 @@
         {
           "dishId": "003",
           "dishImage": [
-            " "
+            "https://drive.google.com/thumbnail?id=1wBA4c9Zyw77mvCy_uXoSyht_fe-rsvrV "
           ],
           "chefName": " ",
           "dishName": "TURAI GREEN PEA MASALA",
@@ -3388,7 +3388,7 @@
         {
           "dishId": "006",
           "dishImage": [
-            " "
+            "https://drive.google.com/thumbnail?id=1W1vTzWCGMneyH5s2sGZivi6vwkkYmGgq "
           ],
           "chefName": " ",
           "dishName": "SUEZ MILONI",
@@ -3500,7 +3500,7 @@
         {
           "dishId": "010",
           "dishImage": [
-            " "
+            "https://drive.google.com/thumbnail?id=1xXSqsyW7eMuMI5FFKE9dqOBnJPsLan8U "
           ],
           "chefName": " ",
           "dishName": "ALOO SOABEAN",
@@ -3528,7 +3528,7 @@
         {
           "dishId": "011",
           "dishImage": [
-            " "
+            "https://drive.google.com/thumbnail?id=1vvWBvly8P6FV0xygmMty7IHMAu7KIVBg "
           ],
           "chefName": " ",
           "dishName": "MIX VEG POSTO",
@@ -3556,7 +3556,7 @@
         {
           "dishId": "012",
           "dishImage": [
-            " "
+            "https://drive.google.com/thumbnail?id=1zgonP4C_E4d4cHDlb27HqPvGJFggoQQp "
           ],
           "chefName": " ",
           "dishName": "SURAN MASALA CURRY",
@@ -4060,7 +4060,7 @@
         {
           "dishId": "030",
           "dishImage": [
-            ""
+            "https://drive.google.com/thumbnail?id=131qXPhFZFQJ4kCRKImtv1KhhFcKURbPt"
           ],
           "chefName": " ",
           "dishName": "WATANA KORMA",
@@ -4144,7 +4144,7 @@
         {
           "dishId": "033",
           "dishImage": [
-            " "
+            "https://drive.google.com/thumbnail?id=1pji215192674dO-iSO1meOrN0S2b3hma "
           ],
           "chefName": " ",
           "dishName": "TIKRI PAKWAN",
@@ -4327,7 +4327,7 @@
           "dishName": "SINGLE HEALTHY MENU",
           "dishSubName": " ",
           "saleAmount": 1000,
-          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
+          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian - general,\nSouth Indian - general,\nGujarathi,\nRajasthani,\nBengali,\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
           "saleKgMg": "",
           "calories": 0,
           "protein": 0,
@@ -4355,7 +4355,7 @@
           "dishName": "COUPLES HEALTHY MENU",
           "dishSubName": " ",
           "saleAmount": 1800,
-          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
+          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian - general,\nSouth Indian - general,\nGujarathi,\nRajasthani,\nBengali,\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
           "saleKgMg": "",
           "calories": 0,
           "protein": 0,
@@ -4383,7 +4383,7 @@
           "dishName": "FAMILIES HEALTHY MENU",
           "dishSubName": " ",
           "saleAmount": 3200,
-          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian general\nSouth Indian general\nGujarathi\nRajasthani\nBengali\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
+          "dishDescription": "In this meal plan, we shuffle the following dish items from various states for everyday meals.\nNorth Indian - general,\nSouth Indian - general,\nGujarathi,\nRajasthani,\nBengali,\nMarathi\n\nWhen the subscription starts, we shall send detailed dish items for the week.",
           "saleKgMg": "",
           "calories": 0,
           "protein": 0,

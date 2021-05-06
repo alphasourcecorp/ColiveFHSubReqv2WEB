@@ -46,7 +46,7 @@ export class AdminComponent implements OnInit {
     this.aprrove = false;
     this.requestList = this.rawDatalist;
     this.requestList = this.requestList.filter(res => {
-      return res.companyName.toLowerCase().includes(company.toLowerCase())
+      return res.subscriberName.toLowerCase().includes(company.toLowerCase())
     })
     this.closeNav();
   }
@@ -95,7 +95,7 @@ export class AdminComponent implements OnInit {
     // this.aprrove = false;
     // this.requestList = this.rawDatalist;
     this.requestList = this.requestList.filter(res => {
-      return res.companyName.toLowerCase().includes(this.searchQuery.toLowerCase()) || res.requestId.toLowerCase().includes(this.searchQuery.toLowerCase())
+      return res.subscriberName.toLowerCase().includes(this.searchQuery.toLowerCase()) || res.requestId.toLowerCase().includes(this.searchQuery.toLowerCase())
     })
   }
   Onallclick() {
@@ -211,7 +211,7 @@ export class AdminComponent implements OnInit {
       if (Response.isSuccess == true) {
        this.companydata=Response.data;
          this.companydata.forEach(element => {
-          this.rawmenuDATA.push(element.companyName)
+          this.rawmenuDATA.push(element.subscriberName)
         });
         this.rawmenuDATA = [...new Set(this.rawmenuDATA)];
         this.menuDataList=this.rawmenuDATA;
