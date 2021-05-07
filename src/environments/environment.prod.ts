@@ -12,7 +12,7 @@ export const environment = {
   getScheduleUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/Scheduling/GetSchedulesByID",
   ScheduleListUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/Scheduling/GetSchedulesByID",
   DeleteScheduleUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/Scheduling/DeleteSchedule",
-  RequestAdminListUrl:"/https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/SubscriptionRequest/GetAllRequestsListBy",
+  RequestAdminListUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/SubscriptionRequest/GetAllRequestsListBy",
   EditScheduleUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/Scheduling/UpdateSchedule",
   updaterequestlistUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/SubscriptionRequest/UpdateRequest",
   DeleterequestlistUrl:"https://colivefoodyhivesubscriptionrequest-v2.azurewebsites.net/api/SubscriptionRequest/DeleteRequest",
