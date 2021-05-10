@@ -135,7 +135,12 @@ export class HomeComponent implements OnInit {
   openabout() {
     this.router.navigate(["aboutus"]);
   }
-
+  openmeal() {
+    this.router.navigate(["subscribemeals"]);
+  }
+  openhome() {
+    this.router.navigate(["home"]);
+  }
 
   handleQuantity(units: number, x: any) {
     var y = this.value[x];

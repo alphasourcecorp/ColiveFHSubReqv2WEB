@@ -1,4 +1,80 @@
-<app-navigation [meal]="true"> </app-navigation>
+<!--<nav class="secondary_nav" style="position: fixed;top: 0;z-index:6000">-->
+<nav class="secondary_nav hidemobilemenu " style="position: fixed;top: 0;z-index:6000">
+    <div class="container " style="display: flex;    justify-content: space-between;">
+        <ul id="secondary_nav" style="display: flex;
+            align-items: center;">
+            <a class="list-group-item list-group-item-action" (click)="openNav()"><img src="img/menuicon.png" alt="" style="width:30px;height:30px;cursor: pointer;margin: 0px 10px;"></a>
+            <a href="https://www.colive.com/" target="_blank" style="cursor: pointer;"><img height="50px" src="img/images/logo-colive.png"></a>
+
+            <!---- <li><a class="list-group-item list-group-item-action" onclick="openNav()">MENU</a></li>-->
+            <!--<li><a class="list-group-item list-group-item-action" href="#">WhatsApp: +91 8147189500</a></li>-->
+            <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openhome()">Home</a></li>
+
+            <li><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openabout()">About Us</a></li>
+            <li><a class="list-group-item list-group-item-action mover selected" style="cursor: pointer;" (click)="openmeal()">Subscribe Meals</a></li>
+            <li><a class="list-group-item list-group-item-action mover" target="_blank" href="https://api.whatsapp.com/send?phone=918147189500">WhatsApp: +91 8147189500</a></li>
+        </ul>
+        <app-cartvalue style="float: right;"></app-cartvalue>
+    </div>
+    <span></span>
+</nav>
+<nav class="secondary_nav showmobile" style="position: fixed;top: 0;z-index:6000;display: none;">
+    <div class="" style="display: flex;    justify-content: space-between;">
+        <ul id="secondary_nav" style="display: flex;
+            align-items: center;">
+            <a class="list-group-item list-group-item-action" (click)="openNav()"><img src="img/menuicon.png" alt="" style="width:30px;height:30px;cursor: pointer;margin: 0px 3px;"></a>
+            <a href="https://www.colive.com/" target="_blank" style="cursor: pointer;"><img height="40px" src="img/images/logo-colive.png"></a>
+
+            <!-- <li><a class="list-group-item list-group-item-action" onclick="openNav()">MENU</a></li> -->
+            <!--<li><a class="list-group-item list-group-item-action" href="#">WhatsApp: +91 8147189500</a></li>-->
+            <li style="margin-right: 2px;"><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openhome()">Home</a></li>
+
+            <li style="margin-right: 2px;"><a class="list-group-item list-group-item-action mover" style="cursor: pointer;" (click)="openabout()">About Us</a></li>
+            <li style="margin-right: 2px;"><a class="list-group-item list-group-item-action mover selected" style="cursor: pointer;padding: 5px 5px;" (click)="openmeal()">Subscribe Meals</a></li>
+
+            <a class="list-group-item list-group-item-action " target="_blank" href="https://api.whatsapp.com/send?phone=918147189500"><img style="height: 30px;" src="img/images/whts.png"></a>
+
+        </ul>
+        <!-- <app-cartvalue [request]="request" style="float: right;"></app-cartvalue> -->
+        <div class="show">
+            <a class="" data-toggle="dropdown" aria-haspopup="true">
+                <img style="height: 40px;
+                    padding: 5px;" src="img/images/dots.png">
+            </a>
+
+            <div class="dropdown-menu" style="text-align: center;">
+                <li><a class=" " style="cursor: pointer;" (click)="openhome()">Home</a></li>
+                <li><a class="  " style="cursor: pointer;" (click)="openabout()">About Us</a></li>
+                <li><a class="selected " style="cursor: pointer;" (click)="openmeal()">Subscribe Meals</a></li>
+                <app-cartvalue></app-cartvalue>
+            </div>
+        </div>
+    </div>
+    <span></span>
+</nav>
+<!-- /secondary_nav -->
+<div id="mySidenav" class="sidenav">
+    <!-- <a><img src="img/logo-white.png" width="162" height="35" alt="" /></a> -->
+    <a href="https://www.colive.com/" target="_blank" style="cursor: pointer;"><img height="50px" src="img/images/logo-colive.png"></a>
+    <a href="javascript:void(0)" class="closebtn" (click)="closeNav()">&times;</a>
+    <div class="container my-2" style="width: auto;color: white;">
+        <div class="my-2">
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="breakfast"
+                    (change)="onCheckboxChangeBreakfast()"  class="m-1" type="checkbox" value="">Breakfast</label>
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="lunch"
+                    (change)="onCheckboxChangelunch()" class="m-1"type="checkbox" value="">Lunch</label>
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="dinner"
+                    (change)="onCheckboxChangeDinner()"class="m-1" type="checkbox" value="">Dinner</label>
+            <label class="checkbox-inline"><input  checked="unchecked" [(ngModel)]="snacks"
+                    (change)="onCheckboxChangesnacks()" class="m-1" type="checkbox" value="">Snacks</label>
+        </div>
+        <input (input)="search()" [(ngModel)]="query" class="form-control" type="text" placeholder="Search" class="form-control" style="width: 100%;">
+    </div>
+
+    <a (click)="closeNav()" [routerLink]="['/subscribemeals']" [fragment]="'section-def-' + menuCategoryInfo.id" *ngFor="let menuCategoryInfo of newsub; let count = index">
+        {{ menuCategoryInfo.categoryName }} ({{ menuCategoryInfo.noOfDishes }})
+      </a>
+</div>
 <div style="padding-top: 70px"></div>
 <app-hero-main></app-hero-main>
 <div class="container  m_detail summary-content">
@@ -231,6 +307,24 @@
 
 <!-- /container -->
 <style>
+    @media only screen and (max-width: 900px) {
+        .hidemobilemenu {
+            display: none;
+        }
+        .showmobile {
+            display: block !important;
+        }
+        .sidenav a {
+            font-size: 16px !important;
+        }
+        .selected {
+            display: block !important;
+        }
+        .mover {
+            display: none;
+        }
+    }
+    
     @media screen and (max-width: 600px) {
         .hidemobile {
             visibility: hidden;
@@ -322,5 +416,20 @@
     .modal-header {
         display: -ms-flexbox;
         display: block;
+    }
+    
+    .selected {
+        background-color: #fd3601 !important;
+        color: white;
+    }
+    
+    .selected:hover {
+        background-color: #fd3601 !important;
+        color: white;
+    }
+    
+    .mover:hover {
+        background-color: #fd3601 !important;
+        color: white;
     }
 </style>
